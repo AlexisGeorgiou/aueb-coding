@@ -12,4 +12,4 @@ exclusion, deadlocks and more. Had to do one distributed system of a tiktok like
 
 Database Systems Design:
 
-Software Engineering:
+Software Engineering: Requirements, Use cases, UML diagrams, Domain Modeling, Sequence diagrams, Use case analysis, requirements specifications, architecture, design, junit testing, patterns and construction. Had to deliver 4 exercises related to software analysis and some coding in Java.
