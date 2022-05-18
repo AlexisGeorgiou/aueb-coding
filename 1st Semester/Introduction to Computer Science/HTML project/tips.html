@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  background-color: grey;
+}
+	/* Top navigation style */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Link styles */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+/* Link hover styles */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Current link style */
+.topnav a.active {
+    background-color: #fab30b;
+    color: white;
+}
+</style>
+<head>
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="favicon-16.png"/>
+  <!-- Favicon -->
+	<meta charset=“UTF-8”>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>FlexiCam</title>
+
+  <style>
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-image {
+  /* Full height */
+  height: 100%; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Images used */
+.img1 { background-image: url("IMG_5707.PNG"); }
+.img2 { background-image: url("IMG_5712.jpg"); }
+.img3 { background-image: url("IMG_5706.PNG"); }
+.img4 { background-image: url("IMG_5745.PNG"); }
+.img5 { background-image: url("IMG_5746.PNG"); }
+.img6 { background-image: url("IMG_5747.PNG"); }
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  font-size: 80px;
+  border: 10px solid #f1f1f1;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+	<div class="topnav">
+  		<a href="index.html">Home</a>
+  		<a href="reviews.html">Reviews</a>
+  		<a href="products.html">Products</a>
+  		<a href="contact.html">Contact</a>
+  		<a class="active" href="tips.html">Credits</a>
+	</div>
+
+<div class="bg-image img1"></div>
+<div class="bg-image img2"></div>
+<div class="bg-image img3"></div>
+<div class="bg-image img4"></div>
+<div class="bg-image img5"></div>
+<div class="bg-image img6"></div>
+
+<div class="bg-text"> Thank You! </div>
+
+  
+	<center> <a href="index.html"> <img src="logo.png" style="width: 100px;height: 100px"> </a> </center>
+  <p> <center><font face="arial" size="2" color="white"> Copyright &copy; 2018 FlexiCam USA, Inc. All rights reserved. </font> </center> </p>
+
+</body>
+</html>
