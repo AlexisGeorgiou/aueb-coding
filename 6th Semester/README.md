@@ -5,7 +5,7 @@ Topics in Discrete Mathematics: Theoretical course on Graph theory. Trees, Optim
 trees, Huffman’s algorithm, Paths and distances, Connectivity and construction of reliable communication networks,
 Hamilton cycles, The traveling salesman problem, Euler trails, The Chinese postman problem and more topics related to graph theory. 
 
-Decision and Game Theory:
+Decision and Game Theory: probabilities, Decision problem, Decision trees, Bayes' theorem, Utility function determination, Competitive decisions, game trees. Two player games, zero and nonzero sum, Applications to auctions. Had to deliver a mathematical exercise and a programming project with a voting game and equilibriums.
 
 Distributed Systems:
 
