@@ -1,0 +1,6 @@
+цеыяциоу акениос-кафаяос - P3180027
+йытсгс-памайайгс басикеиос-ейтыя - P3180094
+Endpoint: mcdatabase.csureli1un4e.us-east-1.rds.amazonaws.com
+Username: examiner
+Password: vasvas2020
+Database: mcdatabase
