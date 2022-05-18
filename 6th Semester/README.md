@@ -7,7 +7,8 @@ Hamilton cycles, The traveling salesman problem, Euler trails, The Chinese postm
 
 Decision and Game Theory: probabilities, Decision problem, Decision trees, Bayes' theorem, Utility function determination, Competitive decisions, game trees. Two player games, zero and nonzero sum, Applications to auctions. Had to deliver a mathematical exercise and a programming project with a voting game and equilibriums.
 
-Distributed Systems:
+Distributed Systems: non-centralized systems, the client-server model. Event ordering and mutual
+exclusion, deadlocks and more. Had to do one distributed system of a tiktok like application with a group of classmates. We had to make the server transmit informaiton between clients and build a UI on Android Studio.
 
 Database Systems Design:
 
