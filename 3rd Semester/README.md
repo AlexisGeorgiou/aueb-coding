@@ -4,6 +4,6 @@ Data Structures: Arrays, union-find, lists, algorithms, sorting methods, trees, 
 
 Computer Programming in C++: Data types, Strings, Files, Functions, Classes, Libraries, Namespaces, Operators, Constructors, Inheritance, Templates and more concepts of the language. Had to complete two big projects.
 
-Computational Mathematics:
+Computational Mathematics: Errors and computer arithmeti, Algorithms and convergence. Horner’s method, differences and linear operators, polynomial interpolation, differentiation and integration., Matrix computations, differential equations, Numpy and more
 
 
