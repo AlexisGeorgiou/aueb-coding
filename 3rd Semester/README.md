@@ -2,7 +2,7 @@ Computer Systems Organization: Logic, Arithmetics, Bits, Assembly MIPS and memor
 
 Data Structures: Arrays, union-find, lists, algorithms, sorting methods, trees, queues, b-trees, hashing and more. 
 
-Computer Programming in C++:
+Computer Programming in C++: Data types, Strings, Files, Functions, Classes, Libraries, Namespaces, Operators, Constructors, Inheritance, Templates and more concepts of the language. Had to complete two big projects.
 
 Computational Mathematics:
 
