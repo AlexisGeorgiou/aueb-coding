@@ -8,4 +8,7 @@ Logic: Theoretical course in mathematics behind logic.
  
 Statistics in Informatics: Single variable, Producing data, inference, estimators, regression, anova, maximum likelihood and more. Had to deliver 4 exercises related to statistics in R.
  
-Artificial Intelligence:
+Artificial Intelligence: Turing test, Problem-solving by search: breadth/depth-first, A*, hill climbing, beam search, simulated annealing, genetic algorithms, MiniMax, alpha-beta pruning, Machine learning, k-nearest neighbors, k-means, Naïve Bayes, entropy, feature selection, overfitting, ID3,
+linear regression, gradient descent, logistic regression, Perceptron, neural networks, back-propagation and more. Had to do two big group projects.
+In the first project we had to create an othello game and make an AI opponent, we used Java for this.
+In the second project we had to implement 3 AI algorithms, (Bayes, ID3, logistic regression). We had train data for negative and positive reviews and we had to categorize the test data reviews.
