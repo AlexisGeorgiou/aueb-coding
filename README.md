@@ -1,1 +1,4 @@
-In this repository, I posted all the coding projects that was assigned during my bachelor Computer Science degree.
+In this repository, you can find all the coding projects that were assigned
+during AUEB Computer Science bachelor degree.
+Not every course in the program had coding assignments.
+
