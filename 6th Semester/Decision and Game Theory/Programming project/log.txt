@@ -1,0 +1,4324 @@
+Running file Plurality_1
+===================
+Got equilibrium at turn:  2
+Voted for:  [7, 1, 6, 1, 7]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 0], [5, 0], [6, 1], [7, 2]]
+
+Running file Plurality_2
+===================
+Got equilibrium at turn:  3
+Voted for:  [5, 2, 5, 5, 2]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 0], [5, 3]]
+
+Running file Plurality_3
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 4, 4, 4, 6]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 3], [5, 0], [6, 1], [7, 0]]
+
+Running file Plurality_4
+===================
+Got equilibrium at turn:  4
+Voted for:  [3, 3, 3, 3, 5, 5, 5, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 4], [4, 0], [5, 4], [6, 0]]
+
+Running file Plurality_5
+===================
+Voted for:  [1, 3, 2, 4, 2, 3]
+Leaderboarder:  [[1, 1], [2, 2], [3, 2], [4, 1], [5, 0], [6, 0], [7, 0]]
+Turns:  500
+
+Running file Plurality_6
+===================
+Got equilibrium at turn:  5
+Voted for:  [5, 5, 5, 4, 4, 5, 4, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 4], [5, 4], [6, 0]]
+
+Running file Plurality_7
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 2, 3, 2, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 1], [4, 1], [5, 0]]
+
+Running file Plurality_8
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 6, 1, 5, 6]
+Leaderboarder:  [[1, 1], [2, 0], [3, 0], [4, 0], [5, 1], [6, 3], [7, 0]]
+
+Running file Plurality_9
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 4, 6, 4, 7, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 3], [5, 1], [6, 1], [7, 1]]
+
+Running file Plurality_10
+===================
+Got equilibrium at turn:  6
+Voted for:  [2, 2, 1, 1, 1, 2, 1, 2]
+Leaderboarder:  [[1, 4], [2, 4], [3, 0], [4, 0], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_11
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 5, 2, 3, 5, 4, 5, 5]
+Leaderboarder:  [[1, 1], [2, 1], [3, 1], [4, 1], [5, 4]]
+
+Running file Plurality_12
+===================
+Voted for:  [3, 3, 4, 1, 4, 5]
+Leaderboarder:  [[1, 1], [2, 0], [3, 2], [4, 2], [5, 1], [6, 0]]
+Turns:  500
+
+Running file Plurality_13
+===================
+Voted for:  [2, 5, 2, 6, 3, 3, 1, 1]
+Leaderboarder:  [[1, 2], [2, 2], [3, 2], [4, 0], [5, 1], [6, 1]]
+Turns:  500
+
+Running file Plurality_14
+===================
+Got equilibrium at turn:  5
+Voted for:  [1, 1, 3, 3, 1, 1, 3, 3]
+Leaderboarder:  [[1, 4], [2, 0], [3, 4], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_15
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 4, 2, 5, 2, 4, 4]
+Leaderboarder:  [[1, 1], [2, 2], [3, 0], [4, 3], [5, 1]]
+
+Running file Plurality_16
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 1, 1, 1, 3, 3]
+Leaderboarder:  [[1, 3], [2, 0], [3, 3], [4, 0], [5, 0]]
+
+Running file Plurality_17
+===================
+Voted for:  [6, 2, 1, 6, 4, 1, 6]
+Leaderboarder:  [[1, 2], [2, 1], [3, 0], [4, 1], [5, 0], [6, 3], [7, 0]]
+Turns:  500
+
+Running file Plurality_18
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 2, 5, 2, 5, 3, 5]
+Leaderboarder:  [[1, 0], [2, 2], [3, 1], [4, 0], [5, 4], [6, 0], [7, 0]]
+
+Running file Plurality_19
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 1, 1, 1, 4]
+Leaderboarder:  [[1, 3], [2, 1], [3, 0], [4, 1], [5, 0]]
+
+Running file Plurality_20
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 5, 1, 5, 5, 5]
+Leaderboarder:  [[1, 1], [2, 0], [3, 1], [4, 0], [5, 4]]
+
+Running file Plurality_21
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 6, 7, 4, 3, 3, 3, 4]
+Leaderboarder:  [[1, 1], [2, 0], [3, 3], [4, 2], [5, 0], [6, 1], [7, 1]]
+
+Running file Plurality_22
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 5, 5, 5, 4, 3, 5, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 1], [5, 4]]
+
+Running file Plurality_23
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 2, 1, 1, 1, 2]
+Leaderboarder:  [[1, 3], [2, 2], [3, 0], [4, 0], [5, 1]]
+
+Running file Plurality_24
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 2, 2, 2, 6, 2, 3]
+Leaderboarder:  [[1, 0], [2, 4], [3, 2], [4, 0], [5, 0], [6, 1]]
+
+Running file Plurality_25
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 6, 6, 6, 2, 6, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 0], [5, 0], [6, 4]]
+
+Running file Plurality_26
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 2, 1, 1, 1, 2]
+Leaderboarder:  [[1, 3], [2, 2], [3, 1], [4, 0], [5, 0]]
+
+Running file Plurality_27
+===================
+Voted for:  [4, 5, 4, 6, 4, 5, 5, 6]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 3], [5, 3], [6, 2]]
+Turns:  500
+
+Running file Plurality_28
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 2, 1, 2, 1, 2, 3, 3]
+Leaderboarder:  [[1, 3], [2, 3], [3, 2], [4, 0], [5, 0]]
+
+Running file Plurality_29
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 3, 3, 3, 3, 6]
+Leaderboarder:  [[1, 0], [2, 0], [3, 5], [4, 0], [5, 0], [6, 1]]
+
+Running file Plurality_30
+===================
+Got equilibrium at turn:  5
+Voted for:  [2, 2, 1, 1, 2, 2, 1]
+Leaderboarder:  [[1, 3], [2, 4], [3, 0], [4, 0], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_31
+===================
+Got equilibrium at turn:  4
+Voted for:  [2, 2, 4, 2, 1, 1, 2, 1]
+Leaderboarder:  [[1, 3], [2, 4], [3, 0], [4, 1], [5, 0]]
+
+Running file Plurality_32
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 3, 3, 2, 5, 7, 3]
+Leaderboarder:  [[1, 0], [2, 1], [3, 4], [4, 0], [5, 1], [6, 0], [7, 1]]
+
+Running file Plurality_33
+===================
+Got equilibrium at turn:  5
+Voted for:  [3, 3, 2, 2, 3, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 3], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_34
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 5, 3, 1, 1]
+Leaderboarder:  [[1, 2], [2, 1], [3, 1], [4, 0], [5, 1]]
+
+Running file Plurality_35
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 5, 5, 5, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 1], [5, 4]]
+
+Running file Plurality_36
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 4, 1, 3, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 1], [5, 1], [6, 0]]
+
+Running file Plurality_37
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 3, 4, 1, 3, 4]
+Leaderboarder:  [[1, 1], [2, 0], [3, 2], [4, 3], [5, 0], [6, 0]]
+
+Running file Plurality_38
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 3, 5, 5, 2, 4, 1, 2]
+Leaderboarder:  [[1, 1], [2, 3], [3, 1], [4, 1], [5, 2]]
+
+Running file Plurality_39
+===================
+Got equilibrium at turn:  4
+Voted for:  [2, 4, 2, 4, 4, 4, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 4], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_40
+===================
+Voted for:  [1, 4, 2, 4, 6]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 2], [5, 0], [6, 1]]
+Turns:  500
+
+Running file Plurality_41
+===================
+Got equilibrium at turn:  4
+Voted for:  [1, 6, 1, 6, 1, 6, 6]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 0], [5, 0], [6, 4]]
+
+Running file Plurality_42
+===================
+Voted for:  [4, 1, 4, 1, 3, 3, 5]
+Leaderboarder:  [[1, 2], [2, 0], [3, 2], [4, 2], [5, 1]]
+Turns:  500
+
+Running file Plurality_43
+===================
+Got equilibrium at turn:  4
+Voted for:  [1, 2, 2, 2, 1]
+Leaderboarder:  [[1, 2], [2, 3], [3, 0], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_44
+===================
+Got equilibrium at turn:  2
+Voted for:  [1, 1, 6, 5, 6, 1, 6]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 0], [5, 1], [6, 3], [7, 0]]
+
+Running file Plurality_45
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 3, 2, 2, 5, 3]
+Leaderboarder:  [[1, 0], [2, 2], [3, 3], [4, 0], [5, 1], [6, 0]]
+
+Running file Plurality_46
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 4, 3, 4, 2]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 3], [5, 0]]
+
+Running file Plurality_47
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 1, 4, 1, 4, 5, 4, 4]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 4], [5, 1], [6, 0], [7, 0]]
+
+Running file Plurality_48
+===================
+Voted for:  [2, 4, 6, 6, 3, 5]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 1], [5, 1], [6, 2], [7, 0]]
+Turns:  500
+
+Running file Plurality_49
+===================
+Got equilibrium at turn:  4
+Voted for:  [1, 3, 3, 1, 1, 3, 3]
+Leaderboarder:  [[1, 3], [2, 0], [3, 4], [4, 0], [5, 0]]
+
+Running file Plurality_50
+===================
+Got equilibrium at turn:  3
+Voted for:  [6, 3, 3, 3, 6, 6]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 0], [6, 3]]
+
+Running file Plurality_51
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 3, 2, 2, 3, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 3], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_52
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 4, 5, 1, 3, 1, 2]
+Leaderboarder:  [[1, 2], [2, 1], [3, 1], [4, 1], [5, 1], [6, 1]]
+
+Running file Plurality_53
+===================
+Got equilibrium at turn:  3
+Voted for:  [6, 6, 2, 2, 6, 2, 2, 6]
+Leaderboarder:  [[1, 0], [2, 4], [3, 0], [4, 0], [5, 0], [6, 4]]
+
+Running file Plurality_54
+===================
+Got equilibrium at turn:  4
+Voted for:  [2, 2, 1, 2, 2, 4, 1, 1]
+Leaderboarder:  [[1, 3], [2, 4], [3, 0], [4, 1], [5, 0]]
+
+Running file Plurality_55
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 1, 6, 7, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 1], [5, 0], [6, 1], [7, 1]]
+
+Running file Plurality_56
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 5, 2, 4, 5, 4]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 3], [5, 2]]
+
+Running file Plurality_57
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 2, 1, 3, 5, 1]
+Leaderboarder:  [[1, 2], [2, 1], [3, 1], [4, 1], [5, 1]]
+
+Running file Plurality_58
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 4, 4, 3, 6, 7, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 1], [4, 3], [5, 1], [6, 1], [7, 1]]
+
+Running file Plurality_59
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 3, 7, 2, 2, 3]
+Leaderboarder:  [[1, 0], [2, 2], [3, 3], [4, 0], [5, 0], [6, 0], [7, 1]]
+
+Running file Plurality_60
+===================
+Got equilibrium at turn:  4
+Voted for:  [1, 1, 3, 3, 1, 3, 3, 5]
+Leaderboarder:  [[1, 3], [2, 0], [3, 4], [4, 0], [5, 1]]
+
+Running file Plurality_61
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 2, 2, 1, 2, 4, 7]
+Leaderboarder:  [[1, 1], [2, 3], [3, 0], [4, 2], [5, 0], [6, 0], [7, 1]]
+
+Running file Plurality_62
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 1, 4, 1, 5]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 1], [5, 1]]
+
+Running file Plurality_63
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 3, 1, 5, 1, 5]
+Leaderboarder:  [[1, 3], [2, 0], [3, 1], [4, 0], [5, 2], [6, 0]]
+
+Running file Plurality_64
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 1, 1, 2, 1]
+Leaderboarder:  [[1, 3], [2, 1], [3, 1], [4, 0], [5, 0]]
+
+Running file Plurality_65
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 5, 5, 2, 2, 5]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 0], [5, 3], [6, 0], [7, 0]]
+
+Running file Plurality_66
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 6, 3, 1, 1, 6, 6, 5]
+Leaderboarder:  [[1, 3], [2, 0], [3, 1], [4, 0], [5, 1], [6, 3]]
+
+Running file Plurality_67
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 6, 1, 6, 4, 6, 6]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 1], [5, 0], [6, 4]]
+
+Running file Plurality_68
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 5, 3, 2, 3]
+Leaderboarder:  [[1, 0], [2, 3], [3, 2], [4, 0], [5, 1]]
+
+Running file Plurality_69
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 7, 5, 5, 6, 4, 5, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 3], [5, 3], [6, 1], [7, 1]]
+
+Running file Plurality_70
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 3, 1, 4, 3, 1, 7]
+Leaderboarder:  [[1, 2], [2, 0], [3, 3], [4, 1], [5, 0], [6, 0], [7, 1]]
+
+Running file Plurality_71
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 5, 3, 3, 2, 2, 1]
+Leaderboarder:  [[1, 1], [2, 2], [3, 3], [4, 0], [5, 1]]
+
+Running file Plurality_72
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 3, 4, 4, 3, 5, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 3], [5, 1]]
+
+Running file Plurality_73
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 4, 4, 4, 3, 4, 5, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 4], [5, 1]]
+
+Running file Plurality_74
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 1, 5, 5, 3]
+Leaderboarder:  [[1, 1], [2, 0], [3, 1], [4, 0], [5, 3], [6, 0]]
+
+Running file Plurality_75
+===================
+Got equilibrium at turn:  2
+Voted for:  [6, 6, 3, 3, 6, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 1], [5, 0], [6, 3], [7, 0]]
+
+Running file Plurality_76
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 1, 5, 5, 2, 1, 1, 3]
+Leaderboarder:  [[1, 3], [2, 1], [3, 1], [4, 1], [5, 2]]
+
+Running file Plurality_77
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 1, 6, 4, 6, 2, 2, 2]
+Leaderboarder:  [[1, 1], [2, 3], [3, 0], [4, 2], [5, 0], [6, 2]]
+
+Running file Plurality_78
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 6, 2, 2, 6]
+Leaderboarder:  [[1, 0], [2, 2], [3, 1], [4, 0], [5, 0], [6, 2]]
+
+Running file Plurality_79
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 2, 3, 2, 5, 4, 2, 2]
+Leaderboarder:  [[1, 0], [2, 4], [3, 1], [4, 2], [5, 1]]
+
+Running file Plurality_80
+===================
+Got equilibrium at turn:  2
+Voted for:  [5, 5, 5, 1, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 0], [5, 3], [6, 0], [7, 0]]
+
+Running file Plurality_81
+===================
+Got equilibrium at turn:  3
+Voted for:  [7, 7, 3, 5, 3, 7]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 0], [5, 1], [6, 0], [7, 3]]
+
+Running file Plurality_82
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 5, 5, 5, 5, 4, 4, 1]
+Leaderboarder:  [[1, 1], [2, 0], [3, 0], [4, 2], [5, 5]]
+
+Running file Plurality_83
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 3, 4, 3, 1, 3]
+Leaderboarder:  [[1, 1], [2, 1], [3, 3], [4, 1], [5, 0], [6, 0]]
+
+Running file Plurality_84
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 4, 5, 5, 2, 1]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 1], [5, 3]]
+
+Running file Plurality_85
+===================
+Voted for:  [1, 2, 5, 4, 5]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 1], [5, 2], [6, 0], [7, 0]]
+Turns:  500
+
+Running file Plurality_86
+===================
+Got equilibrium at turn:  3
+Voted for:  [4, 4, 3, 4, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 3], [5, 0]]
+
+Running file Plurality_87
+===================
+Voted for:  [4, 5, 2, 4, 2, 3, 5]
+Leaderboarder:  [[1, 0], [2, 2], [3, 1], [4, 2], [5, 2]]
+Turns:  500
+
+Running file Plurality_88
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 4, 2, 2, 2, 1]
+Leaderboarder:  [[1, 2], [2, 3], [3, 0], [4, 1], [5, 0]]
+
+Running file Plurality_89
+===================
+Voted for:  [3, 3, 4, 2, 2, 1]
+Leaderboarder:  [[1, 1], [2, 2], [3, 2], [4, 1], [5, 0]]
+Turns:  500
+
+Running file Plurality_90
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 1, 1, 3, 2]
+Leaderboarder:  [[1, 3], [2, 1], [3, 1], [4, 0], [5, 0]]
+
+Running file Plurality_91
+===================
+Got equilibrium at turn:  4
+Voted for:  [5, 1, 1, 1, 5, 5, 5, 4]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 1], [5, 4], [6, 0]]
+
+Running file Plurality_92
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 7, 7, 3, 3, 7, 7]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 0], [6, 0], [7, 4]]
+
+Running file Plurality_93
+===================
+Got equilibrium at turn:  4
+Voted for:  [4, 2, 4, 2, 4, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 3], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_94
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 5, 3, 1, 5, 5, 2]
+Leaderboarder:  [[1, 1], [2, 1], [3, 1], [4, 1], [5, 3], [6, 0]]
+
+Running file Plurality_95
+===================
+Got equilibrium at turn:  3
+Voted for:  [6, 4, 4, 6, 4, 6, 4, 6]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 4], [5, 0], [6, 4], [7, 0]]
+
+Running file Plurality_96
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 4, 7, 5]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 1], [5, 1], [6, 0], [7, 1]]
+
+Running file Plurality_97
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 1, 4, 5, 1, 1, 6, 6]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 2], [5, 1], [6, 2]]
+
+Running file Plurality_98
+===================
+Voted for:  [5, 1, 1, 5, 7, 7]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 0], [5, 2], [6, 0], [7, 2]]
+Turns:  500
+
+Running file Plurality_99
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 3, 1, 3, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 3], [4, 0], [5, 0]]
+
+Running file Plurality_100
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 4, 3, 2, 4]
+Leaderboarder:  [[1, 0], [2, 2], [3, 1], [4, 2], [5, 0]]
+
+Running file Plurality_101
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 6, 6, 4, 6]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 1], [5, 0], [6, 3]]
+
+Running file Plurality_102
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 1, 1, 4, 2, 1]
+Leaderboarder:  [[1, 3], [2, 3], [3, 0], [4, 1], [5, 0]]
+
+Running file Plurality_103
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 1, 1, 2, 2]
+Leaderboarder:  [[1, 2], [2, 3], [3, 0], [4, 0], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_104
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 5, 1, 3, 1, 3]
+Leaderboarder:  [[1, 2], [2, 0], [3, 3], [4, 0], [5, 1]]
+
+Running file Plurality_105
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 5, 5, 4, 4, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 1], [4, 3], [5, 2]]
+
+Running file Plurality_106
+===================
+Got equilibrium at turn:  3
+Voted for:  [5, 5, 5, 5, 1, 1, 1, 2]
+Leaderboarder:  [[1, 3], [2, 1], [3, 0], [4, 0], [5, 4], [6, 0]]
+
+Running file Plurality_107
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 1, 4, 1, 5, 3]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 1], [5, 1], [6, 1]]
+
+Running file Plurality_108
+===================
+Got equilibrium at turn:  2
+Voted for:  [7, 7, 4, 3, 4, 7]
+Leaderboarder:  [[1, 0], [2, 0], [3, 1], [4, 2], [5, 0], [6, 0], [7, 3]]
+
+Running file Plurality_109
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 1, 1, 2, 2, 1]
+Leaderboarder:  [[1, 3], [2, 3], [3, 0], [4, 0], [5, 0]]
+
+Running file Plurality_110
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 3, 5, 5, 5, 3, 2]
+Leaderboarder:  [[1, 0], [2, 1], [3, 3], [4, 0], [5, 3]]
+
+Running file Plurality_111
+===================
+Got equilibrium at turn:  1
+Voted for:  [7, 7, 4, 1, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 1], [5, 0], [6, 0], [7, 2]]
+
+Running file Plurality_112
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 1, 3, 4, 2, 1]
+Leaderboarder:  [[1, 3], [2, 1], [3, 1], [4, 1], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_113
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 7, 4, 7, 5, 2, 7]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 1], [5, 1], [6, 1], [7, 3]]
+
+Running file Plurality_114
+===================
+Voted for:  [7, 3, 6, 7, 6, 2]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 0], [5, 0], [6, 2], [7, 2]]
+Turns:  500
+
+Running file Plurality_115
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 3, 5, 2, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 1], [4, 0], [5, 1], [6, 0]]
+
+Running file Plurality_116
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 3, 2, 3, 6, 2]
+Leaderboarder:  [[1, 0], [2, 2], [3, 3], [4, 0], [5, 0], [6, 1]]
+
+Running file Plurality_117
+===================
+Voted for:  [5, 3, 4, 5, 2, 4]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 2], [5, 2]]
+Turns:  500
+
+Running file Plurality_118
+===================
+Got equilibrium at turn:  2
+Voted for:  [7, 3, 3, 7, 7]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 0], [5, 0], [6, 0], [7, 3]]
+
+Running file Plurality_119
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 6, 3, 1, 3]
+Leaderboarder:  [[1, 1], [2, 0], [3, 2], [4, 0], [5, 0], [6, 2], [7, 0]]
+
+Running file Plurality_120
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 5, 1, 3, 2]
+Leaderboarder:  [[1, 2], [2, 1], [3, 1], [4, 0], [5, 1]]
+
+Running file Plurality_121
+===================
+Got equilibrium at turn:  3
+Voted for:  [7, 2, 2, 2, 7, 7]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 0], [5, 0], [6, 0], [7, 3]]
+
+Running file Plurality_122
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 4, 3, 4, 3, 1]
+Leaderboarder:  [[1, 1], [2, 0], [3, 3], [4, 2], [5, 0]]
+
+Running file Plurality_123
+===================
+Got equilibrium at turn:  4
+Voted for:  [1, 1, 1, 2, 2, 2]
+Leaderboarder:  [[1, 3], [2, 3], [3, 0], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_124
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 2, 5, 5, 5, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 0], [5, 3]]
+
+Running file Plurality_125
+===================
+Voted for:  [7, 3, 5, 7, 6, 1, 3, 5]
+Leaderboarder:  [[1, 1], [2, 0], [3, 2], [4, 0], [5, 2], [6, 1], [7, 2]]
+Turns:  500
+
+Running file Plurality_126
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 1, 2, 3, 1, 3, 1]
+Leaderboarder:  [[1, 3], [2, 1], [3, 3], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_127
+===================
+Voted for:  [4, 7, 7, 6, 7, 6, 4, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 1], [4, 2], [5, 0], [6, 2], [7, 3]]
+Turns:  500
+
+Running file Plurality_128
+===================
+Got equilibrium at turn:  4
+Voted for:  [3, 1, 1, 1, 3, 3, 3]
+Leaderboarder:  [[1, 3], [2, 0], [3, 4], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_129
+===================
+Got equilibrium at turn:  5
+Voted for:  [2, 2, 2, 7, 7, 7, 2, 7]
+Leaderboarder:  [[1, 0], [2, 4], [3, 0], [4, 0], [5, 0], [6, 0], [7, 4]]
+
+Running file Plurality_130
+===================
+Voted for:  [3, 3, 5, 2, 5, 4, 1]
+Leaderboarder:  [[1, 1], [2, 1], [3, 2], [4, 1], [5, 2]]
+Turns:  500
+
+Running file Plurality_131
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 2, 6, 4, 1, 5, 5, 5]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 1], [5, 4], [6, 1]]
+
+Running file Plurality_132
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 6, 4, 6, 1, 1, 6]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 1], [5, 0], [6, 3], [7, 0]]
+
+Running file Plurality_133
+===================
+Got equilibrium at turn:  4
+Voted for:  [2, 2, 2, 1, 1, 2, 1]
+Leaderboarder:  [[1, 3], [2, 4], [3, 0], [4, 0], [5, 0]]
+
+Running file Plurality_134
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 4, 4, 6, 1, 4]
+Leaderboarder:  [[1, 1], [2, 0], [3, 1], [4, 3], [5, 0], [6, 1], [7, 0]]
+
+Running file Plurality_135
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 2, 1, 2, 5]
+Leaderboarder:  [[1, 2], [2, 2], [3, 0], [4, 0], [5, 1], [6, 0], [7, 0]]
+
+Running file Plurality_136
+===================
+Got equilibrium at turn:  4
+Voted for:  [1, 1, 7, 7, 1, 7, 7]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 0], [5, 0], [6, 0], [7, 4]]
+
+Running file Plurality_137
+===================
+Voted for:  [2, 6, 1, 5, 2, 6]
+Leaderboarder:  [[1, 1], [2, 2], [3, 0], [4, 0], [5, 1], [6, 2]]
+Turns:  500
+
+Running file Plurality_138
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 7, 5, 5, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 1], [4, 1], [5, 2], [6, 0], [7, 1]]
+
+Running file Plurality_139
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 2, 5, 3, 4, 2]
+Leaderboarder:  [[1, 0], [2, 2], [3, 1], [4, 1], [5, 2]]
+
+Running file Plurality_140
+===================
+Voted for:  [3, 4, 5, 3, 3, 5, 2, 5]
+Leaderboarder:  [[1, 0], [2, 1], [3, 3], [4, 1], [5, 3], [6, 0]]
+Turns:  500
+
+Running file Plurality_141
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 5, 1, 1, 3]
+Leaderboarder:  [[1, 2], [2, 0], [3, 2], [4, 0], [5, 1], [6, 0]]
+
+Running file Plurality_142
+===================
+Got equilibrium at turn:  3
+Voted for:  [4, 4, 2, 4, 4, 2, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 4], [5, 0]]
+
+Running file Plurality_143
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 2, 4, 4, 2, 4]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 3], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_144
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 3, 7, 3, 3, 7, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 3], [4, 0], [5, 0], [6, 0], [7, 2]]
+
+Running file Plurality_145
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 1, 6, 6, 6]
+Leaderboarder:  [[1, 1], [2, 2], [3, 0], [4, 0], [5, 0], [6, 3]]
+
+Running file Plurality_146
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 1, 5, 2, 5, 5, 4]
+Leaderboarder:  [[1, 2], [2, 1], [3, 0], [4, 1], [5, 3]]
+
+Running file Plurality_147
+===================
+Got equilibrium at turn:  1
+Voted for:  [7, 3, 1, 1, 4]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 1], [5, 0], [6, 0], [7, 1]]
+
+Running file Plurality_148
+===================
+Got equilibrium at turn:  3
+Voted for:  [5, 2, 5, 2, 5]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 0], [5, 3], [6, 0], [7, 0]]
+
+Running file Plurality_149
+===================
+Voted for:  [5, 4, 2, 3, 6, 4, 5]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 2], [5, 2], [6, 1], [7, 0]]
+Turns:  500
+
+Running file Plurality_150
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 1, 5, 1, 1, 1, 5, 3]
+Leaderboarder:  [[1, 4], [2, 0], [3, 2], [4, 0], [5, 2]]
+
+Running file Plurality_151
+===================
+Got equilibrium at turn:  2
+Voted for:  [1, 1, 3, 3, 3]
+Leaderboarder:  [[1, 2], [2, 0], [3, 3], [4, 0], [5, 0]]
+
+Running file Plurality_152
+===================
+Voted for:  [3, 2, 4, 6, 4]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 2], [5, 0], [6, 1]]
+Turns:  500
+
+Running file Plurality_153
+===================
+Got equilibrium at turn:  4
+Voted for:  [4, 1, 4, 1, 1, 4, 1, 4]
+Leaderboarder:  [[1, 4], [2, 0], [3, 0], [4, 4], [5, 0], [6, 0]]
+
+Running file Plurality_154
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 2, 4, 5, 4]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 3], [5, 1], [6, 0]]
+
+Running file Plurality_155
+===================
+Voted for:  [1, 3, 6, 3, 1, 6]
+Leaderboarder:  [[1, 2], [2, 0], [3, 2], [4, 0], [5, 0], [6, 2]]
+Turns:  500
+
+Running file Plurality_156
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 3, 3, 5, 5, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 3], [6, 0], [7, 0]]
+
+Running file Plurality_157
+===================
+Voted for:  [3, 1, 3, 5, 1, 6]
+Leaderboarder:  [[1, 2], [2, 0], [3, 2], [4, 0], [5, 1], [6, 1], [7, 0]]
+Turns:  500
+
+Running file Plurality_158
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 2, 1, 1, 2]
+Leaderboarder:  [[1, 2], [2, 3], [3, 0], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_159
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 5, 4, 5, 2, 5, 5]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 1], [5, 5]]
+
+Running file Plurality_160
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 2, 4, 5, 5, 6, 6]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 1], [5, 2], [6, 2]]
+
+Running file Plurality_161
+===================
+Got equilibrium at turn:  3
+Voted for:  [4, 4, 2, 4, 2, 2, 7, 1]
+Leaderboarder:  [[1, 1], [2, 3], [3, 0], [4, 3], [5, 0], [6, 0], [7, 1]]
+
+Running file Plurality_162
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 1, 1, 6, 4, 3]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 1], [5, 0], [6, 2]]
+
+Running file Plurality_163
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 3, 4, 4, 3, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 3], [5, 0]]
+
+Running file Plurality_164
+===================
+Got equilibrium at turn:  4
+Voted for:  [1, 2, 2, 1, 2, 1, 4]
+Leaderboarder:  [[1, 3], [2, 3], [3, 0], [4, 1], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_165
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 2, 3, 3, 2]
+Leaderboarder:  [[1, 0], [2, 2], [3, 3], [4, 0], [5, 0]]
+
+Running file Plurality_166
+===================
+Got equilibrium at turn:  3
+Voted for:  [5, 3, 5, 5, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 0], [5, 3]]
+
+Running file Plurality_167
+===================
+Voted for:  [7, 5, 7, 1, 7, 5, 6, 5]
+Leaderboarder:  [[1, 1], [2, 0], [3, 0], [4, 0], [5, 3], [6, 1], [7, 3]]
+Turns:  500
+
+Running file Plurality_168
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 2, 2, 1, 1]
+Leaderboarder:  [[1, 2], [2, 3], [3, 0], [4, 0], [5, 0]]
+
+Running file Plurality_169
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 2, 1, 3, 4]
+Leaderboarder:  [[1, 2], [2, 1], [3, 1], [4, 1], [5, 0], [6, 0]]
+
+Running file Plurality_170
+===================
+Voted for:  [1, 2, 4, 4, 5]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 2], [5, 1]]
+Turns:  500
+
+Running file Plurality_171
+===================
+Voted for:  [3, 5, 2, 4, 5]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 1], [5, 2]]
+Turns:  500
+
+Running file Plurality_172
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 1, 1, 1, 3, 3, 3, 5]
+Leaderboarder:  [[1, 3], [2, 0], [3, 4], [4, 0], [5, 1]]
+
+Running file Plurality_173
+===================
+Got equilibrium at turn:  3
+Voted for:  [4, 4, 5, 4, 5, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 3], [5, 3], [6, 0]]
+
+Running file Plurality_174
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 1, 3, 5, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 0], [5, 2], [6, 0]]
+
+Running file Plurality_175
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 5, 5, 6, 6, 1, 4, 5]
+Leaderboarder:  [[1, 1], [2, 0], [3, 0], [4, 1], [5, 4], [6, 2]]
+
+Running file Plurality_176
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 5, 2, 1, 1]
+Leaderboarder:  [[1, 2], [2, 2], [3, 0], [4, 0], [5, 1]]
+
+Running file Plurality_177
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 2, 1, 3, 3, 5]
+Leaderboarder:  [[1, 1], [2, 1], [3, 3], [4, 0], [5, 1]]
+
+Running file Plurality_178
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 3, 4, 4, 1, 1, 3]
+Leaderboarder:  [[1, 3], [2, 0], [3, 2], [4, 2], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_179
+===================
+Voted for:  [5, 3, 3, 5, 1]
+Leaderboarder:  [[1, 1], [2, 0], [3, 2], [4, 0], [5, 2]]
+Turns:  500
+
+Running file Plurality_180
+===================
+Voted for:  [1, 5, 5, 2, 5, 1, 4]
+Leaderboarder:  [[1, 2], [2, 1], [3, 0], [4, 1], [5, 3]]
+Turns:  500
+
+Running file Plurality_181
+===================
+Got equilibrium at turn:  2
+Voted for:  [2, 2, 4, 4, 4]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 3], [5, 0]]
+
+Running file Plurality_182
+===================
+Got equilibrium at turn:  3
+Voted for:  [4, 2, 2, 4, 4]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 3], [5, 0], [6, 0]]
+
+Running file Plurality_183
+===================
+Got equilibrium at turn:  4
+Voted for:  [7, 1, 7, 7, 1, 1, 7]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 0], [5, 0], [6, 0], [7, 4]]
+
+Running file Plurality_184
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 4, 3, 3, 4, 3, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 4], [5, 0]]
+
+Running file Plurality_185
+===================
+Got equilibrium at turn:  1
+Voted for:  [7, 3, 3, 3, 6]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 0], [6, 1], [7, 1]]
+
+Running file Plurality_186
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 4, 3, 3, 2]
+Leaderboarder:  [[1, 0], [2, 1], [3, 3], [4, 1], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_187
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 3, 4, 2, 2, 5, 1, 3]
+Leaderboarder:  [[1, 1], [2, 3], [3, 2], [4, 1], [5, 1]]
+
+Running file Plurality_188
+===================
+Voted for:  [1, 3, 1, 6, 3, 2, 5]
+Leaderboarder:  [[1, 2], [2, 1], [3, 2], [4, 0], [5, 1], [6, 1], [7, 0]]
+Turns:  500
+
+Running file Plurality_189
+===================
+Got equilibrium at turn:  3
+Voted for:  [4, 2, 2, 2, 4, 4, 4]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 4], [5, 0]]
+
+Running file Plurality_190
+===================
+Voted for:  [2, 4, 2, 1, 4, 1, 3]
+Leaderboarder:  [[1, 2], [2, 2], [3, 1], [4, 2], [5, 0]]
+Turns:  500
+
+Running file Plurality_191
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 2, 7, 2, 2, 4]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 2], [5, 0], [6, 0], [7, 1]]
+
+Running file Plurality_192
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 2, 2, 2, 3, 2, 1, 5]
+Leaderboarder:  [[1, 1], [2, 4], [3, 2], [4, 0], [5, 1]]
+
+Running file Plurality_193
+===================
+Voted for:  [1, 1, 2, 2, 5]
+Leaderboarder:  [[1, 2], [2, 2], [3, 0], [4, 0], [5, 1], [6, 0], [7, 0]]
+Turns:  500
+
+Running file Plurality_194
+===================
+Got equilibrium at turn:  3
+Voted for:  [4, 4, 2, 4, 2]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 3], [5, 0]]
+
+Running file Plurality_195
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 1, 4, 1, 4, 1, 4, 3]
+Leaderboarder:  [[1, 3], [2, 0], [3, 1], [4, 4], [5, 0], [6, 0]]
+
+Running file Plurality_196
+===================
+Got equilibrium at turn:  4
+Voted for:  [2, 2, 5, 2, 5, 5, 5, 2]
+Leaderboarder:  [[1, 0], [2, 4], [3, 0], [4, 0], [5, 4]]
+
+Running file Plurality_197
+===================
+Voted for:  [5, 2, 5, 3, 3]
+Leaderboarder:  [[1, 0], [2, 1], [3, 2], [4, 0], [5, 2], [6, 0]]
+Turns:  500
+
+Running file Plurality_198
+===================
+Got equilibrium at turn:  4
+Voted for:  [1, 2, 2, 1, 2, 5, 1, 4]
+Leaderboarder:  [[1, 3], [2, 3], [3, 0], [4, 1], [5, 1]]
+
+Running file Plurality_199
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 5, 5, 2, 5]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 0], [5, 3], [6, 0], [7, 0]]
+
+Running file Plurality_200
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 4, 2, 2, 4]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 3], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_201
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 2, 1, 1, 4, 1, 4]
+Leaderboarder:  [[1, 3], [2, 1], [3, 0], [4, 2], [5, 1], [6, 0]]
+
+Running file Plurality_202
+===================
+Got equilibrium at turn:  2
+Voted for:  [1, 5, 5, 5, 5, 6, 1, 1]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 0], [5, 4], [6, 1]]
+
+Running file Plurality_203
+===================
+Voted for:  [2, 1, 3, 1, 2]
+Leaderboarder:  [[1, 2], [2, 2], [3, 1], [4, 0], [5, 0], [6, 0], [7, 0]]
+Turns:  500
+
+Running file Plurality_204
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 2, 4, 4, 4, 4, 3, 6]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 5], [5, 0], [6, 1]]
+
+Running file Plurality_205
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 3, 3, 3, 6, 4, 2]
+Leaderboarder:  [[1, 1], [2, 1], [3, 3], [4, 1], [5, 0], [6, 1]]
+
+Running file Plurality_206
+===================
+Voted for:  [3, 5, 5, 4, 2]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 1], [5, 2], [6, 0], [7, 0]]
+Turns:  500
+
+Running file Plurality_207
+===================
+Got equilibrium at turn:  4
+Voted for:  [6, 6, 6, 1, 1, 1, 1, 6]
+Leaderboarder:  [[1, 4], [2, 0], [3, 0], [4, 0], [5, 0], [6, 4]]
+
+Running file Plurality_208
+===================
+Got equilibrium at turn:  3
+Voted for:  [6, 6, 1, 6, 1, 1, 2, 6]
+Leaderboarder:  [[1, 3], [2, 1], [3, 0], [4, 0], [5, 0], [6, 4]]
+
+Running file Plurality_209
+===================
+Voted for:  [1, 5, 6, 3, 6]
+Leaderboarder:  [[1, 1], [2, 0], [3, 1], [4, 0], [5, 1], [6, 2]]
+Turns:  500
+
+Running file Plurality_210
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 2, 2, 1, 1, 5, 6]
+Leaderboarder:  [[1, 2], [2, 3], [3, 0], [4, 0], [5, 1], [6, 1]]
+
+Running file Plurality_211
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 5, 3, 6, 5, 3, 3, 3]
+Leaderboarder:  [[1, 0], [2, 1], [3, 4], [4, 0], [5, 2], [6, 1]]
+
+Running file Plurality_212
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 1, 1, 3, 4]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 2], [5, 0]]
+
+Running file Plurality_213
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 5, 2, 2, 4, 5, 5]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 1], [5, 3]]
+
+Running file Plurality_214
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 1, 4, 5, 4, 2]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 3], [5, 1]]
+
+Running file Plurality_215
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 5, 2, 2, 4, 5]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 2], [5, 2]]
+
+Running file Plurality_216
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 3, 3, 2, 2]
+Leaderboarder:  [[1, 0], [2, 2], [3, 3], [4, 0], [5, 0]]
+
+Running file Plurality_217
+===================
+Got equilibrium at turn:  2
+Voted for:  [5, 2, 2, 5, 2, 5]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 0], [5, 3], [6, 0]]
+
+Running file Plurality_218
+===================
+Got equilibrium at turn:  3
+Voted for:  [6, 1, 6, 1, 6]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 0], [5, 0], [6, 3], [7, 0]]
+
+Running file Plurality_219
+===================
+Got equilibrium at turn:  5
+Voted for:  [1, 5, 1, 5, 5, 5, 1, 1]
+Leaderboarder:  [[1, 4], [2, 0], [3, 0], [4, 0], [5, 4]]
+
+Running file Plurality_220
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 1, 5, 5, 3, 5, 1]
+Leaderboarder:  [[1, 3], [2, 0], [3, 1], [4, 0], [5, 3]]
+
+Running file Plurality_221
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 5, 1, 4, 3, 5, 1, 1]
+Leaderboarder:  [[1, 3], [2, 0], [3, 1], [4, 1], [5, 3]]
+
+Running file Plurality_222
+===================
+Got equilibrium at turn:  1
+Voted for:  [7, 3, 3, 6, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 0], [5, 1], [6, 1], [7, 1]]
+
+Running file Plurality_223
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 3, 5, 2, 3, 2, 5, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 2], [4, 0], [5, 3]]
+
+Running file Plurality_224
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 3, 4, 3, 3, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 3], [5, 0], [6, 0]]
+
+Running file Plurality_225
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 5, 5, 5, 3, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 3]]
+
+Running file Plurality_226
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 1, 3, 5, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 0], [5, 1], [6, 1]]
+
+Running file Plurality_227
+===================
+Voted for:  [1, 5, 7, 6, 7, 3, 5]
+Leaderboarder:  [[1, 1], [2, 0], [3, 1], [4, 0], [5, 2], [6, 1], [7, 2]]
+Turns:  500
+
+Running file Plurality_228
+===================
+Voted for:  [4, 1, 2, 4, 2]
+Leaderboarder:  [[1, 1], [2, 2], [3, 0], [4, 2], [5, 0]]
+Turns:  500
+
+Running file Plurality_229
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 1, 5, 3, 6, 1, 6, 3]
+Leaderboarder:  [[1, 3], [2, 0], [3, 2], [4, 0], [5, 1], [6, 2]]
+
+Running file Plurality_230
+===================
+Voted for:  [3, 6, 5, 5, 4, 4, 5, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 2], [5, 3], [6, 1]]
+Turns:  500
+
+Running file Plurality_231
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 4, 5, 6]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 1], [5, 1], [6, 1], [7, 0]]
+
+Running file Plurality_232
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 1, 4, 1, 2, 2, 2, 3]
+Leaderboarder:  [[1, 3], [2, 3], [3, 1], [4, 1], [5, 0], [6, 0]]
+
+Running file Plurality_233
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 4, 5, 5, 2]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 2], [5, 2], [6, 0], [7, 0]]
+
+Running file Plurality_234
+===================
+Voted for:  [5, 5, 3, 5, 1, 3, 4]
+Leaderboarder:  [[1, 1], [2, 0], [3, 2], [4, 1], [5, 3], [6, 0]]
+Turns:  500
+
+Running file Plurality_235
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 2, 5, 3, 7, 1, 5]
+Leaderboarder:  [[1, 1], [2, 3], [3, 1], [4, 0], [5, 2], [6, 0], [7, 1]]
+
+Running file Plurality_236
+===================
+Got equilibrium at turn:  4
+Voted for:  [2, 3, 3, 2, 2, 3, 3]
+Leaderboarder:  [[1, 0], [2, 3], [3, 4], [4, 0], [5, 0]]
+
+Running file Plurality_237
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 7, 7, 2, 7, 6]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 0], [5, 0], [6, 1], [7, 3]]
+
+Running file Plurality_238
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 4, 4, 1, 4]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 3], [5, 0]]
+
+Running file Plurality_239
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 2, 2, 4, 2, 3, 3]
+Leaderboarder:  [[1, 0], [2, 3], [3, 3], [4, 1], [5, 0]]
+
+Running file Plurality_240
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 4, 4, 4, 2, 1, 2, 2]
+Leaderboarder:  [[1, 1], [2, 3], [3, 0], [4, 4], [5, 0]]
+
+Running file Plurality_241
+===================
+Voted for:  [4, 3, 2, 2, 4, 1]
+Leaderboarder:  [[1, 1], [2, 2], [3, 1], [4, 2], [5, 0]]
+Turns:  500
+
+Running file Plurality_242
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 3, 1, 6, 4, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 2], [5, 0], [6, 1]]
+
+Running file Plurality_243
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 4, 5, 3, 2, 2]
+Leaderboarder:  [[1, 0], [2, 2], [3, 2], [4, 1], [5, 1]]
+
+Running file Plurality_244
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 3, 5, 5, 3, 2, 1, 1]
+Leaderboarder:  [[1, 3], [2, 1], [3, 2], [4, 0], [5, 2]]
+
+Running file Plurality_245
+===================
+Voted for:  [3, 3, 4, 7, 5, 5, 6, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 2], [5, 2], [6, 1], [7, 1]]
+Turns:  500
+
+Running file Plurality_246
+===================
+Got equilibrium at turn:  3
+Voted for:  [6, 5, 6, 6, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 0], [5, 2], [6, 3], [7, 0]]
+
+Running file Plurality_247
+===================
+Voted for:  [5, 4, 4, 3, 5, 3, 1]
+Leaderboarder:  [[1, 1], [2, 0], [3, 2], [4, 2], [5, 2]]
+Turns:  500
+
+Running file Plurality_248
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 1, 1, 2, 4]
+Leaderboarder:  [[1, 2], [2, 2], [3, 0], [4, 1], [5, 0]]
+
+Running file Plurality_249
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 3, 5, 5, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 0], [5, 3], [6, 0]]
+
+Running file Plurality_250
+===================
+Voted for:  [2, 7, 5, 4, 3, 4, 1]
+Leaderboarder:  [[1, 1], [2, 1], [3, 1], [4, 2], [5, 1], [6, 0], [7, 1]]
+Turns:  500
+
+Running file Plurality_251
+===================
+Voted for:  [2, 5, 3, 2, 5, 5, 3]
+Leaderboarder:  [[1, 0], [2, 2], [3, 2], [4, 0], [5, 3], [6, 0]]
+Turns:  500
+
+Running file Plurality_252
+===================
+Voted for:  [6, 3, 3, 6, 2]
+Leaderboarder:  [[1, 0], [2, 1], [3, 2], [4, 0], [5, 0], [6, 2]]
+Turns:  500
+
+Running file Plurality_253
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 3, 4, 1]
+Leaderboarder:  [[1, 1], [2, 2], [3, 1], [4, 1], [5, 0], [6, 0]]
+
+Running file Plurality_254
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 1, 5, 1, 3]
+Leaderboarder:  [[1, 3], [2, 0], [3, 1], [4, 0], [5, 1]]
+
+Running file Plurality_255
+===================
+Got equilibrium at turn:  4
+Voted for:  [7, 1, 7, 1, 7, 1]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 0], [5, 0], [6, 0], [7, 3]]
+
+Running file Plurality_256
+===================
+Got equilibrium at turn:  3
+Voted for:  [6, 6, 3, 6, 6, 3, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 0], [6, 4]]
+
+Running file Plurality_257
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 5, 3, 7, 6, 3, 7, 7]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 1], [6, 1], [7, 3]]
+
+Running file Plurality_258
+===================
+Got equilibrium at turn:  1
+Voted for:  [7, 2, 5, 2, 5, 5, 4]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 1], [5, 3], [6, 0], [7, 1]]
+
+Running file Plurality_259
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 1, 5, 4, 6, 1, 6]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 1], [5, 2], [6, 2]]
+
+Running file Plurality_260
+===================
+Got equilibrium at turn:  2
+Voted for:  [2, 7, 7, 7, 7, 2, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 0], [5, 0], [6, 0], [7, 4]]
+
+Running file Plurality_261
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 3, 3, 2, 6, 5]
+Leaderboarder:  [[1, 0], [2, 1], [3, 3], [4, 0], [5, 1], [6, 1]]
+
+Running file Plurality_262
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 1, 1, 3, 3]
+Leaderboarder:  [[1, 2], [2, 0], [3, 3], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_263
+===================
+Got equilibrium at turn:  4
+Voted for:  [1, 1, 3, 3, 3, 1]
+Leaderboarder:  [[1, 3], [2, 0], [3, 3], [4, 0], [5, 0]]
+
+Running file Plurality_264
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 5, 3, 2, 3, 3, 2, 3]
+Leaderboarder:  [[1, 0], [2, 2], [3, 4], [4, 0], [5, 1], [6, 1]]
+
+Running file Plurality_265
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 1, 1, 5, 2, 1, 7]
+Leaderboarder:  [[1, 3], [2, 1], [3, 0], [4, 0], [5, 2], [6, 0], [7, 1]]
+
+Running file Plurality_266
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 2, 2, 1, 2, 1, 5]
+Leaderboarder:  [[1, 3], [2, 3], [3, 0], [4, 0], [5, 1], [6, 0], [7, 0]]
+
+Running file Plurality_267
+===================
+Got equilibrium at turn:  4
+Voted for:  [4, 2, 4, 2, 2, 2, 4, 4]
+Leaderboarder:  [[1, 0], [2, 4], [3, 0], [4, 4], [5, 0], [6, 0]]
+
+Running file Plurality_268
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 4, 5, 5, 5, 2, 1, 4]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 3], [5, 3], [6, 0]]
+
+Running file Plurality_269
+===================
+Got equilibrium at turn:  2
+Voted for:  [4, 2, 2, 4, 4]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 3], [5, 0]]
+
+Running file Plurality_270
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 5, 2, 1, 4]
+Leaderboarder:  [[1, 1], [2, 3], [3, 0], [4, 1], [5, 1], [6, 0]]
+
+Running file Plurality_271
+===================
+Got equilibrium at turn:  3
+Voted for:  [7, 3, 3, 7, 7]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 0], [5, 0], [6, 0], [7, 3]]
+
+Running file Plurality_272
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 3, 3, 2, 2, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 2], [4, 1], [5, 0], [6, 0]]
+
+Running file Plurality_273
+===================
+Voted for:  [1, 4, 2, 2, 1, 6]
+Leaderboarder:  [[1, 2], [2, 2], [3, 0], [4, 1], [5, 0], [6, 1]]
+Turns:  500
+
+Running file Plurality_274
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 1, 4, 2, 4, 4, 3]
+Leaderboarder:  [[1, 1], [2, 1], [3, 1], [4, 4], [5, 0]]
+
+Running file Plurality_275
+===================
+Got equilibrium at turn:  4
+Voted for:  [2, 2, 4, 4, 4, 4, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 4], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_276
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 1, 4, 6, 1, 6, 1, 5]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 2], [5, 1], [6, 2]]
+
+Running file Plurality_277
+===================
+Got equilibrium at turn:  3
+Voted for:  [5, 5, 4, 4, 4, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 3], [5, 3], [6, 0]]
+
+Running file Plurality_278
+===================
+Voted for:  [4, 3, 3, 5, 4, 1]
+Leaderboarder:  [[1, 1], [2, 0], [3, 2], [4, 2], [5, 1]]
+Turns:  500
+
+Running file Plurality_279
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 5, 3, 1, 1, 5, 1, 4]
+Leaderboarder:  [[1, 3], [2, 0], [3, 2], [4, 1], [5, 2]]
+
+Running file Plurality_280
+===================
+Voted for:  [1, 1, 3, 4, 3, 5, 5]
+Leaderboarder:  [[1, 2], [2, 0], [3, 2], [4, 1], [5, 2]]
+Turns:  500
+
+Running file Plurality_281
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 3, 6, 2, 1, 6, 3, 2]
+Leaderboarder:  [[1, 1], [2, 3], [3, 2], [4, 0], [5, 0], [6, 2]]
+
+Running file Plurality_282
+===================
+Voted for:  [2, 3, 4, 2, 3]
+Leaderboarder:  [[1, 0], [2, 2], [3, 2], [4, 1], [5, 0]]
+Turns:  500
+
+Running file Plurality_283
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 6, 4, 3, 5, 1]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 1], [5, 1], [6, 1]]
+
+Running file Plurality_284
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 2, 2, 7, 2, 7, 3]
+Leaderboarder:  [[1, 0], [2, 3], [3, 1], [4, 0], [5, 0], [6, 1], [7, 2]]
+
+Running file Plurality_285
+===================
+Got equilibrium at turn:  4
+Voted for:  [3, 2, 3, 3, 2, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 3], [4, 0], [5, 0]]
+
+Running file Plurality_286
+===================
+Got equilibrium at turn:  2
+Voted for:  [1, 3, 3, 1, 3]
+Leaderboarder:  [[1, 2], [2, 0], [3, 3], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_287
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 4, 5, 4, 2, 4, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 3], [5, 1]]
+
+Running file Plurality_288
+===================
+Got equilibrium at turn:  5
+Voted for:  [3, 1, 3, 1, 1, 3, 3, 6]
+Leaderboarder:  [[1, 3], [2, 0], [3, 4], [4, 0], [5, 0], [6, 1], [7, 0]]
+
+Running file Plurality_289
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 1, 2, 2, 7, 2, 5, 5]
+Leaderboarder:  [[1, 1], [2, 3], [3, 0], [4, 1], [5, 2], [6, 0], [7, 1]]
+
+Running file Plurality_290
+===================
+Got equilibrium at turn:  4
+Voted for:  [3, 3, 5, 5, 5, 3, 5, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 4], [4, 0], [5, 4]]
+
+Running file Plurality_291
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 2, 3, 3, 4, 4]
+Leaderboarder:  [[1, 0], [2, 1], [3, 2], [4, 3], [5, 0]]
+
+Running file Plurality_292
+===================
+Got equilibrium at turn:  4
+Voted for:  [4, 3, 4, 3, 3, 3, 4, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 4], [4, 4], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_293
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 4, 1, 4, 1, 5, 1, 1]
+Leaderboarder:  [[1, 4], [2, 0], [3, 1], [4, 2], [5, 1], [6, 0]]
+
+Running file Plurality_294
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 4, 3, 4, 2, 1, 4, 2]
+Leaderboarder:  [[1, 1], [2, 3], [3, 1], [4, 3], [5, 0]]
+
+Running file Plurality_295
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 2, 6, 4, 5]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 2], [5, 1], [6, 1]]
+
+Running file Plurality_296
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 2, 4, 3, 3, 6]
+Leaderboarder:  [[1, 0], [2, 1], [3, 3], [4, 1], [5, 0], [6, 1]]
+
+Running file Plurality_297
+===================
+Got equilibrium at turn:  5
+Voted for:  [1, 3, 3, 1, 3, 1, 3, 1]
+Leaderboarder:  [[1, 4], [2, 0], [3, 4], [4, 0], [5, 0]]
+
+Running file Plurality_298
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 6, 2, 5, 7, 5, 6, 7]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 0], [5, 3], [6, 2], [7, 2]]
+
+Running file Plurality_299
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 1, 5, 2, 4, 5, 1, 5]
+Leaderboarder:  [[1, 2], [2, 1], [3, 0], [4, 1], [5, 4]]
+
+Running file Plurality_300
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 6, 3, 2, 6]
+Leaderboarder:  [[1, 0], [2, 2], [3, 1], [4, 0], [5, 0], [6, 2]]
+
+Running file Plurality_301
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 1, 1, 2, 1, 3, 2]
+Leaderboarder:  [[1, 3], [2, 3], [3, 1], [4, 0], [5, 0]]
+
+Running file Plurality_302
+===================
+Got equilibrium at turn:  2
+Voted for:  [1, 4, 1, 5, 4, 4, 2]
+Leaderboarder:  [[1, 2], [2, 1], [3, 0], [4, 3], [5, 1]]
+
+Running file Plurality_303
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 4, 4, 7, 6, 4, 6, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 1], [4, 3], [5, 1], [6, 2], [7, 1]]
+
+Running file Plurality_304
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 5, 5, 3, 5]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 0], [5, 3]]
+
+Running file Plurality_305
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 3, 3, 4, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 3], [5, 0], [6, 0]]
+
+Running file Plurality_306
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 1, 4, 5, 1, 1, 5, 2]
+Leaderboarder:  [[1, 3], [2, 1], [3, 0], [4, 1], [5, 2], [6, 1]]
+
+Running file Plurality_307
+===================
+Got equilibrium at turn:  1
+Voted for:  [7, 7, 4, 6, 5, 7]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 1], [5, 1], [6, 1], [7, 3]]
+
+Running file Plurality_308
+===================
+Got equilibrium at turn:  4
+Voted for:  [2, 5, 5, 2, 5, 5, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 0], [5, 4], [6, 0]]
+
+Running file Plurality_309
+===================
+Got equilibrium at turn:  3
+Voted for:  [2, 2, 1, 2, 1]
+Leaderboarder:  [[1, 2], [2, 3], [3, 0], [4, 0], [5, 0]]
+
+Running file Plurality_310
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 3, 7, 5, 7, 3, 6]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 1], [6, 1], [7, 2]]
+
+Running file Plurality_311
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 1, 2, 2, 1, 2, 2]
+Leaderboarder:  [[1, 3], [2, 4], [3, 0], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_312
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 4, 4, 5, 1, 2]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 3], [5, 1], [6, 0]]
+
+Running file Plurality_313
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 4, 1, 1, 2, 4, 7]
+Leaderboarder:  [[1, 3], [2, 1], [3, 0], [4, 2], [5, 0], [6, 0], [7, 1]]
+
+Running file Plurality_314
+===================
+Got equilibrium at turn:  3
+Voted for:  [5, 5, 4, 5, 2, 4]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 2], [5, 3], [6, 0]]
+
+Running file Plurality_315
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 5, 5, 3, 2, 3, 3]
+Leaderboarder:  [[1, 1], [2, 1], [3, 3], [4, 0], [5, 2]]
+
+Running file Plurality_316
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 5, 1, 1, 1]
+Leaderboarder:  [[1, 4], [2, 0], [3, 0], [4, 0], [5, 1]]
+
+Running file Plurality_317
+===================
+Voted for:  [3, 4, 1, 3, 1, 4, 4, 3]
+Leaderboarder:  [[1, 2], [2, 0], [3, 3], [4, 3], [5, 0]]
+Turns:  500
+
+Running file Plurality_318
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 5, 3, 4, 7, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 1], [4, 2], [5, 1], [6, 1], [7, 1]]
+
+Running file Plurality_319
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 5, 7, 4, 4, 4, 2, 4]
+Leaderboarder:  [[1, 0], [2, 1], [3, 0], [4, 4], [5, 2], [6, 0], [7, 1]]
+
+Running file Plurality_320
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 7, 4, 6, 2, 2]
+Leaderboarder:  [[1, 0], [2, 2], [3, 0], [4, 1], [5, 0], [6, 2], [7, 1]]
+
+Running file Plurality_321
+===================
+Got equilibrium at turn:  1
+Voted for:  [4, 4, 4, 5, 3, 5, 4]
+Leaderboarder:  [[1, 0], [2, 0], [3, 1], [4, 4], [5, 2], [6, 0], [7, 0]]
+
+Running file Plurality_322
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 5, 1, 2, 5, 6, 6, 6]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 0], [5, 3], [6, 3], [7, 0]]
+
+Running file Plurality_323
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 6, 6, 5, 3, 3, 6, 6]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 1], [6, 4]]
+
+Running file Plurality_324
+===================
+Got equilibrium at turn:  2
+Voted for:  [6, 6, 3, 3, 6, 3]
+Leaderboarder:  [[1, 0], [2, 0], [3, 3], [4, 0], [5, 0], [6, 3]]
+
+Running file Plurality_325
+===================
+Got equilibrium at turn:  4
+Voted for:  [2, 3, 3, 3, 3, 2, 2]
+Leaderboarder:  [[1, 0], [2, 3], [3, 4], [4, 0], [5, 0]]
+
+Running file Plurality_326
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 1, 1, 3, 3, 1]
+Leaderboarder:  [[1, 3], [2, 0], [3, 3], [4, 0], [5, 0]]
+
+Running file Plurality_327
+===================
+Voted for:  [4, 5, 3, 2, 4, 2, 5]
+Leaderboarder:  [[1, 0], [2, 2], [3, 1], [4, 2], [5, 2]]
+Turns:  500
+
+Running file Plurality_328
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 3, 1, 6, 5, 4, 7, 5]
+Leaderboarder:  [[1, 1], [2, 0], [3, 1], [4, 1], [5, 3], [6, 1], [7, 1]]
+
+Running file Plurality_329
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 2, 3, 5, 7, 5]
+Leaderboarder:  [[1, 0], [2, 1], [3, 1], [4, 0], [5, 3], [6, 0], [7, 1]]
+
+Running file Plurality_330
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 6, 1, 7, 2, 1]
+Leaderboarder:  [[1, 3], [2, 1], [3, 0], [4, 0], [5, 0], [6, 1], [7, 1]]
+
+Running file Plurality_331
+===================
+Got equilibrium at turn:  3
+Voted for:  [3, 3, 2, 3, 2]
+Leaderboarder:  [[1, 0], [2, 2], [3, 3], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_332
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 4, 3, 1, 1, 3]
+Leaderboarder:  [[1, 3], [2, 0], [3, 2], [4, 1], [5, 0]]
+
+Running file Plurality_333
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 4, 1, 2, 1]
+Leaderboarder:  [[1, 2], [2, 1], [3, 0], [4, 1], [5, 0], [6, 1]]
+
+Running file Plurality_334
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 5, 1, 4, 4, 4, 6, 4]
+Leaderboarder:  [[1, 1], [2, 0], [3, 1], [4, 4], [5, 1], [6, 1]]
+
+Running file Plurality_335
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 4, 5, 2, 2, 7, 5]
+Leaderboarder:  [[1, 0], [2, 3], [3, 0], [4, 1], [5, 2], [6, 0], [7, 1]]
+
+Running file Plurality_336
+===================
+Voted for:  [1, 1, 5, 5, 7]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 0], [5, 2], [6, 0], [7, 1]]
+Turns:  500
+
+Running file Plurality_337
+===================
+Voted for:  [5, 3, 5, 3, 1]
+Leaderboarder:  [[1, 1], [2, 0], [3, 2], [4, 0], [5, 2], [6, 0]]
+Turns:  500
+
+Running file Plurality_338
+===================
+Got equilibrium at turn:  4
+Voted for:  [6, 3, 3, 6, 6]
+Leaderboarder:  [[1, 0], [2, 0], [3, 2], [4, 0], [5, 0], [6, 3]]
+
+Running file Plurality_339
+===================
+Got equilibrium at turn:  1
+Voted for:  [5, 7, 5, 7, 6, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 0], [5, 3], [6, 1], [7, 2]]
+
+Running file Plurality_340
+===================
+Got equilibrium at turn:  2
+Voted for:  [5, 4, 4, 4, 6, 5, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 3], [5, 3], [6, 1]]
+
+Running file Plurality_341
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 5, 3, 5, 5, 2]
+Leaderboarder:  [[1, 0], [2, 1], [3, 2], [4, 0], [5, 3], [6, 0], [7, 0]]
+
+Running file Plurality_342
+===================
+Got equilibrium at turn:  5
+Voted for:  [2, 1, 2, 1, 1, 2, 2, 1]
+Leaderboarder:  [[1, 4], [2, 4], [3, 0], [4, 0], [5, 0], [6, 0]]
+
+Running file Plurality_343
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 1, 2, 4, 2, 5]
+Leaderboarder:  [[1, 1], [2, 3], [3, 0], [4, 1], [5, 1], [6, 0]]
+
+Running file Plurality_344
+===================
+Got equilibrium at turn:  3
+Voted for:  [4, 1, 1, 1, 4, 7, 4]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 3], [5, 0], [6, 0], [7, 1]]
+
+Running file Plurality_345
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 5, 1, 2, 1, 2, 5]
+Leaderboarder:  [[1, 3], [2, 2], [3, 0], [4, 0], [5, 2]]
+
+Running file Plurality_346
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 5, 4, 1, 5]
+Leaderboarder:  [[1, 2], [2, 0], [3, 0], [4, 1], [5, 2], [6, 0]]
+
+Running file Plurality_347
+===================
+Voted for:  [1, 6, 6, 5, 4, 5]
+Leaderboarder:  [[1, 1], [2, 0], [3, 0], [4, 1], [5, 2], [6, 2], [7, 0]]
+Turns:  500
+
+Running file Plurality_348
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 3, 3, 1, 1, 2, 4, 5]
+Leaderboarder:  [[1, 3], [2, 1], [3, 2], [4, 1], [5, 1]]
+
+Running file Plurality_349
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 5, 1, 6, 5, 5, 1]
+Leaderboarder:  [[1, 3], [2, 0], [3, 0], [4, 0], [5, 3], [6, 1], [7, 0]]
+
+Running file Plurality_350
+===================
+Got equilibrium at turn:  3
+Voted for:  [1, 1, 4, 2, 1, 4, 4]
+Leaderboarder:  [[1, 3], [2, 1], [3, 0], [4, 3], [5, 0], [6, 0]]
+
+Running file Plurality_351
+===================
+Got equilibrium at turn:  3
+Voted for:  [6, 6, 5, 5, 6, 6, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 0], [4, 0], [5, 3], [6, 4], [7, 0]]
+
+Running file Plurality_352
+===================
+Voted for:  [1, 3, 2, 5, 3, 2, 1]
+Leaderboarder:  [[1, 2], [2, 2], [3, 2], [4, 0], [5, 1], [6, 0], [7, 0]]
+Turns:  500
+
+Running file Plurality_353
+===================
+Got equilibrium at turn:  1
+Voted for:  [2, 2, 3, 5, 4]
+Leaderboarder:  [[1, 0], [2, 2], [3, 1], [4, 1], [5, 1]]
+
+Running file Plurality_354
+===================
+Got equilibrium at turn:  1
+Voted for:  [6, 6, 2, 4, 5, 7, 6, 1]
+Leaderboarder:  [[1, 1], [2, 1], [3, 0], [4, 1], [5, 1], [6, 3], [7, 1]]
+
+Running file Plurality_355
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 1, 1, 4, 3, 1, 3]
+Leaderboarder:  [[1, 3], [2, 0], [3, 3], [4, 1], [5, 0]]
+
+Running file Plurality_356
+===================
+Got equilibrium at turn:  1
+Voted for:  [3, 6, 4, 5, 5, 6, 5]
+Leaderboarder:  [[1, 0], [2, 0], [3, 1], [4, 1], [5, 3], [6, 2]]
+
+Running file Plurality_357
+===================
+Voted for:  [2, 5, 5, 1, 2]
+Leaderboarder:  [[1, 1], [2, 2], [3, 0], [4, 0], [5, 2], [6, 0], [7, 0]]
+Turns:  500
+
+Running file Plurality_358
+===================
+Got equilibrium at turn:  1
+Voted for:  [1, 1, 2, 6, 5]
+Leaderboarder:  [[1, 2], [2, 1], [3, 0], [4, 0], [5, 1], [6, 1]]
+
+Running file Plurality_359
+===================
+Got equilibrium at turn:  2
+Voted for:  [3, 2, 2, 3, 4]
+Leaderboarder:  [[1, 0], [2, 2], [3, 2], [4, 1], [5, 0], [6, 0], [7, 0]]
+
+Running file Plurality_360
+===================
+Got equilibrium at turn:  2
+Voted for:  [1, 5, 5, 5, 1, 3]
+Leaderboarder:  [[1, 2], [2, 0], [3, 1], [4, 0], [5, 3], [6, 0]]
+Percentage of equilibrium convergence:  84.44444444444444
+Average turns for equilibrium:  2.0
+
+Running file Borda_1
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 4, 3, 1, 5], [4, 1, 2, 3, 5], [5, 4, 3, 2, 1], [3, 1, 2, 5, 4], [5, 3, 1, 2, 4], [5, 3, 4, 2, 1], [3, 1, 2, 4, 5]]
+Leaderboarder:  [[1, 19], [2, 20], [3, 26], [4, 20], [5, 20]]
+
+Running file Borda_2
+===================
+Got equilibrium at turn:  5
+Voted for:  [[5, 2, 3, 1, 6, 4], [5, 2, 6, 1, 3, 4], [5, 1, 2, 4, 6, 3], [4, 3, 6, 1, 2, 5], [4, 1, 6, 3, 2, 5], [5, 4, 6, 2, 3, 1]]
+Leaderboarder:  [[1, 20], [2, 21], [3, 17], [4, 22], [5, 26], [6, 20]]
+
+Running file Borda_3
+===================
+Got equilibrium at turn:  14
+Voted for:  [[3, 4, 2, 1, 5], [3, 1, 2, 5, 4], [5, 1, 2, 4, 3], [5, 4, 2, 3, 1], [5, 4, 3, 2, 1]]
+Leaderboarder:  [[1, 12], [2, 14], [3, 16], [4, 15], [5, 18]]
+
+Running file Borda_4
+===================
+Got equilibrium at turn:  5
+Voted for:  [[4, 2, 1, 3, 5], [3, 5, 1, 2, 4], [4, 2, 1, 3, 5], [5, 4, 2, 1, 3], [3, 5, 4, 1, 2], [3, 5, 4, 1, 2], [3, 5, 4, 2, 1]]
+Leaderboarder:  [[1, 16], [2, 17], [3, 25], [4, 24], [5, 23]]
+
+Running file Borda_5
+===================
+Voted for:  [[2, 3, 4, 1, 5], [2, 3, 5, 1, 4], [3, 5, 1, 4, 2], [5, 1, 2, 4, 3], [1, 4, 2, 3, 5], [4, 1, 5, 2, 3], [2, 5, 1, 4, 3], [3, 5, 4, 1, 2]]
+Leaderboarder:  [[1, 25], [2, 25], [3, 23], [4, 22], [5, 25]]
+Turns:  500
+
+Running file Borda_6
+===================
+Got equilibrium at turn:  1
+Voted for:  [[6, 1, 2, 4, 5, 3, 7], [3, 1, 6, 4, 5, 2, 7], [4, 1, 2, 6, 3, 5, 7], [1, 7, 4, 3, 5, 6, 2], [5, 4, 3, 7, 2, 1, 6], [5, 4, 3, 7, 6, 2, 1], [7, 2, 4, 6, 5, 3, 1], [3, 1, 7, 6, 4, 2, 5]]
+Leaderboarder:  [[1, 35], [2, 26], [3, 35], [4, 40], [5, 29], [6, 30], [7, 29]]
+
+Running file Borda_7
+===================
+Got equilibrium at turn:  13
+Voted for:  [[1, 2, 3, 4, 5], [1, 2, 3, 5, 4], [5, 4, 2, 3, 1], [1, 3, 2, 4, 5], [5, 4, 3, 2, 1], [5, 4, 3, 2, 1], [5, 1, 4, 3, 2]]
+Leaderboarder:  [[1, 22], [2, 19], [3, 20], [4, 20], [5, 24]]
+
+Running file Borda_8
+===================
+Got equilibrium at turn:  6
+Voted for:  [[3, 5, 2, 4, 1], [3, 1, 2, 5, 4], [3, 5, 4, 1, 2], [4, 2, 1, 5, 3], [4, 1, 2, 5, 3]]
+Leaderboarder:  [[1, 14], [2, 14], [3, 17], [4, 16], [5, 14]]
+
+Running file Borda_9
+===================
+Got equilibrium at turn:  20
+Voted for:  [[1, 7, 2, 5, 3, 6, 4], [4, 7, 1, 5, 3, 2, 6], [1, 7, 3, 4, 5, 2, 6], [6, 7, 4, 3, 5, 2, 1], [6, 4, 3, 5, 1, 2, 7], [6, 2, 5, 1, 4, 3, 7], [2, 6, 3, 7, 4, 1, 5], [6, 1, 5, 4, 2, 3, 7]]
+Leaderboarder:  [[1, 35], [2, 29], [3, 29], [4, 33], [5, 29], [6, 38], [7, 31]]
+
+Running file Borda_10
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 3, 4, 2, 1], [5, 3, 2, 4, 1], [5, 4, 2, 1, 3], [5, 2, 3, 4, 1], [2, 3, 1, 4, 5], [3, 1, 5, 4, 2], [2, 4, 5, 1, 3]]
+Leaderboarder:  [[1, 14], [2, 23], [3, 22], [4, 19], [5, 27]]
+
+Running file Borda_11
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 6, 2, 1, 5, 3, 7], [4, 2, 7, 6, 1, 5, 3], [5, 4, 2, 1, 3, 6, 7], [4, 6, 3, 7, 1, 2, 5], [3, 6, 1, 4, 7, 2, 5], [7, 2, 4, 6, 5, 3, 1]]
+Leaderboarder:  [[1, 20], [2, 26], [3, 20], [4, 36], [5, 17], [6, 28], [7, 21]]
+
+Running file Borda_12
+===================
+Got equilibrium at turn:  1
+Voted for:  [[6, 4, 5, 2, 1, 7, 3], [1, 6, 2, 7, 3, 4, 5], [2, 3, 6, 5, 4, 1, 7], [3, 4, 5, 2, 1, 7, 6], [6, 5, 2, 4, 1, 3, 7], [6, 7, 1, 3, 5, 4, 2], [7, 4, 3, 5, 2, 6, 1]]
+Leaderboarder:  [[1, 24], [2, 29], [3, 28], [4, 29], [5, 28], [6, 35], [7, 23]]
+
+Running file Borda_13
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 3, 2, 4, 1, 6], [4, 1, 3, 2, 5, 6], [2, 6, 3, 5, 4, 1], [4, 6, 3, 5, 1, 2], [3, 2, 6, 1, 5, 4]]
+Leaderboarder:  [[1, 13], [2, 19], [3, 23], [4, 18], [5, 16], [6, 16]]
+
+Running file Borda_14
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 2, 3, 1, 5], [2, 3, 1, 4, 5], [2, 5, 1, 3, 4], [5, 1, 4, 3, 2], [5, 1, 2, 3, 4], [2, 3, 5, 4, 1], [2, 4, 5, 1, 3], [4, 1, 2, 3, 5]]
+Leaderboarder:  [[1, 23], [2, 31], [3, 20], [4, 23], [5, 23]]
+
+Running file Borda_15
+===================
+Got equilibrium at turn:  12
+Voted for:  [[6, 3, 2, 4, 1, 5], [6, 3, 4, 1, 2, 5], [5, 3, 4, 2, 1, 6], [5, 2, 4, 1, 3, 6], [5, 6, 4, 1, 2, 3], [5, 2, 6, 3, 1, 4]]
+Leaderboarder:  [[1, 15], [2, 21], [3, 21], [4, 20], [5, 26], [6, 23]]
+
+Running file Borda_16
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 5, 4, 1, 6, 3], [6, 3, 1, 4, 2, 5], [5, 2, 1, 3, 6, 4], [4, 5, 3, 6, 1, 2], [6, 3, 4, 1, 5, 2], [6, 1, 4, 3, 5, 2], [6, 4, 1, 5, 2, 3]]
+Leaderboarder:  [[1, 25], [2, 18], [3, 22], [4, 27], [5, 24], [6, 31]]
+
+Running file Borda_17
+===================
+Voted for:  [[1, 4, 5, 2, 3], [5, 3, 2, 4, 1], [1, 4, 5, 3, 2], [2, 4, 5, 1, 3], [1, 3, 5, 2, 4], [3, 2, 5, 4, 1]]
+Leaderboarder:  [[1, 19], [2, 17], [3, 17], [4, 17], [5, 20]]
+Turns:  500
+
+Running file Borda_18
+===================
+Got equilibrium at turn:  2
+Voted for:  [[4, 3, 5, 2, 1], [4, 3, 2, 5, 1], [1, 5, 2, 4, 3], [5, 4, 3, 1, 2], [1, 3, 2, 4, 5], [1, 5, 4, 2, 3], [4, 1, 2, 3, 5]]
+Leaderboarder:  [[1, 23], [2, 17], [3, 19], [4, 26], [5, 20]]
+
+Running file Borda_19
+===================
+Got equilibrium at turn:  6
+Voted for:  [[2, 1, 5, 4, 3], [1, 5, 3, 4, 2], [2, 3, 5, 4, 1], [3, 4, 5, 2, 1], [3, 1, 5, 4, 2], [4, 1, 5, 3, 2], [2, 4, 3, 1, 5], [3, 2, 1, 5, 4]]
+Leaderboarder:  [[1, 24], [2, 24], [3, 28], [4, 22], [5, 22]]
+
+Running file Borda_20
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 5, 6, 4, 1, 2], [2, 3, 1, 6, 5, 4], [3, 1, 6, 2, 5, 4], [4, 1, 3, 2, 5, 6], [6, 5, 2, 3, 4, 1], [6, 3, 1, 5, 2, 4]]
+Leaderboarder:  [[1, 21], [2, 19], [3, 29], [4, 14], [5, 19], [6, 24]]
+
+Running file Borda_21
+===================
+Got equilibrium at turn:  14
+Voted for:  [[1, 2, 3, 5, 6, 7, 4], [4, 7, 6, 5, 3, 2, 1], [1, 6, 3, 2, 7, 5, 4], [4, 2, 3, 1, 7, 5, 6], [1, 4, 7, 6, 2, 5, 3]]
+Leaderboarder:  [[1, 26], [2, 21], [3, 19], [4, 22], [5, 14], [6, 19], [7, 19]]
+
+Running file Borda_22
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 6, 3, 2, 1, 5, 7], [1, 3, 7, 2, 6, 5, 4], [6, 4, 1, 7, 3, 2, 5], [1, 6, 3, 7, 2, 4, 5], [1, 3, 2, 6, 7, 5, 4], [4, 6, 1, 3, 5, 7, 2], [5, 7, 1, 2, 6, 4, 3], [2, 1, 6, 5, 4, 7, 3]]
+Leaderboarder:  [[1, 45], [2, 30], [3, 31], [4, 29], [5, 22], [6, 40], [7, 27]]
+
+Running file Borda_23
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 3, 4, 5, 1], [2, 5, 4, 1, 3], [2, 4, 3, 5, 1], [5, 4, 3, 2, 1], [1, 5, 3, 2, 4]]
+Leaderboarder:  [[1, 10], [2, 19], [3, 14], [4, 15], [5, 17]]
+
+Running file Borda_24
+===================
+Voted for:  [[4, 6, 3, 5, 2, 1], [4, 6, 1, 5, 2, 3], [1, 2, 5, 3, 6, 4], [3, 6, 1, 4, 5, 2], [2, 5, 6, 1, 3, 4], [4, 2, 5, 1, 6, 3], [3, 2, 4, 5, 1, 6]]
+Leaderboarder:  [[1, 23], [2, 26], [3, 23], [4, 27], [5, 24], [6, 24]]
+Turns:  500
+
+Running file Borda_25
+===================
+Voted for:  [[5, 4, 1, 2, 3], [3, 5, 2, 1, 4], [1, 4, 3, 5, 2], [2, 4, 5, 3, 1], [2, 5, 4, 3, 1], [2, 3, 5, 4, 1], [1, 5, 3, 4, 2], [3, 2, 1, 4, 5]]
+Leaderboarder:  [[1, 21], [2, 26], [3, 25], [4, 22], [5, 26]]
+Turns:  500
+
+Running file Borda_26
+===================
+Voted for:  [[1, 2, 3, 5, 4], [4, 5, 3, 2, 1], [5, 3, 4, 2, 1], [5, 2, 3, 4, 1], [1, 2, 3, 4, 5], [1, 2, 3, 4, 5], [5, 3, 4, 2, 1], [1, 4, 2, 3, 5]]
+Leaderboarder:  [[1, 24], [2, 25], [3, 25], [4, 22], [5, 24]]
+Turns:  500
+
+Running file Borda_27
+===================
+Got equilibrium at turn:  33
+Voted for:  [[4, 3, 5, 2, 1], [1, 2, 5, 3, 4], [4, 3, 5, 2, 1], [1, 2, 5, 4, 3], [1, 5, 3, 2, 4], [1, 4, 3, 5, 2], [3, 4, 2, 5, 1]]
+Leaderboarder:  [[1, 23], [2, 18], [3, 22], [4, 22], [5, 20]]
+
+Running file Borda_28
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 6, 1, 5, 3, 4, 7], [4, 7, 1, 6, 3, 5, 2], [5, 6, 4, 3, 2, 1, 7], [1, 5, 6, 7, 4, 3, 2], [4, 5, 2, 1, 6, 7, 3], [2, 3, 5, 7, 1, 6, 4], [5, 6, 2, 7, 1, 4, 3]]
+Leaderboarder:  [[1, 29], [2, 29], [3, 20], [4, 27], [5, 37], [6, 32], [7, 22]]
+
+Running file Borda_29
+===================
+Got equilibrium at turn:  12
+Voted for:  [[5, 1, 4, 3, 2], [2, 4, 3, 1, 5], [2, 3, 5, 4, 1], [1, 5, 3, 2, 4], [1, 4, 5, 3, 2], [2, 1, 4, 5, 3], [2, 5, 3, 4, 1]]
+Leaderboarder:  [[1, 22], [2, 24], [3, 18], [4, 19], [5, 22]]
+
+Running file Borda_30
+===================
+Got equilibrium at turn:  2
+Voted for:  [[6, 1, 4, 5, 7, 3, 2], [5, 7, 4, 2, 1, 3, 6], [2, 6, 4, 3, 7, 5, 1], [5, 3, 7, 4, 2, 6, 1], [1, 5, 7, 6, 3, 2, 4], [6, 2, 3, 5, 7, 1, 4]]
+Leaderboarder:  [[1, 20], [2, 23], [3, 22], [4, 21], [5, 30], [6, 27], [7, 25]]
+
+Running file Borda_31
+===================
+Got equilibrium at turn:  11
+Voted for:  [[1, 7, 5, 6, 2, 4, 3], [3, 2, 5, 7, 6, 4, 1], [5, 3, 6, 2, 1, 7, 4], [3, 1, 6, 2, 4, 5, 7], [3, 7, 4, 2, 1, 6, 5], [1, 4, 7, 3, 6, 5, 2]]
+Leaderboarder:  [[1, 27], [2, 22], [3, 32], [4, 19], [5, 22], [6, 22], [7, 24]]
+
+Running file Borda_32
+===================
+Voted for:  [[5, 4, 3, 2, 1], [1, 2, 3, 5, 4], [1, 5, 4, 2, 3], [3, 5, 4, 2, 1], [3, 4, 2, 1, 5], [1, 5, 4, 2, 3]]
+Leaderboarder:  [[1, 19], [2, 15], [3, 18], [4, 18], [5, 20]]
+Turns:  500
+
+Running file Borda_33
+===================
+Voted for:  [[5, 3, 2, 4, 1], [5, 2, 3, 4, 1], [4, 1, 2, 3, 5], [5, 4, 3, 2, 1], [5, 1, 4, 3, 2], [1, 4, 3, 2, 5], [1, 2, 4, 3, 5]]
+Leaderboarder:  [[1, 21], [2, 19], [3, 19], [4, 23], [5, 23]]
+Turns:  500
+
+Running file Borda_34
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 2, 1, 5, 6, 4, 7], [3, 2, 4, 5, 6, 7, 1], [3, 2, 4, 6, 1, 5, 7], [7, 3, 6, 2, 1, 5, 4], [1, 6, 3, 5, 7, 4, 2], [6, 7, 4, 2, 3, 5, 1]]
+Leaderboarder:  [[1, 20], [2, 27], [3, 35], [4, 20], [5, 18], [6, 28], [7, 20]]
+
+Running file Borda_35
+===================
+Voted for:  [[5, 3, 4, 2, 1], [5, 2, 1, 3, 4], [1, 2, 4, 3, 5], [2, 4, 1, 3, 5], [5, 1, 4, 3, 2]]
+Leaderboarder:  [[1, 16], [2, 16], [3, 12], [4, 14], [5, 17]]
+Turns:  500
+
+Running file Borda_36
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 1, 2, 4, 3], [4, 3, 5, 1, 2], [3, 5, 4, 1, 2], [3, 4, 5, 2, 1], [1, 5, 4, 3, 2], [4, 3, 2, 1, 5], [3, 1, 5, 2, 4]]
+Leaderboarder:  [[1, 20], [2, 13], [3, 26], [4, 23], [5, 23]]
+
+Running file Borda_37
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 5, 4, 2, 1], [1, 5, 3, 4, 2], [5, 4, 2, 1, 3], [1, 3, 2, 5, 4], [3, 2, 4, 1, 5], [4, 2, 1, 3, 5], [3, 2, 1, 5, 4]]
+Leaderboarder:  [[1, 21], [2, 21], [3, 25], [4, 19], [5, 19]]
+
+Running file Borda_38
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 4, 5, 2, 3], [3, 5, 1, 4, 2], [1, 4, 3, 2, 5], [3, 5, 4, 2, 1], [2, 1, 5, 3, 4], [4, 2, 5, 3, 1], [4, 2, 3, 5, 1], [5, 4, 1, 2, 3]]
+Leaderboarder:  [[1, 23], [2, 22], [3, 22], [4, 28], [5, 25]]
+
+Running file Borda_39
+===================
+Got equilibrium at turn:  3
+Voted for:  [[5, 4, 3, 2, 1], [5, 4, 1, 2, 3], [4, 3, 5, 1, 2], [1, 3, 2, 4, 5], [5, 1, 3, 2, 4], [1, 2, 3, 4, 5], [5, 1, 4, 2, 3]]
+Leaderboarder:  [[1, 24], [2, 16], [3, 19], [4, 21], [5, 25]]
+
+Running file Borda_40
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 5, 1, 2, 4], [1, 3, 5, 2, 4], [1, 5, 4, 3, 2], [2, 5, 4, 1, 3], [3, 1, 5, 2, 4], [2, 4, 1, 5, 3], [1, 3, 5, 4, 2]]
+Leaderboarder:  [[1, 27], [2, 18], [3, 22], [4, 15], [5, 23]]
+
+Running file Borda_41
+===================
+Voted for:  [[1, 2, 3, 5, 6, 4], [6, 5, 2, 3, 4, 1], [5, 1, 3, 2, 6, 4], [4, 3, 6, 1, 2, 5], [6, 5, 1, 4, 3, 2], [4, 6, 5, 2, 3, 1], [3, 4, 2, 1, 5, 6], [1, 4, 6, 2, 3, 5]]
+Leaderboarder:  [[1, 29], [2, 25], [3, 28], [4, 29], [5, 27], [6, 30]]
+Turns:  500
+
+Running file Borda_42
+===================
+Voted for:  [[3, 1, 2, 5, 6, 4], [4, 6, 5, 2, 1, 3], [3, 2, 5, 1, 4, 6], [4, 3, 1, 6, 5, 2], [6, 2, 5, 1, 4, 3], [6, 5, 3, 4, 1, 2]]
+Leaderboarder:  [[1, 19], [2, 19], [3, 23], [4, 20], [5, 22], [6, 23]]
+Turns:  500
+
+Running file Borda_43
+===================
+Voted for:  [[7, 3, 4, 2, 1, 5, 6], [6, 5, 4, 3, 2, 1, 7], [6, 7, 2, 3, 4, 5, 1], [7, 5, 1, 4, 3, 2, 6], [7, 6, 2, 1, 5, 4, 3], [1, 2, 5, 6, 3, 4, 7], [1, 4, 5, 2, 6, 3, 7]]
+Leaderboarder:  [[1, 29], [2, 29], [3, 23], [4, 27], [5, 29], [6, 29], [7, 30]]
+Turns:  500
+
+Running file Borda_44
+===================
+Voted for:  [[5, 7, 4, 2, 3, 6, 1], [6, 5, 1, 3, 2, 4, 7], [7, 6, 1, 2, 4, 3, 5], [2, 4, 5, 3, 1, 6, 7], [7, 1, 4, 2, 5, 6, 3], [5, 6, 1, 7, 4, 3, 2], [6, 3, 1, 7, 2, 5, 4]]
+Leaderboarder:  [[1, 30], [2, 26], [3, 22], [4, 25], [5, 31], [6, 32], [7, 30]]
+Turns:  500
+
+Running file Borda_45
+===================
+Voted for:  [[4, 1, 3, 5, 2], [1, 4, 3, 2, 5], [5, 3, 1, 2, 4], [5, 3, 2, 1, 4], [1, 2, 4, 5, 3], [4, 2, 5, 3, 1], [5, 2, 3, 1, 4], [4, 2, 5, 3, 1]]
+Leaderboarder:  [[1, 23], [2, 24], [3, 22], [4, 25], [5, 26]]
+Turns:  500
+
+Running file Borda_46
+===================
+Voted for:  [[6, 1, 3, 4, 5, 2], [6, 5, 1, 4, 3, 2], [5, 4, 3, 1, 2, 6], [6, 5, 4, 1, 3, 2], [2, 5, 1, 3, 6, 4], [4, 2, 3, 5, 1, 6], [2, 6, 4, 1, 3, 5], [3, 2, 1, 4, 6, 5]]
+Leaderboarder:  [[1, 28], [2, 27], [3, 27], [4, 29], [5, 28], [6, 29]]
+Turns:  500
+
+Running file Borda_47
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 2, 4, 6, 1, 7, 3], [5, 2, 1, 6, 4, 7, 3], [1, 3, 5, 7, 2, 6, 4], [2, 3, 1, 5, 6, 7, 4], [5, 1, 7, 3, 2, 6, 4], [5, 7, 3, 4, 2, 6, 1]]
+Leaderboarder:  [[1, 27], [2, 28], [3, 23], [4, 15], [5, 37], [6, 17], [7, 21]]
+
+Running file Borda_48
+===================
+Got equilibrium at turn:  3
+Voted for:  [[1, 3, 5, 6, 4, 2], [1, 5, 6, 3, 2, 4], [1, 2, 5, 4, 3, 6], [2, 4, 3, 6, 5, 1], [2, 6, 4, 1, 5, 3]]
+Leaderboarder:  [[1, 22], [2, 20], [3, 15], [4, 15], [5, 17], [6, 16]]
+
+Running file Borda_49
+===================
+Voted for:  [[5, 2, 6, 7, 4, 1, 3], [1, 3, 4, 2, 6, 7, 5], [5, 4, 7, 2, 6, 1, 3], [7, 5, 4, 3, 1, 6, 2], [5, 1, 3, 2, 6, 7, 4], [1, 3, 4, 6, 2, 7, 5], [6, 1, 4, 3, 7, 2, 5], [2, 3, 5, 6, 7, 1, 4]]
+Leaderboarder:  [[1, 35], [2, 31], [3, 33], [4, 31], [5, 35], [6, 31], [7, 28]]
+Turns:  500
+
+Running file Borda_50
+===================
+Got equilibrium at turn:  5
+Voted for:  [[5, 2, 3, 1, 4], [1, 4, 2, 3, 5], [1, 4, 3, 2, 5], [5, 3, 1, 2, 4], [1, 4, 2, 5, 3], [5, 4, 3, 2, 1]]
+Leaderboarder:  [[1, 21], [2, 16], [3, 16], [4, 18], [5, 19]]
+
+Running file Borda_51
+===================
+Voted for:  [[6, 7, 3, 2, 4, 1, 5], [5, 1, 4, 2, 7, 3, 6], [4, 6, 7, 5, 3, 2, 1], [6, 3, 2, 5, 7, 1, 4], [1, 7, 3, 2, 5, 6, 4], [6, 5, 2, 4, 3, 7, 1], [1, 4, 2, 7, 3, 5, 6], [1, 3, 4, 5, 6, 2, 7]]
+Leaderboarder:  [[1, 33], [2, 31], [3, 33], [4, 32], [5, 31], [6, 34], [7, 30]]
+Turns:  500
+
+Running file Borda_52
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 3, 5, 2, 6, 1], [6, 1, 5, 2, 3, 4], [3, 2, 6, 5, 1, 4], [4, 3, 1, 5, 2, 6], [4, 2, 5, 3, 6, 1], [3, 2, 6, 1, 5, 4], [3, 1, 4, 2, 6, 5], [5, 3, 4, 6, 2, 1]]
+Leaderboarder:  [[1, 22], [2, 28], [3, 38], [4, 29], [5, 27], [6, 24]]
+
+Running file Borda_53
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 5, 4, 1, 3], [2, 5, 3, 1, 4], [2, 4, 3, 1, 5], [3, 1, 5, 2, 4], [2, 4, 3, 5, 1], [5, 4, 1, 3, 2], [3, 5, 4, 2, 1], [2, 4, 3, 1, 5]]
+Leaderboarder:  [[1, 17], [2, 30], [3, 25], [4, 24], [5, 24]]
+
+Running file Borda_54
+===================
+Voted for:  [[3, 4, 6, 5, 2, 1], [1, 2, 5, 4, 6, 3], [1, 5, 6, 4, 2, 3], [5, 6, 3, 2, 4, 1], [2, 3, 1, 4, 6, 5], [2, 3, 1, 5, 6, 4], [4, 3, 1, 5, 2, 6]]
+Leaderboarder:  [[1, 26], [2, 26], [3, 27], [4, 23], [5, 25], [6, 20]]
+Turns:  500
+
+Running file Borda_55
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 2, 7, 5, 1, 6, 4], [3, 4, 7, 2, 6, 1, 5], [2, 5, 4, 1, 3, 6, 7], [6, 2, 5, 7, 3, 1, 4], [7, 4, 1, 2, 6, 3, 5], [5, 2, 4, 1, 3, 6, 7], [5, 6, 2, 3, 1, 4, 7]]
+Leaderboarder:  [[1, 23], [2, 38], [3, 29], [4, 26], [5, 31], [6, 25], [7, 24]]
+
+Running file Borda_56
+===================
+Got equilibrium at turn:  23
+Voted for:  [[2, 6, 4, 3, 1, 5], [5, 1, 3, 4, 6, 2], [1, 5, 3, 4, 6, 2], [2, 4, 3, 6, 5, 1], [2, 5, 6, 1, 3, 4]]
+Leaderboarder:  [[1, 17], [2, 20], [3, 17], [4, 16], [5, 19], [6, 16]]
+
+Running file Borda_57
+===================
+Voted for:  [[4, 2, 3, 1, 7, 6, 5], [6, 2, 5, 4, 1, 7, 3], [7, 5, 6, 3, 4, 1, 2], [6, 1, 2, 3, 7, 5, 4], [5, 4, 1, 3, 6, 2, 7], [7, 4, 5, 6, 3, 1, 2], [7, 2, 1, 3, 5, 4, 6]]
+Leaderboarder:  [[1, 27], [2, 27], [3, 25], [4, 29], [5, 29], [6, 29], [7, 30]]
+Turns:  500
+
+Running file Borda_58
+===================
+Voted for:  [[2, 1, 4, 3, 5, 6], [6, 5, 3, 4, 1, 2], [6, 2, 5, 1, 4, 3], [4, 1, 2, 6, 5, 3], [4, 6, 2, 1, 3, 5], [5, 1, 3, 6, 2, 4]]
+Leaderboarder:  [[1, 23], [2, 22], [3, 15], [4, 22], [5, 20], [6, 24]]
+Turns:  500
+
+Running file Borda_59
+===================
+Got equilibrium at turn:  3
+Voted for:  [[5, 4, 3, 2, 1], [5, 2, 3, 1, 4], [2, 4, 1, 3, 5], [2, 1, 5, 4, 3], [5, 1, 4, 2, 3], [3, 2, 4, 5, 1], [1, 2, 4, 3, 5], [3, 4, 1, 5, 2]]
+Leaderboarder:  [[1, 23], [2, 27], [3, 22], [4, 24], [5, 24]]
+
+Running file Borda_60
+===================
+Got equilibrium at turn:  14
+Voted for:  [[1, 4, 5, 3, 2], [1, 5, 4, 2, 3], [2, 3, 5, 4, 1], [3, 2, 4, 5, 1], [1, 5, 2, 4, 3], [2, 4, 3, 5, 1], [3, 2, 5, 1, 4]]
+Leaderboarder:  [[1, 20], [2, 24], [3, 21], [4, 19], [5, 21]]
+
+Running file Borda_61
+===================
+Got equilibrium at turn:  8
+Voted for:  [[5, 1, 4, 3, 7, 2, 6], [2, 4, 1, 7, 3, 5, 6], [2, 3, 7, 6, 4, 1, 5], [2, 5, 4, 3, 6, 7, 1], [6, 5, 3, 4, 1, 7, 2], [6, 5, 7, 3, 4, 1, 2], [2, 7, 1, 4, 6, 5, 3], [6, 1, 2, 5, 7, 4, 3]]
+Leaderboarder:  [[1, 30], [2, 37], [3, 28], [4, 32], [5, 34], [6, 33], [7, 30]]
+
+Running file Borda_62
+===================
+Got equilibrium at turn:  40
+Voted for:  [[6, 1, 3, 2, 5, 4], [4, 5, 6, 2, 3, 1], [4, 2, 1, 3, 5, 6], [4, 3, 6, 1, 5, 2], [6, 1, 3, 5, 2, 4], [6, 2, 5, 4, 1, 3]]
+Leaderboarder:  [[1, 20], [2, 19], [3, 19], [4, 23], [5, 18], [6, 27]]
+
+Running file Borda_63
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 4, 5, 6, 7, 2, 3], [1, 3, 4, 7, 5, 6, 2], [3, 6, 2, 7, 4, 1, 5], [6, 1, 3, 5, 4, 7, 2], [2, 1, 3, 5, 6, 4, 7], [1, 5, 6, 7, 2, 4, 3]]
+Leaderboarder:  [[1, 35], [2, 19], [3, 25], [4, 21], [5, 23], [6, 27], [7, 18]]
+
+Running file Borda_64
+===================
+Voted for:  [[3, 2, 4, 6, 5, 1, 7], [7, 1, 5, 6, 4, 2, 3], [7, 2, 5, 3, 6, 4, 1], [4, 1, 5, 3, 6, 2, 7], [3, 1, 6, 7, 4, 2, 5]]
+Leaderboarder:  [[1, 21], [2, 18], [3, 23], [4, 20], [5, 19], [6, 19], [7, 20]]
+Turns:  500
+
+Running file Borda_65
+===================
+Voted for:  [[3, 4, 2, 6, 5, 1], [1, 5, 6, 2, 4, 3], [4, 6, 2, 3, 1, 5], [3, 1, 5, 6, 4, 2], [5, 1, 4, 3, 6, 2]]
+Leaderboarder:  [[1, 19], [2, 13], [3, 19], [4, 19], [5, 18], [6, 17]]
+Turns:  500
+
+Running file Borda_66
+===================
+Voted for:  [[6, 1, 4, 2, 5, 3, 7], [1, 7, 3, 5, 4, 6, 2], [2, 3, 6, 4, 5, 1, 7], [5, 3, 1, 6, 7, 4, 2], [2, 4, 7, 6, 3, 5, 1], [7, 2, 4, 5, 1, 6, 3]]
+Leaderboarder:  [[1, 24], [2, 26], [3, 23], [4, 25], [5, 23], [6, 24], [7, 23]]
+Turns:  500
+
+Running file Borda_67
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 2, 4, 3, 1], [1, 2, 3, 5, 4], [3, 4, 2, 1, 5], [5, 2, 1, 4, 3], [5, 3, 4, 2, 1], [4, 3, 1, 5, 2], [3, 2, 5, 4, 1], [3, 1, 4, 5, 2]]
+Leaderboarder:  [[1, 20], [2, 23], [3, 29], [4, 23], [5, 25]]
+
+Running file Borda_68
+===================
+Voted for:  [[7, 5, 3, 1, 4, 6, 2], [5, 1, 2, 4, 7, 3, 6], [5, 7, 3, 2, 6, 1, 4], [2, 7, 6, 3, 1, 4, 5], [6, 7, 2, 3, 5, 4, 1], [5, 3, 6, 4, 1, 2, 7], [6, 1, 3, 2, 4, 7, 5], [2, 6, 7, 1, 4, 3, 5]]
+Leaderboarder:  [[1, 29], [2, 35], [3, 33], [4, 22], [5, 33], [6, 36], [7, 36]]
+Turns:  500
+
+Running file Borda_69
+===================
+Voted for:  [[3, 5, 4, 2, 6, 1], [3, 4, 6, 5, 1, 2], [2, 6, 1, 5, 4, 3], [4, 1, 6, 2, 3, 5], [6, 2, 4, 1, 3, 5], [2, 5, 1, 3, 4, 6], [5, 3, 1, 6, 2, 4]]
+Leaderboarder:  [[1, 23], [2, 26], [3, 25], [4, 24], [5, 24], [6, 25]]
+Turns:  500
+
+Running file Borda_70
+===================
+Got equilibrium at turn:  17
+Voted for:  [[2, 1, 3, 5, 6, 4, 7], [7, 3, 6, 4, 5, 2, 1], [2, 5, 4, 6, 7, 1, 3], [2, 4, 7, 1, 5, 3, 6], [7, 3, 1, 6, 5, 4, 2], [2, 4, 7, 1, 5, 6, 3], [3, 2, 7, 5, 6, 1, 4]]
+Leaderboarder:  [[1, 24], [2, 37], [3, 28], [4, 26], [5, 26], [6, 22], [7, 33]]
+
+Running file Borda_71
+===================
+Voted for:  [[3, 6, 1, 4, 5, 2], [2, 5, 4, 1, 3, 6], [2, 1, 4, 6, 3, 5], [5, 6, 3, 1, 4, 2], [3, 2, 4, 6, 5, 1]]
+Leaderboarder:  [[1, 16], [2, 19], [3, 20], [4, 17], [5, 16], [6, 17]]
+Turns:  500
+
+Running file Borda_72
+===================
+Voted for:  [[4, 6, 3, 1, 5, 2], [2, 5, 1, 6, 3, 4], [1, 6, 4, 2, 3, 5], [2, 4, 5, 6, 3, 1], [1, 4, 2, 5, 3, 6], [5, 3, 4, 2, 6, 1], [5, 1, 2, 4, 6, 3]]
+Leaderboarder:  [[1, 26], [2, 27], [3, 18], [4, 28], [5, 27], [6, 21]]
+Turns:  500
+
+Running file Borda_73
+===================
+Voted for:  [[1, 3, 6, 5, 2, 4], [4, 6, 2, 5, 3, 1], [2, 4, 6, 5, 1, 3], [4, 3, 5, 1, 2, 6], [1, 3, 5, 6, 2, 4]]
+Leaderboarder:  [[1, 18], [2, 16], [3, 18], [4, 19], [5, 17], [6, 17]]
+Turns:  500
+
+Running file Borda_74
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 4, 1, 3, 5], [5, 4, 2, 3, 1], [2, 1, 5, 3, 4], [3, 4, 2, 1, 5], [2, 4, 1, 5, 3]]
+Leaderboarder:  [[1, 13], [2, 21], [3, 12], [4, 17], [5, 12]]
+
+Running file Borda_75
+===================
+Got equilibrium at turn:  22
+Voted for:  [[1, 3, 4, 2, 6, 7, 5], [4, 1, 2, 6, 7, 5, 3], [5, 3, 7, 6, 2, 4, 1], [5, 3, 6, 7, 1, 2, 4], [5, 4, 7, 1, 2, 6, 3]]
+Leaderboarder:  [[1, 21], [2, 17], [3, 20], [4, 21], [5, 24], [6, 18], [7, 19]]
+
+Running file Borda_76
+===================
+Voted for:  [[7, 3, 1, 4, 5, 6, 2], [5, 2, 6, 4, 1, 3, 7], [7, 1, 5, 4, 3, 2, 6], [6, 2, 4, 5, 1, 7, 3], [3, 7, 4, 5, 2, 6, 1], [1, 2, 3, 6, 5, 7, 4], [3, 1, 6, 2, 7, 4, 5], [5, 7, 6, 4, 2, 3, 1]]
+Leaderboarder:  [[1, 32], [2, 31], [3, 33], [4, 29], [5, 34], [6, 31], [7, 34]]
+Turns:  500
+
+Running file Borda_77
+===================
+Voted for:  [[2, 4, 1, 5, 3, 6, 7], [6, 2, 7, 3, 4, 5, 1], [1, 2, 5, 7, 4, 3, 6], [6, 5, 4, 3, 7, 1, 2], [3, 1, 7, 5, 6, 4, 2]]
+Leaderboarder:  [[1, 21], [2, 21], [3, 20], [4, 19], [5, 21], [6, 20], [7, 18]]
+Turns:  500
+
+Running file Borda_78
+===================
+Voted for:  [[3, 4, 5, 2, 1], [2, 1, 5, 4, 3], [2, 4, 5, 3, 1], [3, 1, 5, 2, 4], [3, 1, 2, 4, 5], [1, 5, 2, 3, 4]]
+Leaderboarder:  [[1, 19], [2, 20], [3, 20], [4, 14], [5, 17]]
+Turns:  500
+
+Running file Borda_79
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 1, 5, 4, 2, 6, 7], [3, 4, 5, 6, 1, 2, 7], [4, 1, 3, 2, 7, 5, 6], [3, 6, 4, 7, 1, 5, 2], [5, 6, 2, 7, 3, 4, 1]]
+Leaderboarder:  [[1, 19], [2, 15], [3, 29], [4, 24], [5, 21], [6, 19], [7, 13]]
+
+Running file Borda_80
+===================
+Voted for:  [[4, 1, 2, 6, 5, 3], [3, 6, 5, 2, 1, 4], [4, 5, 2, 3, 6, 1], [1, 5, 6, 3, 2, 4], [3, 2, 6, 4, 1, 5], [1, 4, 3, 2, 5, 6]]
+Leaderboarder:  [[1, 22], [2, 21], [3, 23], [4, 22], [5, 19], [6, 19]]
+Turns:  500
+
+Running file Borda_81
+===================
+Voted for:  [[2, 3, 4, 1, 5], [5, 1, 4, 3, 2], [3, 2, 4, 5, 1], [4, 3, 2, 5, 1], [5, 2, 1, 4, 3], [5, 3, 4, 1, 2], [2, 5, 3, 4, 1]]
+Leaderboarder:  [[1, 14], [2, 23], [3, 23], [4, 21], [5, 24]]
+Turns:  500
+
+Running file Borda_82
+===================
+Voted for:  [[2, 5, 3, 7, 6, 4, 1], [1, 4, 6, 7, 3, 2, 5], [5, 4, 6, 7, 2, 1, 3], [3, 2, 1, 5, 6, 7, 4], [4, 1, 3, 2, 5, 7, 6], [1, 2, 7, 5, 4, 3, 6], [3, 7, 5, 2, 1, 4, 6]]
+Leaderboarder:  [[1, 31], [2, 32], [3, 30], [4, 27], [5, 30], [6, 19], [7, 27]]
+Turns:  500
+
+Running file Borda_83
+===================
+Voted for:  [[5, 2, 7, 1, 4, 3, 6], [1, 6, 3, 4, 7, 2, 5], [7, 1, 4, 3, 2, 6, 5], [5, 1, 2, 6, 3, 4, 7], [5, 1, 6, 3, 2, 4, 7], [7, 4, 6, 5, 2, 3, 1], [5, 3, 2, 6, 4, 1, 7], [7, 4, 6, 3, 1, 2, 5]]
+Leaderboarder:  [[1, 35], [2, 29], [3, 30], [4, 31], [5, 35], [6, 32], [7, 32]]
+Turns:  500
+
+Running file Borda_84
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 1, 2, 3, 4], [1, 4, 2, 5, 3], [4, 3, 1, 2, 5], [5, 1, 2, 4, 3], [1, 5, 3, 2, 4], [1, 2, 5, 3, 4], [1, 5, 3, 2, 4], [4, 5, 3, 1, 2]]
+Leaderboarder:  [[1, 33], [2, 20], [3, 19], [4, 20], [5, 28]]
+
+Running file Borda_85
+===================
+Voted for:  [[3, 6, 2, 4, 7, 1, 5], [7, 1, 2, 4, 6, 3, 5], [5, 2, 4, 7, 1, 6, 3], [4, 1, 5, 3, 6, 7, 2], [7, 6, 3, 5, 1, 2, 4], [5, 3, 1, 6, 7, 2, 4]]
+Leaderboarder:  [[1, 25], [2, 21], [3, 25], [4, 22], [5, 25], [6, 24], [7, 26]]
+Turns:  500
+
+Running file Borda_86
+===================
+Got equilibrium at turn:  3
+Voted for:  [[2, 6, 5, 1, 4, 3], [5, 6, 2, 3, 1, 4], [3, 6, 4, 1, 5, 2], [2, 3, 1, 4, 6, 5], [4, 3, 1, 6, 5, 2], [4, 2, 1, 5, 6, 3], [2, 3, 1, 5, 4, 6]]
+Leaderboarder:  [[1, 24], [2, 29], [3, 26], [4, 24], [5, 21], [6, 23]]
+
+Running file Borda_87
+===================
+Voted for:  [[5, 3, 1, 6, 2, 4], [4, 2, 6, 1, 5, 3], [5, 3, 4, 6, 2, 1], [5, 4, 1, 2, 6, 3], [1, 3, 5, 2, 4, 6], [3, 4, 1, 2, 5, 6], [1, 4, 3, 6, 5, 2], [5, 4, 3, 6, 2, 1]]
+Leaderboarder:  [[1, 29], [2, 21], [3, 31], [4, 33], [5, 34], [6, 20]]
+Turns:  500
+
+Running file Borda_88
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 1, 6, 2, 4, 5], [4, 1, 5, 3, 2, 6], [1, 2, 3, 5, 6, 4], [5, 1, 2, 4, 6, 3], [4, 3, 1, 6, 2, 5], [2, 4, 6, 3, 1, 5], [5, 1, 6, 4, 2, 3], [4, 5, 1, 3, 2, 6]]
+Leaderboarder:  [[1, 36], [2, 26], [3, 26], [4, 32], [5, 27], [6, 21]]
+
+Running file Borda_89
+===================
+Voted for:  [[2, 4, 3, 5, 1, 6], [1, 3, 6, 5, 4, 2], [4, 6, 5, 3, 2, 1], [1, 3, 6, 2, 5, 4], [4, 5, 2, 6, 3, 1], [1, 2, 6, 5, 3, 4]]
+Leaderboarder:  [[1, 22], [2, 21], [3, 21], [4, 21], [5, 20], [6, 21]]
+Turns:  500
+
+Running file Borda_90
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 2, 4, 5, 3, 7, 6], [5, 4, 6, 2, 7, 3, 1], [5, 3, 2, 7, 6, 4, 1], [1, 4, 5, 7, 3, 6, 2], [7, 3, 5, 6, 2, 4, 1]]
+Leaderboarder:  [[1, 17], [2, 19], [3, 20], [4, 21], [5, 28], [6, 15], [7, 20]]
+
+Running file Borda_91
+===================
+Voted for:  [[4, 3, 2, 5, 1, 7, 6], [5, 2, 7, 1, 3, 6, 4], [6, 3, 4, 7, 5, 1, 2], [6, 4, 1, 5, 2, 3, 7], [7, 2, 1, 6, 5, 4, 3]]
+Leaderboarder:  [[1, 19], [2, 21], [3, 18], [4, 21], [5, 21], [6, 21], [7, 19]]
+Turns:  500
+
+Running file Borda_92
+===================
+Voted for:  [[1, 7, 4, 5, 6, 2, 3], [3, 2, 6, 5, 4, 1, 7], [4, 2, 5, 7, 6, 1, 3], [4, 3, 1, 5, 6, 7, 2], [7, 2, 3, 6, 1, 5, 4], [1, 3, 7, 6, 2, 4, 5]]
+Leaderboarder:  [[1, 26], [2, 24], [3, 26], [4, 25], [5, 20], [6, 22], [7, 25]]
+Turns:  500
+
+Running file Borda_93
+===================
+Voted for:  [[3, 1, 4, 2, 5], [2, 3, 1, 4, 5], [1, 4, 3, 5, 2], [2, 5, 3, 1, 4], [4, 5, 3, 1, 2], [1, 5, 2, 3, 4], [4, 5, 2, 1, 3]]
+Leaderboarder:  [[1, 23], [2, 20], [3, 21], [4, 21], [5, 20]]
+Turns:  500
+
+Running file Borda_94
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 4, 3, 1, 6, 5], [2, 1, 5, 4, 6, 3], [2, 4, 3, 1, 6, 5], [2, 6, 5, 4, 3, 1], [2, 5, 3, 4, 6, 1]]
+Leaderboarder:  [[1, 13], [2, 30], [3, 15], [4, 19], [5, 15], [6, 13]]
+
+Running file Borda_95
+===================
+Voted for:  [[3, 1, 4, 5, 6, 7, 2], [2, 4, 6, 7, 5, 3, 1], [3, 1, 5, 2, 7, 4, 6], [7, 5, 6, 1, 2, 4, 3], [6, 7, 2, 3, 5, 1, 4]]
+Leaderboarder:  [[1, 19], [2, 20], [3, 21], [4, 16], [5, 21], [6, 21], [7, 22]]
+Turns:  500
+
+Running file Borda_96
+===================
+Got equilibrium at turn:  8
+Voted for:  [[2, 4, 1, 5, 3], [3, 5, 1, 2, 4], [3, 5, 4, 1, 2], [2, 4, 1, 5, 3], [3, 4, 5, 1, 2], [2, 1, 4, 5, 3], [2, 3, 4, 5, 1]]
+Leaderboarder:  [[1, 18], [2, 24], [3, 22], [4, 22], [5, 19]]
+
+Running file Borda_97
+===================
+Voted for:  [[1, 4, 6, 3, 5, 7, 2], [3, 2, 5, 6, 4, 7, 1], [7, 6, 1, 3, 4, 2, 5], [5, 3, 7, 2, 6, 4, 1], [1, 2, 5, 7, 4, 3, 6]]
+Leaderboarder:  [[1, 21], [2, 19], [3, 23], [4, 17], [5, 21], [6, 19], [7, 20]]
+Turns:  500
+
+Running file Borda_98
+===================
+Got equilibrium at turn:  33
+Voted for:  [[5, 1, 7, 2, 4, 3, 6], [5, 2, 4, 7, 1, 6, 3], [6, 3, 7, 1, 4, 2, 5], [5, 1, 6, 3, 4, 2, 7], [3, 6, 7, 4, 2, 5, 1]]
+Leaderboarder:  [[1, 20], [2, 17], [3, 20], [4, 18], [5, 24], [6, 21], [7, 20]]
+
+Running file Borda_99
+===================
+Voted for:  [[1, 4, 5, 3, 2, 7, 6], [6, 7, 3, 2, 1, 5, 4], [4, 5, 1, 3, 2, 7, 6], [6, 7, 1, 3, 2, 5, 4], [4, 7, 1, 3, 6, 2, 5], [4, 1, 6, 7, 2, 5, 3], [5, 7, 6, 3, 2, 1, 4], [5, 6, 2, 3, 4, 1, 7]]
+Leaderboarder:  [[1, 35], [2, 26], [3, 30], [4, 33], [5, 32], [6, 35], [7, 33]]
+Turns:  500
+
+Running file Borda_100
+===================
+Voted for:  [[5, 2, 4, 6, 1, 3], [3, 1, 6, 4, 2, 5], [3, 1, 2, 5, 6, 4], [1, 6, 5, 3, 4, 2], [5, 2, 6, 3, 4, 1]]
+Leaderboarder:  [[1, 19], [2, 17], [3, 19], [4, 12], [5, 20], [6, 18]]
+Turns:  500
+
+Running file Borda_101
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 5, 4, 7, 6, 3, 2], [6, 2, 4, 7, 1, 5, 3], [4, 3, 2, 6, 7, 5, 1], [3, 4, 7, 1, 5, 6, 2], [6, 1, 4, 2, 3, 7, 5], [3, 4, 6, 1, 5, 2, 7], [7, 4, 3, 2, 5, 1, 6]]
+Leaderboarder:  [[1, 27], [2, 23], [3, 31], [4, 40], [5, 20], [6, 29], [7, 26]]
+
+Running file Borda_102
+===================
+Voted for:  [[3, 2, 6, 5, 1, 4], [4, 5, 6, 1, 3, 2], [4, 5, 6, 2, 1, 3], [1, 5, 3, 2, 4, 6], [3, 2, 4, 1, 6, 5]]
+Leaderboarder:  [[1, 16], [2, 17], [3, 19], [4, 19], [5, 19], [6, 15]]
+Turns:  500
+
+Running file Borda_103
+===================
+Voted for:  [[3, 6, 2, 5, 4, 1], [4, 1, 5, 6, 2, 3], [1, 4, 2, 6, 5, 3], [3, 4, 5, 6, 1, 2], [4, 1, 5, 2, 3, 6], [5, 3, 1, 6, 4, 2], [3, 6, 2, 5, 4, 1]]
+Leaderboarder:  [[1, 24], [2, 19], [3, 27], [4, 28], [5, 26], [6, 23]]
+Turns:  500
+
+Running file Borda_104
+===================
+Got equilibrium at turn:  2
+Voted for:  [[5, 4, 6, 3, 1, 2], [6, 4, 1, 5, 3, 2], [2, 5, 1, 3, 6, 4], [2, 4, 1, 6, 5, 3], [2, 4, 6, 1, 3, 5], [2, 3, 4, 1, 5, 6]]
+Leaderboarder:  [[1, 20], [2, 26], [3, 16], [4, 25], [5, 19], [6, 20]]
+
+Running file Borda_105
+===================
+Voted for:  [[2, 4, 6, 5, 7, 3, 1], [7, 5, 2, 1, 6, 3, 4], [3, 2, 1, 6, 4, 5, 7], [3, 5, 6, 1, 2, 4, 7], [4, 7, 3, 1, 2, 5, 6], [7, 1, 5, 6, 3, 4, 2]]
+Leaderboarder:  [[1, 24], [2, 25], [3, 26], [4, 21], [5, 25], [6, 22], [7, 25]]
+Turns:  500
+
+Running file Borda_106
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 6, 5, 2, 4, 3], [6, 4, 1, 5, 3, 2], [6, 2, 4, 5, 3, 1], [3, 5, 1, 6, 2, 4], [6, 1, 2, 3, 4, 5]]
+Leaderboarder:  [[1, 20], [2, 15], [3, 14], [4, 14], [5, 16], [6, 26]]
+
+Running file Borda_107
+===================
+Voted for:  [[1, 5, 2, 3, 4, 6, 7], [1, 6, 5, 3, 2, 4, 7], [6, 7, 2, 3, 4, 5, 1], [7, 3, 1, 4, 2, 6, 5], [6, 5, 2, 7, 1, 3, 4], [7, 5, 6, 1, 3, 2, 4], [1, 4, 7, 5, 6, 3, 2], [6, 7, 3, 1, 4, 5, 2]]
+Leaderboarder:  [[1, 38], [2, 25], [3, 30], [4, 23], [5, 32], [6, 39], [7, 37]]
+Turns:  500
+
+Running file Borda_108
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 5, 1, 3, 2], [1, 4, 2, 5, 3], [1, 3, 5, 4, 2], [2, 3, 1, 4, 5], [2, 1, 4, 3, 5]]
+Leaderboarder:  [[1, 20], [2, 15], [3, 13], [4, 16], [5, 11]]
+
+Running file Borda_109
+===================
+Got equilibrium at turn:  17
+Voted for:  [[4, 3, 6, 5, 2, 1], [1, 3, 2, 6, 5, 4], [1, 4, 2, 5, 6, 3], [1, 5, 4, 6, 2, 3], [1, 2, 4, 3, 5, 6], [3, 4, 5, 2, 1, 6]]
+Leaderboarder:  [[1, 27], [2, 20], [3, 21], [4, 25], [5, 19], [6, 14]]
+
+Running file Borda_110
+===================
+Voted for:  [[3, 5, 1, 4, 6, 2], [4, 2, 6, 1, 5, 3], [3, 4, 2, 6, 5, 1], [6, 4, 2, 1, 5, 3], [5, 3, 6, 1, 2, 4]]
+Leaderboarder:  [[1, 14], [2, 16], [3, 19], [4, 20], [5, 17], [6, 19]]
+Turns:  500
+
+Running file Borda_111
+===================
+Voted for:  [[6, 3, 2, 4, 1, 5], [1, 4, 2, 5, 6, 3], [1, 6, 5, 2, 3, 4], [5, 3, 4, 1, 6, 2], [1, 6, 3, 5, 2, 4], [5, 2, 6, 3, 4, 1]]
+Leaderboarder:  [[1, 24], [2, 19], [3, 20], [4, 16], [5, 23], [6, 24]]
+Turns:  500
+
+Running file Borda_112
+===================
+Voted for:  [[1, 2, 3, 4, 5], [1, 4, 2, 3, 5], [4, 5, 3, 2, 1], [5, 4, 2, 3, 1], [3, 1, 5, 4, 2]]
+Leaderboarder:  [[1, 16], [2, 13], [3, 15], [4, 17], [5, 14]]
+Turns:  500
+
+Running file Borda_113
+===================
+Voted for:  [[1, 6, 5, 4, 7, 2, 3], [7, 2, 3, 4, 5, 6, 1], [5, 3, 7, 2, 6, 4, 1], [3, 1, 6, 7, 4, 2, 5], [6, 2, 7, 4, 3, 5, 1], [5, 2, 1, 4, 7, 3, 6], [1, 4, 3, 6, 5, 7, 2]]
+Leaderboarder:  [[1, 28], [2, 27], [3, 29], [4, 27], [5, 28], [6, 28], [7, 29]]
+Turns:  500
+
+Running file Borda_114
+===================
+Voted for:  [[7, 6, 4, 3, 5, 2, 1], [1, 5, 6, 2, 3, 4, 7], [3, 1, 5, 7, 6, 2, 4], [2, 1, 7, 3, 6, 5, 4], [2, 5, 7, 3, 6, 4, 1]]
+Leaderboarder:  [[1, 21], [2, 22], [3, 22], [4, 11], [5, 22], [6, 20], [7, 22]]
+Turns:  500
+
+Running file Borda_115
+===================
+Voted for:  [[3, 2, 6, 4, 5, 1], [1, 4, 5, 6, 3, 2], [3, 2, 4, 1, 5, 6], [6, 5, 1, 2, 4, 3], [5, 1, 3, 6, 4, 2], [2, 5, 3, 1, 4, 6]]
+Leaderboarder:  [[1, 22], [2, 21], [3, 23], [4, 18], [5, 24], [6, 18]]
+Turns:  500
+
+Running file Borda_116
+===================
+Got equilibrium at turn:  19
+Voted for:  [[1, 3, 6, 2, 5, 4], [4, 6, 2, 5, 3, 1], [4, 5, 6, 2, 3, 1], [1, 3, 5, 2, 6, 4], [1, 3, 2, 6, 5, 4], [4, 3, 5, 6, 2, 1], [4, 1, 6, 2, 5, 3], [4, 1, 2, 5, 6, 3]]
+Leaderboarder:  [[1, 31], [2, 26], [3, 26], [4, 33], [5, 25], [6, 27]]
+
+Running file Borda_117
+===================
+Voted for:  [[3, 6, 7, 1, 4, 2, 5], [5, 2, 1, 4, 7, 6, 3], [5, 6, 7, 1, 4, 3, 2], [2, 3, 7, 5, 1, 4, 6], [3, 7, 4, 5, 1, 2, 6], [6, 2, 4, 1, 5, 7, 3], [3, 2, 5, 6, 4, 1, 7]]
+Leaderboarder:  [[1, 25], [2, 30], [3, 31], [4, 25], [5, 31], [6, 27], [7, 27]]
+Turns:  500
+
+Running file Borda_118
+===================
+Voted for:  [[5, 4, 3, 1, 2], [2, 1, 4, 3, 5], [5, 2, 3, 4, 1], [4, 5, 1, 3, 2], [1, 3, 2, 5, 4], [2, 1, 5, 3, 4]]
+Leaderboarder:  [[1, 19], [2, 19], [3, 16], [4, 16], [5, 20]]
+Turns:  500
+
+Running file Borda_119
+===================
+Got equilibrium at turn:  1
+Voted for:  [[6, 4, 2, 3, 1, 5], [5, 2, 3, 4, 1, 6], [6, 2, 1, 5, 3, 4], [4, 2, 6, 5, 1, 3], [2, 6, 3, 5, 1, 4], [4, 1, 5, 3, 6, 2], [2, 1, 3, 5, 6, 4]]
+Leaderboarder:  [[1, 22], [2, 32], [3, 21], [4, 23], [5, 23], [6, 26]]
+
+Running file Borda_120
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 5, 4, 3, 6, 1], [1, 2, 3, 4, 6, 5], [2, 1, 6, 3, 4, 5], [6, 1, 3, 5, 2, 4], [5, 6, 2, 4, 1, 3], [2, 6, 3, 1, 5, 4], [1, 2, 4, 6, 3, 5], [2, 1, 5, 3, 4, 6]]
+Leaderboarder:  [[1, 33], [2, 40], [3, 24], [4, 20], [5, 23], [6, 28]]
+
+Running file Borda_121
+===================
+Got equilibrium at turn:  24
+Voted for:  [[4, 2, 6, 5, 1, 3], [3, 2, 6, 5, 1, 4], [4, 3, 1, 5, 6, 2], [3, 2, 5, 1, 6, 4], [4, 3, 6, 5, 1, 2], [2, 5, 6, 4, 3, 1], [4, 3, 6, 2, 5, 1], [4, 6, 5, 1, 2, 3]]
+Leaderboarder:  [[1, 18], [2, 28], [3, 31], [4, 35], [5, 27], [6, 29]]
+
+Running file Borda_122
+===================
+Voted for:  [[6, 3, 5, 4, 1, 2], [2, 4, 5, 1, 6, 3], [3, 1, 2, 5, 6, 4], [2, 3, 1, 6, 4, 5], [1, 6, 4, 5, 2, 3], [4, 5, 1, 2, 6, 3], [6, 2, 3, 4, 5, 1], [4, 1, 6, 3, 2, 5]]
+Leaderboarder:  [[1, 30], [2, 29], [3, 26], [4, 30], [5, 23], [6, 30]]
+Turns:  500
+
+Running file Borda_123
+===================
+Voted for:  [[2, 6, 1, 3, 4, 5], [5, 4, 3, 2, 1, 6], [6, 2, 1, 5, 4, 3], [4, 5, 2, 1, 6, 3], [3, 4, 6, 1, 5, 2], [5, 3, 2, 1, 6, 4]]
+Leaderboarder:  [[1, 19], [2, 23], [3, 20], [4, 21], [5, 23], [6, 20]]
+Turns:  500
+
+Running file Borda_124
+===================
+Voted for:  [[4, 5, 6, 2, 1, 3], [4, 3, 1, 2, 5, 6], [3, 1, 2, 6, 5, 4], [6, 2, 1, 5, 4, 3], [6, 3, 5, 2, 4, 1], [4, 1, 5, 3, 2, 6]]
+Leaderboarder:  [[1, 21], [2, 20], [3, 21], [4, 23], [5, 20], [6, 21]]
+Turns:  500
+
+Running file Borda_125
+===================
+Got equilibrium at turn:  24
+Voted for:  [[2, 5, 1, 3, 4], [4, 3, 1, 5, 2], [3, 4, 1, 5, 2], [4, 2, 5, 1, 3], [2, 5, 4, 1, 3], [3, 4, 2, 1, 5]]
+Leaderboarder:  [[1, 15], [2, 19], [3, 18], [4, 22], [5, 16]]
+
+Running file Borda_126
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 3, 5, 1, 6, 4], [6, 1, 4, 3, 5, 2], [5, 2, 6, 4, 1, 3], [6, 3, 1, 2, 4, 5], [5, 4, 1, 3, 6, 2], [3, 4, 6, 1, 5, 2], [6, 2, 5, 3, 1, 4], [6, 4, 3, 5, 1, 2]]
+Leaderboarder:  [[1, 25], [2, 23], [3, 30], [4, 26], [5, 28], [6, 36]]
+
+Running file Borda_127
+===================
+Voted for:  [[4, 7, 2, 3, 6, 1, 5], [5, 1, 3, 6, 2, 7, 4], [7, 5, 1, 3, 6, 4, 2], [2, 6, 1, 4, 7, 3, 5], [1, 5, 6, 4, 3, 7, 2], [4, 3, 5, 7, 1, 2, 6], [2, 7, 3, 4, 5, 6, 1], [6, 2, 5, 4, 7, 1, 3]]
+Leaderboarder:  [[1, 31], [2, 32], [3, 30], [4, 33], [5, 34], [6, 31], [7, 33]]
+Turns:  500
+
+Running file Borda_128
+===================
+Voted for:  [[3, 4, 2, 5, 1], [5, 2, 4, 1, 3], [2, 1, 5, 3, 4], [2, 5, 4, 1, 3], [1, 5, 3, 4, 2], [3, 5, 4, 1, 2], [3, 1, 2, 4, 5]]
+Leaderboarder:  [[1, 20], [2, 22], [3, 22], [4, 18], [5, 23]]
+Turns:  500
+
+Running file Borda_129
+===================
+Voted for:  [[4, 3, 2, 5, 1, 6], [6, 1, 5, 2, 3, 4], [1, 3, 4, 2, 5, 6], [4, 2, 6, 1, 3, 5], [4, 3, 6, 5, 1, 2], [2, 5, 3, 6, 1, 4], [5, 6, 4, 2, 1, 3], [1, 6, 5, 2, 3, 4]]
+Leaderboarder:  [[1, 28], [2, 28], [3, 26], [4, 29], [5, 28], [6, 29]]
+Turns:  500
+
+Running file Borda_130
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 1, 4, 3, 6, 5, 7], [6, 5, 1, 3, 7, 2, 4], [6, 2, 1, 3, 7, 4, 5], [1, 7, 5, 2, 4, 6, 3], [1, 2, 6, 7, 3, 5, 4], [3, 1, 7, 4, 6, 2, 5], [6, 4, 7, 1, 5, 3, 2]]
+Leaderboarder:  [[1, 40], [2, 28], [3, 25], [4, 22], [5, 20], [6, 34], [7, 27]]
+
+Running file Borda_131
+===================
+Got equilibrium at turn:  11
+Voted for:  [[1, 5, 2, 7, 3, 4, 6], [1, 4, 6, 7, 3, 2, 5], [4, 3, 7, 6, 2, 5, 1], [5, 1, 3, 4, 2, 6, 7], [1, 6, 2, 3, 5, 4, 7], [6, 4, 3, 7, 5, 2, 1]]
+Leaderboarder:  [[1, 29], [2, 20], [3, 26], [4, 27], [5, 22], [6, 25], [7, 19]]
+
+Running file Borda_132
+===================
+Got equilibrium at turn:  12
+Voted for:  [[4, 3, 1, 7, 5, 2, 6], [6, 3, 2, 5, 7, 1, 4], [6, 1, 7, 5, 2, 3, 4], [4, 5, 3, 7, 2, 1, 6], [6, 4, 5, 7, 1, 3, 2], [6, 1, 4, 3, 2, 7, 5]]
+Leaderboarder:  [[1, 24], [2, 17], [3, 25], [4, 27], [5, 23], [6, 30], [7, 22]]
+
+Running file Borda_133
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 2, 1, 4, 5], [4, 2, 1, 3, 5], [3, 5, 4, 2, 1], [5, 4, 1, 3, 2], [4, 5, 3, 1, 2], [4, 5, 1, 2, 3]]
+Leaderboarder:  [[1, 15], [2, 14], [3, 18], [4, 24], [5, 19]]
+
+Running file Borda_134
+===================
+Voted for:  [[5, 3, 4, 2, 1], [1, 2, 4, 3, 5], [5, 3, 4, 2, 1], [1, 2, 3, 4, 5], [5, 4, 2, 3, 1], [1, 2, 3, 4, 5], [1, 5, 2, 4, 3], [4, 5, 3, 2, 1]]
+Leaderboarder:  [[1, 24], [2, 24], [3, 22], [4, 24], [5, 26]]
+Turns:  500
+
+Running file Borda_135
+===================
+Voted for:  [[4, 5, 6, 1, 3, 2], [2, 3, 5, 1, 6, 4], [3, 6, 4, 1, 5, 2], [4, 2, 5, 1, 3, 6], [1, 3, 6, 2, 5, 4], [6, 2, 4, 5, 1, 3]]
+Leaderboarder:  [[1, 20], [2, 21], [3, 21], [4, 22], [5, 20], [6, 22]]
+Turns:  500
+
+Running file Borda_136
+===================
+Got equilibrium at turn:  3
+Voted for:  [[5, 3, 6, 2, 4, 1], [3, 5, 2, 4, 6, 1], [3, 1, 6, 2, 4, 5], [3, 1, 5, 6, 4, 2], [1, 4, 2, 5, 6, 3], [1, 4, 2, 5, 3, 6]]
+Leaderboarder:  [[1, 24], [2, 19], [3, 26], [4, 19], [5, 22], [6, 16]]
+
+Running file Borda_137
+===================
+Voted for:  [[2, 3, 5, 1, 4], [4, 1, 5, 3, 2], [4, 3, 5, 2, 1], [2, 5, 1, 4, 3], [1, 4, 3, 2, 5], [3, 2, 4, 1, 5], [1, 2, 4, 5, 3]]
+Leaderboarder:  [[1, 22], [2, 23], [3, 20], [4, 23], [5, 17]]
+Turns:  500
+
+Running file Borda_138
+===================
+Voted for:  [[4, 6, 3, 1, 5, 2, 7], [4, 3, 5, 1, 7, 2, 6], [4, 7, 1, 5, 3, 6, 2], [2, 7, 5, 3, 6, 1, 4], [2, 7, 1, 5, 4, 6, 3], [2, 6, 1, 5, 3, 7, 4]]
+Leaderboarder:  [[1, 25], [2, 26], [3, 22], [4, 26], [5, 25], [6, 20], [7, 24]]
+Turns:  500
+
+Running file Borda_139
+===================
+Voted for:  [[1, 4, 5, 6, 3, 2], [3, 2, 6, 5, 4, 1], [4, 2, 6, 1, 5, 3], [3, 2, 5, 4, 1, 6], [1, 5, 3, 2, 4, 6]]
+Leaderboarder:  [[1, 18], [2, 19], [3, 19], [4, 18], [5, 18], [6, 13]]
+Turns:  500
+
+Running file Borda_140
+===================
+Got equilibrium at turn:  28
+Voted for:  [[6, 3, 4, 2, 5, 1], [1, 4, 3, 2, 5, 6], [1, 5, 2, 6, 4, 3], [1, 5, 2, 6, 4, 3], [6, 3, 5, 4, 2, 1], [6, 2, 3, 1, 5, 4], [1, 4, 2, 6, 5, 3], [1, 4, 6, 3, 5, 2]]
+Leaderboarder:  [[1, 35], [2, 26], [3, 24], [4, 27], [5, 24], [6, 32]]
+
+Running file Borda_141
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 2, 1, 5, 4], [2, 4, 5, 3, 1], [1, 3, 5, 2, 4], [3, 4, 1, 5, 2], [3, 2, 4, 5, 1], [1, 2, 4, 5, 3]]
+Leaderboarder:  [[1, 18], [2, 20], [3, 22], [4, 16], [5, 14]]
+
+Running file Borda_142
+===================
+Voted for:  [[4, 1, 3, 2, 5], [5, 3, 2, 4, 1], [5, 1, 2, 3, 4], [4, 1, 2, 5, 3], [3, 4, 5, 2, 1], [4, 3, 5, 2, 1], [5, 1, 2, 3, 4], [1, 2, 4, 5, 3]]
+Leaderboarder:  [[1, 24], [2, 22], [3, 22], [4, 26], [5, 26]]
+Turns:  500
+
+Running file Borda_143
+===================
+Voted for:  [[7, 5, 2, 4, 6, 3, 1], [7, 5, 2, 1, 6, 4, 3], [3, 6, 4, 1, 2, 7, 5], [7, 5, 4, 3, 6, 2, 1], [1, 3, 6, 2, 7, 4, 5], [3, 1, 2, 4, 7, 6, 5], [1, 5, 4, 3, 6, 7, 2]]
+Leaderboarder:  [[1, 30], [2, 25], [3, 31], [4, 27], [5, 27], [6, 25], [7, 31]]
+Turns:  500
+
+Running file Borda_144
+===================
+Voted for:  [[6, 4, 5, 7, 3, 2, 1], [3, 1, 2, 5, 7, 4, 6], [4, 6, 7, 3, 2, 5, 1], [1, 5, 2, 3, 7, 6, 4], [7, 4, 6, 5, 3, 2, 1], [3, 1, 7, 6, 2, 5, 4], [6, 1, 2, 7, 5, 4, 3], [4, 2, 3, 1, 7, 6, 5]]
+Leaderboarder:  [[1, 32], [2, 31], [3, 34], [4, 32], [5, 27], [6, 34], [7, 34]]
+Turns:  500
+
+Running file Borda_145
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 6, 4, 7, 1, 3, 5], [1, 5, 3, 6, 2, 7, 4], [7, 6, 2, 3, 5, 1, 4], [6, 4, 3, 1, 7, 5, 2], [7, 5, 6, 2, 1, 3, 4]]
+Leaderboarder:  [[1, 19], [2, 20], [3, 18], [4, 14], [5, 18], [6, 28], [7, 23]]
+
+Running file Borda_146
+===================
+Got equilibrium at turn:  19
+Voted for:  [[4, 5, 1, 3, 2], [2, 3, 1, 5, 4], [2, 5, 1, 3, 4], [4, 5, 3, 1, 2], [2, 4, 3, 1, 5]]
+Leaderboarder:  [[1, 13], [2, 17], [3, 14], [4, 16], [5, 15]]
+
+Running file Borda_147
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 3, 5, 4, 6, 2], [3, 4, 5, 2, 6, 1], [1, 2, 3, 6, 4, 5], [1, 5, 2, 3, 4, 6], [6, 1, 4, 3, 5, 2]]
+Leaderboarder:  [[1, 24], [2, 14], [3, 21], [4, 16], [5, 16], [6, 14]]
+
+Running file Borda_148
+===================
+Got equilibrium at turn:  56
+Voted for:  [[6, 3, 5, 4, 2, 1], [1, 4, 5, 3, 6, 2], [2, 1, 4, 5, 3, 6], [6, 2, 4, 3, 5, 1], [6, 1, 2, 5, 3, 4]]
+Leaderboarder:  [[1, 18], [2, 18], [3, 15], [4, 17], [5, 16], [6, 21]]
+
+Running file Borda_149
+===================
+Voted for:  [[2, 4, 7, 1, 5, 6, 3], [4, 5, 7, 2, 1, 6, 3], [1, 6, 5, 3, 2, 7, 4], [5, 3, 6, 2, 7, 1, 4], [3, 7, 5, 6, 2, 1, 4], [6, 3, 4, 2, 1, 7, 5]]
+Leaderboarder:  [[1, 21], [2, 25], [3, 25], [4, 21], [5, 27], [6, 26], [7, 23]]
+Turns:  500
+
+Running file Borda_150
+===================
+Voted for:  [[7, 1, 5, 4, 2, 6, 3], [7, 4, 6, 1, 3, 5, 2], [4, 3, 6, 2, 1, 5, 7], [2, 3, 4, 5, 1, 6, 7], [7, 6, 3, 2, 5, 1, 4]]
+Leaderboarder:  [[1, 18], [2, 19], [3, 21], [4, 23], [5, 16], [6, 20], [7, 23]]
+Turns:  500
+
+Running file Borda_151
+===================
+Got equilibrium at turn:  5
+Voted for:  [[1, 2, 6, 5, 4, 3], [2, 1, 5, 3, 6, 4], [4, 6, 2, 3, 5, 1], [4, 3, 6, 1, 2, 5], [4, 3, 6, 1, 2, 5], [5, 4, 1, 6, 2, 3], [3, 1, 6, 5, 2, 4], [4, 2, 3, 1, 5, 6]]
+Leaderboarder:  [[1, 30], [2, 28], [3, 28], [4, 33], [5, 22], [6, 27]]
+
+Running file Borda_152
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 2, 5, 3, 4], [3, 4, 2, 5, 1], [4, 3, 2, 1, 5], [5, 1, 2, 3, 4], [3, 5, 1, 2, 4], [3, 4, 5, 2, 1]]
+Leaderboarder:  [[1, 16], [2, 17], [3, 23], [4, 16], [5, 18]]
+
+Running file Borda_153
+===================
+Got equilibrium at turn:  19
+Voted for:  [[2, 4, 5, 1, 3], [2, 1, 4, 5, 3], [2, 5, 4, 3, 1], [3, 1, 5, 4, 2], [1, 3, 4, 5, 2], [3, 5, 4, 2, 1], [5, 3, 1, 2, 4], [3, 4, 1, 2, 5]]
+Leaderboarder:  [[1, 23], [2, 23], [3, 27], [4, 23], [5, 24]]
+
+Running file Borda_154
+===================
+Voted for:  [[2, 5, 1, 3, 4, 6], [6, 4, 3, 2, 1, 5], [6, 5, 1, 3, 4, 2], [4, 6, 1, 2, 5, 3], [2, 4, 3, 5, 1, 6]]
+Leaderboarder:  [[1, 16], [2, 19], [3, 15], [4, 20], [5, 16], [6, 19]]
+Turns:  500
+
+Running file Borda_155
+===================
+Got equilibrium at turn:  1
+Voted for:  [[6, 3, 4, 2, 1, 5], [6, 2, 5, 4, 3, 1], [2, 4, 3, 5, 6, 1], [2, 1, 6, 3, 4, 5], [4, 5, 2, 1, 6, 3], [1, 5, 2, 6, 4, 3]]
+Leaderboarder:  [[1, 18], [2, 28], [3, 16], [4, 22], [5, 19], [6, 23]]
+
+Running file Borda_156
+===================
+Got equilibrium at turn:  1
+Voted for:  [[7, 6, 4, 3, 1, 5, 2], [6, 7, 3, 4, 5, 1, 2], [1, 7, 2, 4, 6, 3, 5], [5, 2, 3, 6, 4, 7, 1], [5, 2, 6, 1, 4, 7, 3], [5, 2, 6, 4, 1, 7, 3], [6, 4, 3, 7, 1, 5, 2]]
+Leaderboarder:  [[1, 23], [2, 26], [3, 23], [4, 29], [5, 29], [6, 37], [7, 29]]
+
+Running file Borda_157
+===================
+Got equilibrium at turn:  7
+Voted for:  [[1, 4, 2, 3, 6, 5, 7], [7, 4, 6, 1, 2, 3, 5], [5, 3, 1, 6, 2, 4, 7], [7, 5, 1, 2, 3, 6, 4], [7, 2, 6, 5, 1, 4, 3], [1, 4, 5, 7, 3, 6, 2]]
+Leaderboarder:  [[1, 31], [2, 22], [3, 19], [4, 23], [5, 25], [6, 21], [7, 27]]
+
+Running file Borda_158
+===================
+Voted for:  [[3, 5, 2, 6, 7, 4, 1], [6, 1, 4, 7, 2, 5, 3], [3, 7, 5, 1, 4, 2, 6], [2, 4, 1, 6, 7, 5, 3], [5, 6, 3, 2, 7, 4, 1]]
+Leaderboarder:  [[1, 17], [2, 21], [3, 21], [4, 18], [5, 22], [6, 22], [7, 19]]
+Turns:  500
+
+Running file Borda_159
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 2, 1, 3, 4], [5, 1, 4, 2, 3], [1, 5, 2, 4, 3], [3, 5, 1, 4, 2], [5, 3, 4, 1, 2], [2, 4, 5, 1, 3], [5, 1, 4, 3, 2]]
+Leaderboarder:  [[1, 23], [2, 17], [3, 16], [4, 18], [5, 31]]
+
+Running file Borda_160
+===================
+Got equilibrium at turn:  63
+Voted for:  [[7, 3, 2, 6, 1, 5, 4], [7, 4, 5, 1, 6, 2, 3], [4, 5, 7, 2, 1, 6, 3], [4, 2, 7, 6, 3, 1, 5], [3, 1, 6, 7, 5, 2, 4], [6, 5, 2, 3, 7, 1, 4], [4, 3, 1, 7, 2, 6, 5]]
+Leaderboarder:  [[1, 25], [2, 27], [3, 28], [4, 30], [5, 24], [6, 27], [7, 35]]
+
+Running file Borda_161
+===================
+Voted for:  [[3, 7, 4, 6, 2, 5, 1], [1, 5, 4, 7, 6, 2, 3], [4, 2, 1, 7, 5, 3, 6], [2, 6, 1, 5, 7, 3, 4], [2, 5, 3, 6, 7, 1, 4], [6, 3, 4, 1, 5, 7, 2], [4, 3, 7, 6, 5, 1, 2]]
+Leaderboarder:  [[1, 26], [2, 27], [3, 29], [4, 31], [5, 27], [6, 29], [7, 27]]
+Turns:  500
+
+Running file Borda_162
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 5, 4, 1, 3, 6], [6, 1, 2, 5, 3, 4], [5, 1, 3, 4, 2, 6], [4, 5, 1, 6, 2, 3], [1, 5, 3, 2, 6, 4], [4, 5, 2, 3, 6, 1]]
+Leaderboarder:  [[1, 24], [2, 21], [3, 16], [4, 21], [5, 29], [6, 15]]
+
+Running file Borda_163
+===================
+Voted for:  [[4, 5, 2, 6, 1, 3, 7], [1, 6, 3, 2, 7, 4, 5], [2, 7, 4, 3, 1, 5, 6], [4, 6, 7, 1, 5, 3, 2], [4, 7, 6, 5, 1, 2, 3], [3, 1, 2, 7, 5, 6, 4], [6, 7, 3, 2, 5, 1, 4], [5, 1, 2, 3, 4, 6, 7]]
+Leaderboarder:  [[1, 34], [2, 33], [3, 30], [4, 33], [5, 29], [6, 33], [7, 32]]
+Turns:  500
+
+Running file Borda_164
+===================
+Voted for:  [[5, 2, 1, 7, 3, 6, 4], [4, 3, 6, 7, 1, 2, 5], [4, 2, 7, 6, 3, 1, 5], [5, 3, 1, 6, 2, 7, 4], [4, 5, 2, 1, 7, 6, 3], [4, 7, 3, 2, 6, 1, 5], [1, 5, 7, 2, 6, 3, 4]]
+Leaderboarder:  [[1, 28], [2, 30], [3, 26], [4, 31], [5, 29], [6, 23], [7, 29]]
+Turns:  500
+
+Running file Borda_165
+===================
+Voted for:  [[3, 7, 5, 4, 1, 2, 6], [6, 4, 1, 5, 2, 7, 3], [6, 3, 5, 2, 1, 4, 7], [6, 3, 4, 7, 2, 1, 5], [4, 7, 1, 5, 2, 3, 6], [2, 1, 5, 7, 3, 6, 4], [2, 1, 3, 6, 7, 5, 4]]
+Leaderboarder:  [[1, 30], [2, 29], [3, 30], [4, 26], [5, 26], [6, 29], [7, 26]]
+Turns:  500
+
+Running file Borda_166
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 4, 5, 2, 3], [4, 2, 3, 5, 1], [4, 2, 3, 5, 1], [1, 4, 5, 3, 2], [4, 2, 1, 3, 5], [4, 3, 1, 2, 5], [5, 1, 3, 4, 2]]
+Leaderboarder:  [[1, 22], [2, 18], [3, 18], [4, 30], [5, 17]]
+
+Running file Borda_167
+===================
+Got equilibrium at turn:  25
+Voted for:  [[1, 5, 4, 2, 3], [3, 4, 2, 1, 5], [1, 4, 3, 5, 2], [3, 5, 2, 4, 1], [2, 5, 4, 1, 3], [1, 3, 2, 5, 4]]
+Leaderboarder:  [[1, 20], [2, 17], [3, 19], [4, 17], [5, 17]]
+
+Running file Borda_168
+===================
+Got equilibrium at turn:  21
+Voted for:  [[1, 3, 2, 5, 4], [4, 5, 2, 3, 1], [1, 3, 5, 2, 4], [4, 5, 2, 3, 1], [4, 5, 2, 3, 1], [4, 1, 3, 2, 5], [1, 3, 2, 5, 4]]
+Leaderboarder:  [[1, 22], [2, 19], [3, 21], [4, 23], [5, 20]]
+
+Running file Borda_169
+===================
+Voted for:  [[4, 5, 3, 1, 2], [4, 3, 2, 5, 1], [1, 2, 3, 5, 4], [1, 2, 3, 5, 4], [5, 4, 2, 1, 3], [1, 4, 2, 3, 5]]
+Leaderboarder:  [[1, 20], [2, 18], [3, 16], [4, 20], [5, 16]]
+Turns:  500
+
+Running file Borda_170
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 2, 6, 1, 7, 4, 5], [1, 4, 7, 3, 5, 2, 6], [2, 6, 1, 3, 4, 7, 5], [4, 2, 3, 1, 5, 7, 6], [3, 2, 4, 5, 6, 1, 7], [5, 2, 4, 3, 7, 1, 6], [4, 5, 7, 1, 2, 6, 3], [2, 3, 5, 1, 6, 4, 7]]
+Leaderboarder:  [[1, 32], [2, 43], [3, 38], [4, 37], [5, 30], [6, 22], [7, 22]]
+
+Running file Borda_171
+===================
+Voted for:  [[6, 3, 4, 2, 5, 1], [1, 5, 2, 3, 4, 6], [1, 3, 6, 2, 5, 4], [6, 5, 2, 1, 4, 3], [5, 2, 6, 1, 3, 4]]
+Leaderboarder:  [[1, 19], [2, 19], [3, 16], [4, 10], [5, 20], [6, 21]]
+Turns:  500
+
+Running file Borda_172
+===================
+Voted for:  [[2, 3, 4, 6, 5, 1], [2, 5, 4, 1, 6, 3], [5, 3, 4, 1, 6, 2], [1, 3, 6, 2, 4, 5], [1, 2, 5, 6, 3, 4], [5, 3, 4, 1, 2, 6]]
+Leaderboarder:  [[1, 22], [2, 23], [3, 23], [4, 19], [5, 24], [6, 15]]
+Turns:  500
+
+Running file Borda_173
+===================
+Got equilibrium at turn:  6
+Voted for:  [[4, 2, 1, 3, 5], [4, 5, 2, 1, 3], [3, 2, 5, 1, 4], [3, 5, 1, 2, 4], [3, 4, 5, 1, 2]]
+Leaderboarder:  [[1, 12], [2, 14], [3, 18], [4, 16], [5, 15]]
+
+Running file Borda_174
+===================
+Voted for:  [[3, 2, 5, 4, 7, 6, 1], [6, 4, 1, 7, 5, 3, 2], [2, 4, 7, 6, 1, 5, 3], [3, 7, 1, 5, 4, 2, 6], [6, 1, 5, 7, 4, 2, 3], [3, 5, 6, 1, 7, 4, 2]]
+Leaderboarder:  [[1, 24], [2, 19], [3, 25], [4, 24], [5, 25], [6, 26], [7, 25]]
+Turns:  500
+
+Running file Borda_175
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 6, 4, 3, 2, 1], [5, 6, 2, 4, 1, 3], [4, 5, 1, 2, 3, 6], [1, 3, 5, 4, 6, 2], [5, 6, 1, 4, 2, 3], [6, 4, 1, 2, 5, 3], [1, 5, 6, 4, 2, 3]]
+Leaderboarder:  [[1, 27], [2, 17], [3, 14], [4, 27], [5, 34], [6, 28]]
+
+Running file Borda_176
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 6, 7, 2, 4, 1, 3], [6, 3, 5, 2, 1, 4, 7], [4, 7, 5, 6, 3, 2, 1], [1, 7, 3, 5, 2, 4, 6], [2, 7, 6, 3, 1, 5, 4], [4, 6, 3, 2, 7, 1, 5], [3, 4, 1, 6, 5, 2, 7], [2, 6, 7, 1, 5, 3, 4]]
+Leaderboarder:  [[1, 27], [2, 33], [3, 33], [4, 29], [5, 30], [6, 39], [7, 33]]
+
+Running file Borda_177
+===================
+Got equilibrium at turn:  31
+Voted for:  [[6, 5, 2, 4, 1, 3, 7], [3, 7, 1, 4, 2, 5, 6], [3, 6, 5, 2, 7, 1, 4], [3, 7, 4, 2, 5, 6, 1], [6, 4, 1, 2, 5, 7, 3], [3, 1, 7, 6, 4, 5, 2]]
+Leaderboarder:  [[1, 22], [2, 21], [3, 31], [4, 23], [5, 21], [6, 27], [7, 23]]
+
+Running file Borda_178
+===================
+Voted for:  [[3, 4, 1, 2, 5, 6], [6, 5, 2, 1, 4, 3], [6, 5, 3, 1, 2, 4], [3, 1, 5, 2, 4, 6], [5, 4, 3, 2, 6, 1], [6, 4, 2, 3, 1, 5], [4, 1, 2, 6, 3, 5]]
+Leaderboarder:  [[1, 23], [2, 23], [3, 26], [4, 26], [5, 24], [6, 25]]
+Turns:  500
+
+Running file Borda_179
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 6, 4, 2, 3, 7, 1], [4, 5, 7, 1, 6, 3, 2], [2, 1, 3, 6, 5, 4, 7], [3, 4, 1, 2, 5, 6, 7], [3, 6, 1, 5, 2, 7, 4], [3, 5, 1, 2, 6, 4, 7], [3, 6, 7, 1, 5, 4, 2], [4, 3, 6, 1, 2, 5, 7]]
+Leaderboarder:  [[1, 34], [2, 27], [3, 44], [4, 32], [5, 34], [6, 35], [7, 18]]
+
+Running file Borda_180
+===================
+Voted for:  [[2, 5, 3, 1, 4, 6, 7], [7, 4, 1, 6, 3, 5, 2], [3, 4, 2, 6, 7, 1, 5], [7, 1, 5, 4, 6, 2, 3], [5, 3, 2, 6, 1, 7, 4], [7, 2, 5, 6, 4, 1, 3]]
+Leaderboarder:  [[1, 22], [2, 26], [3, 23], [4, 23], [5, 26], [6, 21], [7, 27]]
+Turns:  500
+
+Running file Borda_181
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 6, 1, 2, 5, 3, 7], [2, 6, 7, 4, 1, 5, 3], [3, 2, 5, 7, 1, 4, 6], [6, 7, 5, 4, 1, 3, 2], [5, 4, 6, 2, 3, 7, 1], [7, 6, 2, 5, 4, 3, 1], [6, 5, 2, 4, 3, 1, 7]]
+Leaderboarder:  [[1, 18], [2, 32], [3, 20], [4, 30], [5, 32], [6, 38], [7, 26]]
+
+Running file Borda_182
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 2, 1, 4, 3, 6], [3, 6, 4, 5, 2, 1], [2, 6, 5, 1, 3, 4], [6, 4, 5, 3, 2, 1], [5, 1, 3, 2, 4, 6], [5, 1, 2, 3, 4, 6]]
+Leaderboarder:  [[1, 19], [2, 22], [3, 20], [4, 17], [5, 29], [6, 19]]
+
+Running file Borda_183
+===================
+Voted for:  [[7, 1, 3, 2, 6, 5, 4], [7, 2, 3, 4, 6, 1, 5], [7, 5, 6, 1, 4, 2, 3], [4, 5, 6, 1, 2, 3, 7], [5, 4, 6, 2, 3, 1, 7]]
+Leaderboarder:  [[1, 18], [2, 19], [3, 16], [4, 21], [5, 22], [6, 21], [7, 23]]
+Turns:  500
+
+Running file Borda_184
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 2, 3, 5, 1], [2, 5, 3, 1, 4], [5, 3, 4, 1, 2], [5, 3, 2, 4, 1], [4, 5, 1, 3, 2]]
+Leaderboarder:  [[1, 9], [2, 14], [3, 16], [4, 16], [5, 20]]
+
+Running file Borda_185
+===================
+Got equilibrium at turn:  4
+Voted for:  [[1, 2, 6, 4, 3, 5], [5, 6, 2, 4, 3, 1], [1, 4, 2, 6, 3, 5], [1, 2, 5, 4, 6, 3], [5, 6, 3, 4, 2, 1], [1, 5, 3, 6, 4, 2]]
+Leaderboarder:  [[1, 26], [2, 21], [3, 15], [4, 19], [5, 23], [6, 22]]
+
+Running file Borda_186
+===================
+Voted for:  [[1, 3, 6, 2, 4, 7, 5], [5, 7, 4, 2, 6, 3, 1], [1, 4, 2, 5, 3, 7, 6], [2, 7, 6, 3, 5, 1, 4], [1, 4, 5, 3, 2, 6, 7], [7, 6, 5, 2, 3, 1, 4], [6, 4, 5, 3, 7, 2, 1], [1, 7, 4, 3, 2, 5, 6]]
+Leaderboarder:  [[1, 34], [2, 32], [3, 30], [4, 33], [5, 32], [6, 30], [7, 33]]
+Turns:  500
+
+Running file Borda_187
+===================
+Voted for:  [[3, 1, 5, 4, 2], [2, 4, 5, 1, 3], [1, 2, 5, 3, 4], [3, 4, 2, 1, 5], [5, 4, 3, 2, 1]]
+Leaderboarder:  [[1, 14], [2, 15], [3, 16], [4, 15], [5, 15]]
+Turns:  500
+
+Running file Borda_188
+===================
+Voted for:  [[1, 5, 2, 3, 4], [4, 3, 1, 5, 2], [2, 5, 3, 1, 4], [2, 3, 4, 1, 5], [4, 3, 5, 1, 2], [1, 5, 4, 3, 2], [1, 3, 5, 4, 2], [4, 2, 5, 3, 1]]
+Leaderboarder:  [[1, 25], [2, 21], [3, 25], [4, 25], [5, 24]]
+Turns:  500
+
+Running file Borda_189
+===================
+Voted for:  [[5, 2, 3, 7, 6, 4, 1], [7, 6, 4, 2, 1, 3, 5], [3, 5, 1, 4, 7, 2, 6], [6, 5, 1, 2, 4, 7, 3], [3, 7, 6, 4, 1, 2, 5]]
+Leaderboarder:  [[1, 17], [2, 18], [3, 22], [4, 18], [5, 21], [6, 22], [7, 22]]
+Turns:  500
+
+Running file Borda_190
+===================
+Voted for:  [[7, 1, 3, 6, 5, 4, 2], [2, 5, 6, 4, 3, 1, 7], [2, 1, 7, 5, 6, 4, 3], [7, 3, 4, 6, 5, 2, 1], [1, 2, 3, 4, 7, 5, 6]]
+Leaderboarder:  [[1, 22], [2, 23], [3, 20], [4, 17], [5, 18], [6, 17], [7, 23]]
+Turns:  500
+
+Running file Borda_191
+===================
+Got equilibrium at turn:  5
+Voted for:  [[1, 4, 2, 5, 3], [5, 4, 3, 2, 1], [3, 2, 4, 5, 1], [5, 1, 3, 4, 2], [1, 2, 4, 5, 3], [5, 2, 3, 1, 4], [5, 3, 4, 1, 2], [1, 3, 4, 2, 5]]
+Leaderboarder:  [[1, 25], [2, 21], [3, 24], [4, 23], [5, 27]]
+
+Running file Borda_192
+===================
+Voted for:  [[5, 1, 7, 2, 3, 6, 4], [6, 4, 7, 5, 3, 2, 1], [3, 7, 4, 5, 2, 6, 1], [2, 1, 5, 6, 4, 7, 3], [1, 4, 7, 6, 2, 3, 5], [3, 2, 4, 5, 6, 1, 7], [1, 6, 7, 3, 5, 4, 2], [6, 5, 4, 3, 7, 1, 2]]
+Leaderboarder:  [[1, 32], [2, 27], [3, 31], [4, 33], [5, 34], [6, 35], [7, 32]]
+Turns:  500
+
+Running file Borda_193
+===================
+Got equilibrium at turn:  25
+Voted for:  [[1, 6, 3, 5, 4, 2], [2, 3, 4, 5, 6, 1], [2, 5, 6, 1, 4, 3], [4, 1, 6, 5, 3, 2], [2, 3, 1, 5, 4, 6], [2, 6, 5, 1, 3, 4]]
+Leaderboarder:  [[1, 22], [2, 26], [3, 19], [4, 17], [5, 21], [6, 21]]
+
+Running file Borda_194
+===================
+Voted for:  [[7, 6, 1, 5, 4, 2, 3], [4, 3, 5, 1, 6, 2, 7], [4, 7, 2, 3, 6, 5, 1], [1, 5, 2, 6, 3, 4, 7], [7, 3, 2, 5, 1, 6, 4]]
+Leaderboarder:  [[1, 20], [2, 19], [3, 20], [4, 20], [5, 21], [6, 18], [7, 22]]
+Turns:  500
+
+Running file Borda_195
+===================
+Got equilibrium at turn:  1
+Voted for:  [[7, 6, 3, 1, 2, 5, 4], [4, 7, 2, 3, 6, 1, 5], [1, 4, 2, 7, 6, 3, 5], [7, 4, 5, 3, 6, 1, 2], [3, 2, 4, 6, 5, 7, 1], [6, 2, 5, 1, 7, 4, 3], [1, 2, 5, 6, 3, 7, 4], [2, 5, 3, 1, 7, 4, 6]]
+Leaderboarder:  [[1, 31], [2, 39], [3, 31], [4, 30], [5, 28], [6, 31], [7, 34]]
+
+Running file Borda_196
+===================
+Voted for:  [[2, 3, 5, 4, 1], [1, 5, 4, 2, 3], [4, 2, 3, 5, 1], [1, 3, 5, 2, 4], [2, 4, 5, 3, 1], [1, 4, 3, 5, 2]]
+Leaderboarder:  [[1, 18], [2, 19], [3, 17], [4, 19], [5, 17]]
+Turns:  500
+
+Running file Borda_197
+===================
+Voted for:  [[4, 5, 3, 1, 2], [1, 2, 3, 5, 4], [5, 3, 4, 2, 1], [2, 4, 5, 1, 3], [4, 1, 5, 2, 3], [1, 3, 2, 5, 4]]
+Leaderboarder:  [[1, 19], [2, 17], [3, 16], [4, 19], [5, 19]]
+Turns:  500
+
+Running file Borda_198
+===================
+Got equilibrium at turn:  2
+Voted for:  [[6, 7, 3, 2, 5, 4, 1], [6, 7, 2, 1, 5, 4, 3], [1, 3, 5, 2, 4, 7, 6], [1, 5, 3, 4, 6, 2, 7], [6, 2, 4, 5, 1, 7, 3], [7, 6, 1, 5, 2, 4, 3]]
+Leaderboarder:  [[1, 27], [2, 24], [3, 19], [4, 18], [5, 25], [6, 31], [7, 24]]
+
+Running file Borda_199
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 1, 4, 3, 2], [1, 2, 5, 4, 3], [4, 3, 2, 1, 5], [3, 4, 5, 2, 1], [4, 5, 1, 3, 2]]
+Leaderboarder:  [[1, 15], [2, 11], [3, 14], [4, 19], [5, 16]]
+
+Running file Borda_200
+===================
+Got equilibrium at turn:  3
+Voted for:  [[2, 1, 3, 4, 5], [5, 1, 2, 4, 3], [4, 1, 5, 3, 2], [3, 2, 4, 5, 1], [2, 5, 1, 3, 4], [5, 4, 1, 3, 2], [2, 5, 3, 1, 4], [2, 1, 5, 3, 4]]
+Leaderboarder:  [[1, 25], [2, 29], [3, 20], [4, 19], [5, 27]]
+
+Running file Borda_201
+===================
+Voted for:  [[2, 5, 7, 1, 4, 3, 6], [6, 4, 7, 1, 3, 2, 5], [6, 5, 7, 1, 4, 3, 2], [6, 4, 5, 2, 1, 7, 3], [3, 2, 1, 4, 5, 7, 6], [3, 1, 5, 4, 7, 2, 6], [6, 2, 3, 4, 7, 5, 1], [2, 3, 5, 6, 7, 1, 4]]
+Leaderboarder:  [[1, 29], [2, 35], [3, 33], [4, 31], [5, 33], [6, 35], [7, 28]]
+Turns:  500
+
+Running file Borda_202
+===================
+Voted for:  [[2, 3, 4, 1, 6, 5, 7], [7, 6, 1, 5, 4, 3, 2], [7, 1, 5, 2, 6, 4, 3], [3, 4, 2, 1, 6, 5, 7], [7, 3, 2, 6, 1, 4, 5]]
+Leaderboarder:  [[1, 22], [2, 22], [3, 22], [4, 18], [5, 14], [6, 19], [7, 23]]
+Turns:  500
+
+Running file Borda_203
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 7, 6, 5, 2, 3, 1], [5, 6, 1, 7, 3, 2, 4], [1, 2, 7, 4, 5, 3, 6], [1, 5, 3, 6, 4, 2, 7], [6, 5, 3, 2, 1, 7, 4], [2, 1, 5, 3, 7, 4, 6], [7, 1, 6, 5, 4, 2, 3], [1, 7, 4, 2, 5, 6, 3]]
+Leaderboarder:  [[1, 42], [2, 30], [3, 23], [4, 26], [5, 38], [6, 31], [7, 34]]
+
+Running file Borda_204
+===================
+Voted for:  [[5, 6, 4, 2, 1, 3], [3, 1, 2, 5, 4, 6], [4, 3, 2, 6, 5, 1], [3, 2, 5, 6, 4, 1], [5, 6, 4, 1, 3, 2]]
+Leaderboarder:  [[1, 12], [2, 17], [3, 20], [4, 18], [5, 21], [6, 17]]
+Turns:  500
+
+Running file Borda_205
+===================
+Voted for:  [[1, 5, 4, 3, 6, 2], [2, 6, 3, 1, 4, 5], [2, 5, 3, 6, 4, 1], [2, 1, 6, 5, 4, 3], [4, 6, 5, 2, 1, 3], [1, 4, 6, 5, 3, 2]]
+Leaderboarder:  [[1, 23], [2, 23], [3, 15], [4, 21], [5, 21], [6, 23]]
+Turns:  500
+
+Running file Borda_206
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 1, 4, 3, 2, 6], [2, 6, 5, 3, 4, 1], [2, 4, 6, 5, 1, 3], [1, 2, 6, 4, 5, 3], [4, 6, 5, 2, 1, 3], [1, 2, 6, 5, 3, 4]]
+Leaderboarder:  [[1, 22], [2, 27], [3, 11], [4, 21], [5, 22], [6, 23]]
+
+Running file Borda_207
+===================
+Voted for:  [[6, 5, 4, 1, 2, 3], [6, 1, 5, 2, 4, 3], [3, 2, 5, 1, 4, 6], [3, 6, 2, 1, 4, 5], [3, 2, 6, 5, 1, 4], [4, 2, 3, 6, 5, 1]]
+Leaderboarder:  [[1, 17], [2, 24], [3, 24], [4, 17], [5, 19], [6, 25]]
+Turns:  500
+
+Running file Borda_208
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 1, 5, 3, 2], [1, 4, 5, 2, 3], [1, 3, 5, 4, 2], [2, 1, 5, 4, 3], [2, 5, 3, 1, 4], [1, 5, 4, 3, 2], [5, 1, 2, 4, 3]]
+Leaderboarder:  [[1, 29], [2, 18], [3, 14], [4, 19], [5, 25]]
+
+Running file Borda_209
+===================
+Got equilibrium at turn:  45
+Voted for:  [[4, 6, 7, 1, 3, 2, 5], [3, 7, 1, 6, 5, 2, 4], [5, 2, 4, 6, 1, 7, 3], [3, 2, 7, 5, 6, 1, 4], [3, 4, 5, 1, 6, 2, 7]]
+Leaderboarder:  [[1, 18], [2, 18], [3, 25], [4, 20], [5, 20], [6, 20], [7, 19]]
+
+Running file Borda_210
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 2, 3, 5, 6, 4], [5, 2, 6, 4, 3, 1], [4, 2, 6, 3, 5, 1], [4, 2, 6, 1, 3, 5], [5, 1, 6, 3, 2, 4]]
+Leaderboarder:  [[1, 16], [2, 22], [3, 14], [4, 17], [5, 18], [6, 18]]
+
+Running file Borda_211
+===================
+Voted for:  [[3, 2, 1, 4, 5], [4, 1, 2, 5, 3], [4, 3, 2, 1, 5], [5, 4, 1, 3, 2], [1, 3, 5, 2, 4], [2, 3, 5, 4, 1], [5, 3, 4, 1, 2], [5, 4, 1, 2, 3]]
+Leaderboarder:  [[1, 23], [2, 21], [3, 25], [4, 26], [5, 25]]
+Turns:  500
+
+Running file Borda_212
+===================
+Got equilibrium at turn:  70
+Voted for:  [[3, 6, 4, 5, 7, 2, 1], [1, 7, 5, 4, 6, 3, 2], [2, 1, 7, 5, 6, 4, 3], [3, 5, 4, 2, 6, 7, 1], [3, 1, 2, 7, 6, 4, 5]]
+Leaderboarder:  [[1, 21], [2, 19], [3, 24], [4, 18], [5, 20], [6, 18], [7, 20]]
+
+Running file Borda_213
+===================
+Voted for:  [[3, 4, 2, 5, 7, 1, 6], [5, 2, 6, 4, 7, 1, 3], [7, 5, 4, 2, 1, 3, 6], [6, 1, 3, 5, 4, 2, 7], [2, 3, 1, 7, 6, 4, 5], [7, 3, 2, 6, 1, 5, 4], [1, 6, 5, 4, 2, 7, 3], [7, 3, 5, 6, 1, 2, 4]]
+Leaderboarder:  [[1, 31], [2, 34], [3, 34], [4, 26], [5, 34], [6, 31], [7, 34]]
+Turns:  500
+
+Running file Borda_214
+===================
+Voted for:  [[2, 5, 7, 1, 3, 6, 4], [4, 3, 6, 1, 7, 2, 5], [2, 3, 7, 1, 6, 5, 4], [4, 7, 6, 5, 1, 3, 2], [2, 6, 4, 1, 5, 7, 3], [5, 6, 4, 1, 7, 2, 3]]
+Leaderboarder:  [[1, 23], [2, 26], [3, 19], [4, 26], [5, 23], [6, 27], [7, 24]]
+Turns:  500
+
+Running file Borda_215
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 4, 2, 1, 5, 6], [2, 4, 3, 6, 1, 5], [3, 1, 6, 5, 4, 2], [1, 2, 5, 3, 4, 6], [4, 3, 6, 5, 1, 2], [3, 6, 1, 2, 4, 5]]
+Leaderboarder:  [[1, 22], [2, 20], [3, 30], [4, 22], [5, 14], [6, 18]]
+
+Running file Borda_216
+===================
+Got equilibrium at turn:  9
+Voted for:  [[3, 5, 4, 1, 2], [2, 1, 4, 5, 3], [3, 2, 5, 4, 1], [3, 1, 5, 4, 2], [2, 4, 5, 3, 1]]
+Leaderboarder:  [[1, 12], [2, 16], [3, 18], [4, 14], [5, 15]]
+
+Running file Borda_217
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 2, 5, 6, 1, 3], [4, 2, 6, 3, 1, 5], [6, 1, 3, 4, 2, 5], [1, 4, 5, 2, 6, 3], [6, 4, 3, 5, 2, 1], [3, 4, 5, 1, 6, 2]]
+Leaderboarder:  [[1, 19], [2, 18], [3, 19], [4, 30], [5, 17], [6, 23]]
+
+Running file Borda_218
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 2, 3, 5, 1, 6], [4, 3, 5, 2, 6, 1], [2, 3, 1, 4, 5, 6], [6, 2, 1, 5, 3, 4], [1, 2, 3, 4, 5, 6]]
+Leaderboarder:  [[1, 17], [2, 24], [3, 20], [4, 19], [5, 14], [6, 11]]
+
+Running file Borda_219
+===================
+Got equilibrium at turn:  14
+Voted for:  [[1, 3, 4, 2, 6, 5], [1, 6, 2, 4, 3, 5], [1, 3, 6, 5, 2, 4], [5, 4, 2, 3, 6, 1], [2, 6, 4, 1, 3, 5], [1, 5, 4, 6, 3, 2], [5, 4, 3, 1, 2, 6], [5, 3, 2, 6, 4, 1]]
+Leaderboarder:  [[1, 32], [2, 26], [3, 28], [4, 28], [5, 29], [6, 25]]
+
+Running file Borda_220
+===================
+Got equilibrium at turn:  7
+Voted for:  [[5, 2, 3, 1, 4], [5, 1, 3, 4, 2], [5, 4, 1, 3, 2], [4, 2, 1, 3, 5], [4, 3, 2, 1, 5], [5, 4, 1, 2, 3], [2, 5, 3, 4, 1]]
+Leaderboarder:  [[1, 18], [2, 20], [3, 18], [4, 23], [5, 26]]
+
+Running file Borda_221
+===================
+Got equilibrium at turn:  32
+Voted for:  [[3, 6, 2, 7, 5, 1, 4], [4, 1, 5, 6, 7, 2, 3], [4, 1, 6, 2, 7, 5, 3], [3, 5, 1, 7, 2, 6, 4], [3, 5, 7, 1, 2, 6, 4], [3, 4, 2, 5, 7, 6, 1], [3, 1, 4, 6, 2, 5, 7], [4, 6, 2, 7, 5, 1, 3]]
+Leaderboarder:  [[1, 32], [2, 30], [3, 38], [4, 35], [5, 31], [6, 31], [7, 27]]
+
+Running file Borda_222
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 3, 6, 5, 4, 2], [1, 4, 5, 6, 2, 3], [3, 2, 4, 1, 5, 6], [3, 5, 4, 6, 1, 2], [3, 5, 4, 6, 2, 1], [6, 5, 2, 3, 4, 1], [2, 3, 1, 6, 5, 4], [2, 3, 6, 4, 5, 1]]
+Leaderboarder:  [[1, 24], [2, 27], [3, 37], [4, 25], [5, 28], [6, 27]]
+
+Running file Borda_223
+===================
+Got equilibrium at turn:  20
+Voted for:  [[3, 1, 5, 6, 2, 4], [4, 1, 5, 6, 2, 3], [4, 1, 5, 2, 6, 3], [3, 4, 2, 6, 5, 1], [3, 6, 4, 2, 5, 1], [3, 6, 4, 2, 5, 1], [3, 5, 1, 4, 2, 6]]
+Leaderboarder:  [[1, 22], [2, 19], [3, 32], [4, 29], [5, 23], [6, 22]]
+
+Running file Borda_224
+===================
+Voted for:  [[7, 4, 3, 1, 5, 6, 2], [2, 6, 5, 1, 3, 4, 7], [7, 6, 4, 2, 3, 1, 5], [4, 7, 2, 3, 1, 6, 5], [5, 1, 3, 2, 4, 6, 7], [7, 5, 3, 6, 4, 2, 1], [1, 2, 6, 5, 7, 3, 4]]
+Leaderboarder:  [[1, 27], [2, 29], [3, 27], [4, 27], [5, 27], [6, 27], [7, 32]]
+Turns:  500
+
+Running file Borda_225
+===================
+Got equilibrium at turn:  1
+Voted for:  [[6, 3, 7, 5, 2, 1, 4], [5, 6, 2, 7, 1, 3, 4], [6, 3, 7, 1, 5, 2, 4], [3, 1, 6, 4, 2, 7, 5], [5, 2, 3, 1, 6, 4, 7], [3, 4, 2, 7, 5, 6, 1], [3, 5, 7, 1, 6, 2, 4]]
+Leaderboarder:  [[1, 24], [2, 26], [3, 40], [4, 16], [5, 31], [6, 33], [7, 26]]
+
+Running file Borda_226
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 4, 3, 1, 5], [3, 5, 4, 2, 1], [4, 1, 3, 5, 2], [4, 1, 2, 3, 5], [4, 1, 2, 3, 5]]
+Leaderboarder:  [[1, 15], [2, 14], [3, 15], [4, 22], [5, 9]]
+
+Running file Borda_227
+===================
+Voted for:  [[5, 2, 4, 3, 1], [1, 3, 4, 2, 5], [4, 2, 1, 5, 3], [1, 5, 4, 3, 2], [3, 2, 5, 1, 4]]
+Leaderboarder:  [[1, 16], [2, 15], [3, 14], [4, 15], [5, 15]]
+Turns:  500
+
+Running file Borda_228
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 6, 7, 5, 4, 3, 2], [4, 2, 6, 1, 7, 5, 3], [2, 5, 6, 1, 7, 4, 3], [4, 6, 3, 2, 5, 7, 1], [3, 6, 2, 5, 4, 1, 7], [3, 6, 2, 4, 1, 5, 7]]
+Leaderboarder:  [[1, 21], [2, 28], [3, 23], [4, 26], [5, 21], [6, 34], [7, 15]]
+
+Running file Borda_229
+===================
+Voted for:  [[4, 3, 6, 1, 2, 5], [5, 2, 1, 6, 3, 4], [2, 3, 1, 4, 6, 5], [5, 1, 6, 4, 3, 2], [5, 6, 3, 4, 2, 1]]
+Leaderboarder:  [[1, 17], [2, 16], [3, 18], [4, 16], [5, 20], [6, 18]]
+Turns:  500
+
+Running file Borda_230
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 4, 5, 6, 2, 3], [4, 5, 1, 6, 3, 2], [6, 2, 4, 3, 5, 1], [1, 3, 2, 6, 5, 4], [1, 5, 6, 4, 2, 3], [2, 4, 1, 3, 6, 5], [1, 4, 2, 5, 3, 6]]
+Leaderboarder:  [[1, 33], [2, 24], [3, 17], [4, 29], [5, 22], [6, 22]]
+
+Running file Borda_231
+===================
+Got equilibrium at turn:  1
+Voted for:  [[7, 5, 1, 6, 4, 2, 3], [5, 7, 4, 1, 2, 6, 3], [3, 2, 7, 1, 6, 4, 5], [6, 5, 3, 4, 7, 2, 1], [1, 2, 7, 4, 5, 3, 6], [1, 3, 5, 2, 7, 6, 4], [7, 6, 5, 3, 1, 4, 2], [4, 6, 7, 3, 2, 5, 1]]
+Leaderboarder:  [[1, 32], [2, 27], [3, 30], [4, 28], [5, 35], [6, 31], [7, 41]]
+
+Running file Borda_232
+===================
+Voted for:  [[2, 3, 1, 5, 6, 4], [6, 5, 4, 1, 3, 2], [4, 3, 6, 5, 1, 2], [2, 5, 4, 3, 6, 1], [3, 2, 4, 1, 6, 5], [6, 1, 4, 5, 3, 2], [1, 2, 6, 4, 3, 5]]
+Leaderboarder:  [[1, 24], [2, 25], [3, 25], [4, 26], [5, 21], [6, 26]]
+Turns:  500
+
+Running file Borda_233
+===================
+Voted for:  [[5, 1, 3, 4, 2], [2, 4, 3, 1, 5], [2, 1, 4, 5, 3], [3, 1, 5, 4, 2], [5, 2, 3, 4, 1]]
+Leaderboarder:  [[1, 15], [2, 16], [3, 15], [4, 13], [5, 16]]
+Turns:  500
+
+Running file Borda_234
+===================
+Voted for:  [[7, 4, 5, 2, 1, 6, 3], [2, 3, 6, 1, 5, 4, 7], [6, 5, 3, 1, 7, 2, 4], [3, 7, 6, 2, 5, 4, 1], [3, 1, 7, 5, 2, 4, 6], [1, 4, 7, 6, 2, 5, 3], [2, 4, 6, 3, 1, 5, 7], [7, 5, 2, 4, 6, 1, 3]]
+Leaderboarder:  [[1, 30], [2, 35], [3, 32], [4, 29], [5, 31], [6, 32], [7, 35]]
+Turns:  500
+
+Running file Borda_235
+===================
+Got equilibrium at turn:  12
+Voted for:  [[5, 1, 3, 2, 4, 7, 6], [6, 1, 7, 4, 2, 3, 5], [6, 4, 5, 3, 7, 2, 1], [5, 1, 6, 3, 7, 2, 4], [6, 2, 7, 3, 4, 5, 1]]
+Leaderboarder:  [[1, 20], [2, 17], [3, 19], [4, 17], [5, 22], [6, 27], [7, 18]]
+
+Running file Borda_236
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 6, 7, 2, 5, 4, 1], [4, 3, 7, 1, 2, 6, 5], [1, 4, 5, 3, 7, 6, 2], [4, 2, 5, 7, 1, 6, 3], [4, 6, 3, 7, 5, 2, 1], [1, 6, 3, 2, 7, 4, 5], [4, 7, 3, 6, 1, 2, 5]]
+Leaderboarder:  [[1, 26], [2, 22], [3, 33], [4, 38], [5, 19], [6, 28], [7, 30]]
+
+Running file Borda_237
+===================
+Voted for:  [[4, 7, 2, 3, 5, 1, 6], [4, 2, 1, 5, 7, 3, 6], [6, 1, 5, 7, 3, 2, 4], [1, 6, 5, 7, 3, 4, 2], [4, 3, 6, 7, 2, 1, 5], [6, 5, 4, 7, 2, 1, 3], [5, 1, 2, 6, 4, 3, 7]]
+Leaderboarder:  [[1, 30], [2, 25], [3, 21], [4, 32], [5, 31], [6, 31], [7, 26]]
+Turns:  500
+
+Running file Borda_238
+===================
+Got equilibrium at turn:  4
+Voted for:  [[5, 3, 4, 6, 2, 1], [5, 1, 6, 2, 4, 3], [3, 5, 4, 2, 1, 6], [1, 2, 4, 5, 6, 3], [4, 1, 6, 3, 2, 5], [5, 1, 3, 2, 6, 4]]
+Leaderboarder:  [[1, 24], [2, 18], [3, 20], [4, 21], [5, 27], [6, 16]]
+
+Running file Borda_239
+===================
+Got equilibrium at turn:  24
+Voted for:  [[3, 2, 4, 1, 5, 6], [6, 5, 1, 4, 2, 3], [6, 1, 3, 2, 4, 5], [6, 5, 1, 3, 2, 4], [4, 5, 6, 2, 3, 1], [4, 3, 2, 5, 1, 6], [6, 3, 1, 5, 2, 4]]
+Leaderboarder:  [[1, 23], [2, 21], [3, 26], [4, 23], [5, 24], [6, 30]]
+
+Running file Borda_240
+===================
+Voted for:  [[2, 3, 1, 4, 5], [4, 1, 2, 5, 3], [1, 5, 4, 3, 2], [3, 5, 2, 4, 1], [5, 4, 3, 2, 1], [2, 4, 5, 3, 1]]
+Leaderboarder:  [[1, 15], [2, 19], [3, 17], [4, 20], [5, 19]]
+Turns:  500
+
+Running file Borda_241
+===================
+Voted for:  [[3, 1, 2, 4, 7, 5, 6], [6, 5, 7, 1, 4, 2, 3], [4, 2, 5, 3, 7, 6, 1], [4, 7, 2, 1, 6, 3, 5], [3, 6, 5, 1, 7, 2, 4]]
+Leaderboarder:  [[1, 19], [2, 20], [3, 21], [4, 22], [5, 19], [6, 19], [7, 20]]
+Turns:  500
+
+Running file Borda_242
+===================
+Got equilibrium at turn:  6
+Voted for:  [[5, 3, 4, 2, 6, 1], [1, 2, 6, 5, 4, 3], [5, 2, 4, 3, 6, 1], [4, 1, 6, 3, 5, 2], [5, 3, 1, 6, 4, 2], [3, 1, 6, 4, 5, 2], [5, 1, 4, 6, 3, 2]]
+Leaderboarder:  [[1, 27], [2, 17], [3, 25], [4, 25], [5, 31], [6, 22]]
+
+Running file Borda_243
+===================
+Voted for:  [[5, 1, 3, 2, 6, 4], [6, 2, 4, 1, 3, 5], [3, 1, 5, 6, 4, 2], [2, 4, 5, 6, 1, 3], [4, 6, 5, 2, 3, 1], [4, 5, 6, 2, 1, 3], [3, 1, 6, 2, 5, 4]]
+Leaderboarder:  [[1, 23], [2, 24], [3, 22], [4, 25], [5, 26], [6, 27]]
+Turns:  500
+
+Running file Borda_244
+===================
+Voted for:  [[1, 3, 4, 6, 2, 5], [1, 4, 2, 5, 3, 6], [5, 2, 4, 3, 6, 1], [5, 3, 6, 1, 2, 4], [6, 1, 2, 4, 5, 3], [6, 2, 5, 4, 3, 1]]
+Leaderboarder:  [[1, 22], [2, 22], [3, 18], [4, 20], [5, 22], [6, 22]]
+Turns:  500
+
+Running file Borda_245
+===================
+Voted for:  [[5, 7, 4, 1, 3, 2, 6], [6, 3, 2, 1, 4, 7, 5], [6, 1, 4, 2, 3, 7, 5], [7, 4, 6, 5, 1, 3, 2], [4, 3, 5, 6, 2, 1, 7], [5, 7, 1, 2, 6, 3, 4], [7, 5, 6, 1, 4, 2, 3]]
+Leaderboarder:  [[1, 28], [2, 21], [3, 23], [4, 30], [5, 31], [6, 32], [7, 31]]
+Turns:  500
+
+Running file Borda_246
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 5, 3, 1, 4], [4, 2, 1, 5, 3], [2, 4, 3, 5, 1], [2, 3, 5, 4, 1], [3, 5, 2, 4, 1], [3, 4, 5, 1, 2], [1, 2, 4, 5, 3]]
+Leaderboarder:  [[1, 15], [2, 27], [3, 22], [4, 21], [5, 20]]
+
+Running file Borda_247
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 5, 1, 2, 4], [4, 1, 2, 5, 3], [5, 1, 3, 2, 4], [1, 2, 5, 3, 4], [5, 1, 2, 3, 4], [5, 1, 2, 3, 4], [1, 3, 4, 2, 5]]
+Leaderboarder:  [[1, 29], [2, 19], [3, 19], [4, 13], [5, 25]]
+
+Running file Borda_248
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 2, 7, 3, 4, 6, 5], [6, 3, 2, 5, 7, 1, 4], [1, 5, 6, 3, 7, 2, 4], [3, 7, 4, 6, 5, 2, 1], [3, 4, 6, 1, 2, 7, 5]]
+Leaderboarder:  [[1, 21], [2, 18], [3, 28], [4, 16], [5, 15], [6, 23], [7, 19]]
+
+Running file Borda_249
+===================
+Voted for:  [[5, 3, 2, 4, 1], [1, 4, 2, 3, 5], [1, 5, 3, 4, 2], [4, 2, 3, 5, 1], [5, 1, 4, 3, 2]]
+Leaderboarder:  [[1, 16], [2, 12], [3, 14], [4, 16], [5, 17]]
+Turns:  500
+
+Running file Borda_250
+===================
+Voted for:  [[5, 4, 7, 3, 1, 2, 6], [6, 2, 1, 3, 7, 4, 5], [4, 5, 7, 2, 1, 6, 3], [6, 5, 3, 7, 1, 2, 4], [7, 6, 3, 2, 5, 1, 4], [4, 1, 3, 6, 2, 7, 5]]
+Leaderboarder:  [[1, 22], [2, 21], [3, 24], [4, 24], [5, 24], [6, 27], [7, 26]]
+Turns:  500
+
+Running file Borda_251
+===================
+Got equilibrium at turn:  5
+Voted for:  [[1, 4, 5, 2, 3, 6], [6, 1, 4, 2, 5, 3], [3, 2, 4, 5, 6, 1], [6, 1, 2, 3, 5, 4], [3, 5, 6, 2, 4, 1], [3, 1, 6, 4, 5, 2], [2, 3, 5, 1, 4, 6], [4, 5, 6, 3, 1, 2]]
+Leaderboarder:  [[1, 28], [2, 26], [3, 32], [4, 27], [5, 27], [6, 28]]
+
+Running file Borda_252
+===================
+Voted for:  [[4, 5, 2, 1, 6, 3, 7], [3, 7, 6, 1, 2, 5, 4], [7, 2, 5, 6, 4, 1, 3], [7, 3, 6, 5, 1, 4, 2], [2, 4, 6, 3, 1, 5, 7], [1, 3, 6, 4, 2, 5, 7], [4, 7, 5, 3, 1, 6, 2]]
+Leaderboarder:  [[1, 26], [2, 26], [3, 30], [4, 30], [5, 26], [6, 29], [7, 29]]
+Turns:  500
+
+Running file Borda_253
+===================
+Voted for:  [[3, 2, 5, 1, 6, 4], [3, 1, 5, 6, 4, 2], [4, 6, 1, 5, 2, 3], [2, 4, 3, 6, 1, 5], [6, 4, 2, 1, 3, 5]]
+Leaderboarder:  [[1, 17], [2, 18], [3, 19], [4, 19], [5, 13], [6, 19]]
+Turns:  500
+
+Running file Borda_254
+===================
+Voted for:  [[6, 5, 7, 2, 1, 3, 4], [1, 4, 3, 2, 7, 5, 6], [1, 2, 5, 3, 7, 4, 6], [1, 3, 7, 4, 6, 5, 2], [4, 6, 7, 2, 5, 1, 3], [6, 3, 7, 4, 1, 2, 5], [2, 6, 4, 3, 5, 1, 7]]
+Leaderboarder:  [[1, 31], [2, 28], [3, 28], [4, 29], [5, 22], [6, 31], [7, 27]]
+Turns:  500
+
+Running file Borda_255
+===================
+Got equilibrium at turn:  11
+Voted for:  [[3, 5, 2, 1, 4], [1, 2, 5, 4, 3], [4, 3, 5, 2, 1], [1, 4, 2, 5, 3], [1, 4, 5, 3, 2], [3, 2, 1, 4, 5]]
+Leaderboarder:  [[1, 21], [2, 17], [3, 18], [4, 18], [5, 16]]
+
+Running file Borda_256
+===================
+Got equilibrium at turn:  12
+Voted for:  [[5, 3, 1, 4, 2], [2, 4, 5, 1, 3], [5, 4, 3, 1, 2], [5, 2, 1, 3, 4], [2, 3, 1, 4, 5]]
+Leaderboarder:  [[1, 13], [2, 16], [3, 14], [4, 13], [5, 19]]
+
+Running file Borda_257
+===================
+Got equilibrium at turn:  16
+Voted for:  [[1, 2, 5, 4, 3], [3, 1, 2, 5, 4], [4, 3, 5, 2, 1], [4, 5, 3, 2, 1], [4, 1, 2, 3, 5]]
+Leaderboarder:  [[1, 15], [2, 14], [3, 15], [4, 18], [5, 13]]
+
+Running file Borda_258
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 1, 4, 2, 5], [5, 1, 4, 3, 2], [2, 3, 4, 1, 5], [1, 2, 3, 5, 4], [3, 2, 5, 4, 1], [5, 3, 4, 1, 2]]
+Leaderboarder:  [[1, 18], [2, 17], [3, 23], [4, 15], [5, 17]]
+
+Running file Borda_259
+===================
+Voted for:  [[1, 2, 5, 4, 3], [3, 5, 2, 4, 1], [1, 2, 3, 4, 5], [5, 4, 3, 2, 1], [5, 3, 4, 2, 1], [1, 4, 3, 2, 5], [2, 4, 5, 3, 1], [1, 4, 3, 2, 5]]
+Leaderboarder:  [[1, 24], [2, 24], [3, 24], [4, 25], [5, 23]]
+Turns:  500
+
+Running file Borda_260
+===================
+Voted for:  [[6, 4, 1, 3, 5, 2], [1, 6, 2, 5, 4, 3], [2, 6, 1, 3, 5, 4], [4, 3, 5, 1, 2, 6], [5, 3, 4, 2, 1, 6]]
+Leaderboarder:  [[1, 19], [2, 16], [3, 17], [4, 18], [5, 17], [6, 18]]
+Turns:  500
+
+Running file Borda_261
+===================
+Got equilibrium at turn:  7
+Voted for:  [[4, 6, 3, 1, 2, 5], [5, 1, 2, 4, 3, 6], [6, 1, 2, 4, 3, 5], [4, 5, 2, 1, 3, 6], [3, 6, 4, 5, 2, 1], [5, 1, 3, 2, 4, 6], [5, 2, 4, 6, 1, 3], [4, 6, 2, 5, 3, 1]]
+Leaderboarder:  [[1, 25], [2, 28], [3, 23], [4, 34], [5, 31], [6, 27]]
+
+Running file Borda_262
+===================
+Got equilibrium at turn:  1
+Voted for:  [[6, 3, 1, 5, 2, 4, 7], [6, 5, 1, 2, 3, 7, 4], [5, 6, 2, 1, 7, 4, 3], [2, 7, 4, 6, 5, 1, 3], [6, 3, 5, 7, 4, 1, 2], [6, 4, 2, 3, 7, 1, 5], [7, 1, 5, 4, 6, 2, 3], [6, 2, 1, 5, 4, 3, 7]]
+Leaderboarder:  [[1, 31], [2, 33], [3, 24], [4, 26], [5, 35], [6, 48], [7, 27]]
+
+Running file Borda_263
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 1, 3, 4, 6, 2], [5, 2, 3, 6, 4, 1], [5, 3, 1, 4, 6, 2], [6, 3, 2, 1, 4, 5], [6, 5, 1, 2, 4, 3], [5, 1, 3, 2, 6, 4]]
+Leaderboarder:  [[1, 22], [2, 17], [3, 23], [4, 13], [5, 30], [6, 21]]
+
+Running file Borda_264
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 2, 5, 6, 1, 3], [1, 5, 2, 4, 3, 6], [6, 4, 3, 2, 5, 1], [4, 6, 2, 5, 1, 3], [6, 4, 5, 1, 2, 3], [6, 3, 1, 2, 4, 5], [6, 5, 3, 2, 1, 4]]
+Leaderboarder:  [[1, 20], [2, 24], [3, 18], [4, 28], [5, 24], [6, 33]]
+
+Running file Borda_265
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 5, 6, 3, 4, 1], [3, 5, 6, 1, 2, 4], [6, 3, 4, 1, 5, 2], [2, 5, 1, 6, 4, 3], [5, 6, 3, 1, 2, 4], [1, 5, 6, 2, 3, 4]]
+Leaderboarder:  [[1, 20], [2, 20], [3, 21], [4, 11], [5, 28], [6, 26]]
+
+Running file Borda_266
+===================
+Got equilibrium at turn:  9
+Voted for:  [[1, 7, 6, 2, 3, 4, 5], [1, 4, 2, 6, 7, 5, 3], [5, 4, 3, 2, 6, 7, 1], [5, 7, 3, 6, 1, 2, 4], [1, 2, 7, 6, 3, 4, 5], [5, 7, 6, 3, 2, 4, 1], [5, 1, 3, 2, 4, 7, 6], [5, 6, 1, 4, 7, 2, 3]]
+Leaderboarder:  [[1, 37], [2, 30], [3, 27], [4, 26], [5, 39], [6, 32], [7, 33]]
+
+Running file Borda_267
+===================
+Got equilibrium at turn:  1
+Voted for:  [[6, 7, 2, 5, 4, 3, 1], [6, 4, 7, 3, 5, 1, 2], [6, 3, 5, 1, 4, 7, 2], [5, 1, 4, 2, 6, 3, 7], [4, 1, 6, 7, 3, 5, 2]]
+Leaderboarder:  [[1, 19], [2, 12], [3, 17], [4, 24], [5, 21], [6, 29], [7, 18]]
+
+Running file Borda_268
+===================
+Voted for:  [[3, 7, 1, 5, 6, 2, 4], [2, 4, 5, 6, 1, 7, 3], [3, 7, 2, 6, 4, 5, 1], [4, 7, 3, 5, 1, 6, 2], [2, 6, 3, 5, 7, 4, 1], [4, 6, 2, 7, 1, 3, 5]]
+Leaderboarder:  [[1, 16], [2, 27], [3, 27], [4, 26], [5, 20], [6, 25], [7, 27]]
+Turns:  500
+
+Running file Borda_269
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 5, 3, 1, 4], [4, 1, 2, 3, 5], [1, 4, 3, 2, 5], [1, 5, 4, 3, 2], [2, 5, 3, 1, 4]]
+Leaderboarder:  [[1, 18], [2, 16], [3, 13], [4, 14], [5, 14]]
+
+Running file Borda_270
+===================
+Voted for:  [[2, 6, 5, 3, 1, 4], [1, 4, 3, 5, 6, 2], [4, 6, 3, 5, 1, 2], [2, 1, 5, 6, 3, 4], [4, 2, 1, 5, 6, 3]]
+Leaderboarder:  [[1, 19], [2, 19], [3, 14], [4, 19], [5, 17], [6, 17]]
+Turns:  500
+
+Running file Borda_271
+===================
+Got equilibrium at turn:  11
+Voted for:  [[4, 3, 5, 1, 2], [4, 3, 5, 1, 2], [5, 2, 1, 3, 4], [2, 3, 5, 1, 4], [2, 5, 1, 4, 3], [5, 4, 2, 3, 1], [4, 1, 2, 5, 3], [1, 5, 4, 2, 3]]
+Leaderboarder:  [[1, 22], [2, 24], [3, 19], [4, 26], [5, 29]]
+
+Running file Borda_272
+===================
+Voted for:  [[4, 6, 5, 3, 1, 2], [2, 1, 5, 3, 4, 6], [5, 3, 6, 4, 1, 2], [6, 4, 1, 2, 5, 3], [1, 3, 2, 6, 5, 4], [1, 5, 3, 6, 4, 2], [2, 4, 3, 6, 5, 1], [2, 4, 3, 5, 1, 6]]
+Leaderboarder:  [[1, 28], [2, 28], [3, 29], [4, 29], [5, 28], [6, 26]]
+Turns:  500
+
+Running file Borda_273
+===================
+Voted for:  [[4, 7, 5, 3, 6, 1, 2], [1, 2, 4, 3, 5, 6, 7], [2, 6, 4, 5, 3, 1, 7], [2, 1, 7, 3, 6, 4, 5], [7, 1, 3, 4, 6, 5, 2]]
+Leaderboarder:  [[1, 23], [2, 22], [3, 20], [4, 23], [5, 15], [6, 17], [7, 20]]
+Turns:  500
+
+Running file Borda_274
+===================
+Voted for:  [[3, 2, 5, 4, 1], [3, 5, 2, 1, 4], [1, 4, 5, 2, 3], [1, 3, 4, 5, 2], [4, 2, 5, 1, 3]]
+Leaderboarder:  [[1, 15], [2, 14], [3, 16], [4, 15], [5, 15]]
+Turns:  500
+
+Running file Borda_275
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 3, 4, 5, 1], [5, 3, 1, 2, 4], [2, 5, 1, 4, 3], [1, 2, 5, 3, 4], [2, 4, 5, 3, 1]]
+Leaderboarder:  [[1, 13], [2, 21], [3, 13], [4, 11], [5, 17]]
+
+Running file Borda_276
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 2, 6, 5, 4, 1, 7], [4, 2, 7, 1, 6, 5, 3], [3, 4, 1, 7, 6, 5, 2], [2, 1, 3, 7, 4, 6, 5], [4, 5, 1, 7, 3, 6, 2], [3, 2, 4, 1, 5, 6, 7], [7, 4, 5, 3, 6, 2, 1], [4, 2, 7, 1, 5, 3, 6]]
+Leaderboarder:  [[1, 31], [2, 35], [3, 36], [4, 44], [5, 26], [6, 21], [7, 31]]
+
+Running file Borda_277
+===================
+Voted for:  [[3, 1, 6, 7, 2, 4, 5], [4, 6, 3, 1, 2, 5, 7], [2, 5, 6, 4, 7, 3, 1], [7, 5, 1, 4, 3, 2, 6], [2, 4, 1, 7, 5, 6, 3], [3, 5, 6, 2, 1, 4, 7]]
+Leaderboarder:  [[1, 24], [2, 26], [3, 25], [4, 25], [5, 24], [6, 24], [7, 20]]
+Turns:  500
+
+Running file Borda_278
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 3, 2, 4, 1, 7, 6], [4, 1, 6, 3, 2, 5, 7], [2, 4, 1, 7, 5, 6, 3], [5, 6, 1, 3, 4, 7, 2], [7, 1, 4, 6, 3, 2, 5], [1, 7, 2, 6, 3, 5, 4]]
+Leaderboarder:  [[1, 32], [2, 23], [3, 21], [4, 26], [5, 22], [6, 22], [7, 22]]
+
+Running file Borda_279
+===================
+Voted for:  [[1, 3, 2, 4, 5], [5, 4, 2, 1, 3], [5, 4, 3, 1, 2], [5, 1, 2, 4, 3], [3, 5, 2, 1, 4], [2, 4, 5, 3, 1], [1, 3, 4, 2, 5], [1, 3, 2, 5, 4]]
+Leaderboarder:  [[1, 26], [2, 23], [3, 24], [4, 21], [5, 26]]
+Turns:  500
+
+Running file Borda_280
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 3, 4, 6, 1, 5], [2, 6, 1, 5, 3, 4], [6, 3, 4, 2, 1, 5], [1, 6, 3, 4, 2, 5], [6, 3, 5, 2, 4, 1], [3, 6, 5, 4, 2, 1], [6, 1, 3, 5, 4, 2], [6, 2, 3, 1, 4, 5]]
+Leaderboarder:  [[1, 24], [2, 28], [3, 35], [4, 21], [5, 18], [6, 42]]
+
+Running file Borda_281
+===================
+Got equilibrium at turn:  10
+Voted for:  [[1, 4, 5, 3, 2, 6], [4, 5, 3, 6, 2, 1], [6, 1, 2, 5, 3, 4], [6, 2, 1, 5, 4, 3], [6, 4, 2, 3, 1, 5]]
+Leaderboarder:  [[1, 18], [2, 17], [3, 13], [4, 19], [5, 16], [6, 22]]
+
+Running file Borda_282
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 1, 3, 5, 6, 2], [4, 2, 3, 1, 5, 6], [4, 6, 5, 2, 1, 3], [1, 2, 4, 3, 6, 5], [5, 2, 6, 3, 4, 1]]
+Leaderboarder:  [[1, 17], [2, 19], [3, 15], [4, 24], [5, 16], [6, 14]]
+
+Running file Borda_283
+===================
+Voted for:  [[3, 7, 2, 5, 4, 6, 1], [1, 6, 4, 5, 3, 2, 7], [7, 5, 4, 3, 2, 6, 1], [2, 1, 4, 3, 6, 5, 7], [1, 4, 3, 6, 5, 7, 2], [7, 1, 2, 6, 5, 3, 4], [6, 2, 5, 3, 4, 7, 1], [7, 3, 1, 5, 4, 6, 2]]
+Leaderboarder:  [[1, 34], [2, 30], [3, 35], [4, 31], [5, 31], [6, 30], [7, 33]]
+Turns:  500
+
+Running file Borda_284
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 2, 3, 5, 6, 4], [3, 1, 2, 6, 4, 5], [2, 4, 1, 5, 3, 6], [4, 5, 3, 2, 6, 1], [3, 6, 1, 4, 5, 2], [3, 4, 2, 1, 5, 6]]
+Leaderboarder:  [[1, 23], [2, 23], [3, 28], [4, 22], [5, 16], [6, 14]]
+
+Running file Borda_285
+===================
+Voted for:  [[3, 4, 2, 7, 5, 6, 1], [6, 5, 2, 4, 7, 1, 3], [3, 4, 2, 5, 1, 7, 6], [3, 7, 1, 6, 2, 4, 5], [7, 5, 4, 1, 2, 6, 3], [1, 6, 5, 3, 7, 4, 2], [6, 4, 3, 7, 1, 2, 5], [1, 5, 6, 7, 2, 4, 3]]
+Leaderboarder:  [[1, 32], [2, 27], [3, 33], [4, 33], [5, 32], [6, 34], [7, 33]]
+Turns:  500
+
+Running file Borda_286
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 1, 5, 2, 4], [4, 2, 5, 3, 1], [5, 1, 3, 4, 2], [2, 1, 4, 3, 5], [4, 3, 2, 1, 5], [4, 3, 5, 1, 2], [3, 5, 4, 2, 1], [3, 2, 1, 4, 5]]
+Leaderboarder:  [[1, 21], [2, 22], [3, 30], [4, 26], [5, 21]]
+
+Running file Borda_287
+===================
+Voted for:  [[2, 3, 7, 4, 5, 6, 1], [5, 4, 1, 3, 6, 7, 2], [2, 6, 1, 4, 7, 5, 3], [1, 7, 4, 5, 6, 2, 3], [6, 5, 2, 4, 7, 3, 1]]
+Leaderboarder:  [[1, 19], [2, 22], [3, 14], [4, 23], [5, 22], [6, 21], [7, 19]]
+Turns:  500
+
+Running file Borda_288
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 3, 4, 2, 5], [1, 4, 5, 3, 2], [5, 1, 4, 3, 2], [3, 5, 1, 4, 2], [1, 3, 5, 2, 4], [4, 3, 2, 5, 1], [4, 1, 2, 5, 3]]
+Leaderboarder:  [[1, 27], [2, 13], [3, 22], [4, 23], [5, 20]]
+
+Running file Borda_289
+===================
+Voted for:  [[6, 4, 3, 2, 1, 5], [5, 1, 6, 2, 3, 4], [2, 4, 6, 3, 1, 5], [5, 6, 3, 1, 4, 2], [5, 1, 3, 6, 4, 2], [2, 4, 1, 3, 6, 5], [6, 4, 5, 2, 3, 1], [5, 3, 2, 4, 6, 1]]
+Leaderboarder:  [[1, 23], [2, 27], [3, 27], [4, 28], [5, 31], [6, 32]]
+Turns:  500
+
+Running file Borda_290
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 3, 2, 4, 1], [2, 5, 3, 1, 4], [1, 3, 2, 4, 5], [2, 3, 4, 5, 1], [5, 2, 3, 4, 1], [2, 5, 4, 3, 1]]
+Leaderboarder:  [[1, 11], [2, 25], [3, 20], [4, 13], [5, 21]]
+
+Running file Borda_291
+===================
+Voted for:  [[6, 3, 1, 5, 4, 2], [2, 4, 5, 1, 3, 6], [3, 5, 4, 2, 6, 1], [6, 3, 5, 1, 2, 4], [1, 4, 6, 2, 3, 5], [1, 6, 4, 2, 5, 3], [3, 2, 5, 6, 4, 1]]
+Leaderboarder:  [[1, 24], [2, 23], [3, 27], [4, 23], [5, 23], [6, 27]]
+Turns:  500
+
+Running file Borda_292
+===================
+Voted for:  [[5, 7, 1, 2, 6, 3, 4], [4, 3, 2, 6, 1, 5, 7], [3, 6, 4, 7, 2, 1, 5], [3, 5, 2, 6, 1, 7, 4], [5, 6, 7, 4, 2, 1, 3], [7, 4, 2, 1, 5, 6, 3], [4, 5, 7, 6, 3, 1, 2]]
+Leaderboarder:  [[1, 21], [2, 26], [3, 27], [4, 31], [5, 32], [6, 29], [7, 30]]
+Turns:  500
+
+Running file Borda_293
+===================
+Voted for:  [[5, 1, 7, 3, 4, 2, 6], [5, 6, 4, 2, 3, 7, 1], [2, 3, 7, 4, 6, 1, 5], [2, 6, 5, 1, 4, 7, 3], [4, 6, 1, 7, 3, 5, 2]]
+Leaderboarder:  [[1, 18], [2, 21], [3, 17], [4, 22], [5, 22], [6, 22], [7, 18]]
+Turns:  500
+
+Running file Borda_294
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 2, 5, 1, 4], [1, 5, 4, 2, 3], [1, 3, 2, 4, 5], [3, 1, 2, 4, 5], [5, 1, 4, 3, 2], [1, 3, 2, 5, 4], [2, 3, 4, 5, 1], [5, 2, 1, 4, 3]]
+Leaderboarder:  [[1, 29], [2, 25], [3, 26], [4, 17], [5, 23]]
+
+Running file Borda_295
+===================
+Voted for:  [[4, 5, 6, 7, 1, 3, 2], [2, 3, 1, 6, 5, 7, 4], [2, 4, 6, 3, 7, 5, 1], [4, 7, 6, 3, 5, 1, 2], [1, 2, 7, 3, 5, 6, 4], [1, 3, 4, 2, 5, 6, 7]]
+Leaderboarder:  [[1, 25], [2, 26], [3, 26], [4, 27], [5, 20], [6, 23], [7, 21]]
+Turns:  500
+
+Running file Borda_296
+===================
+Voted for:  [[2, 5, 7, 1, 4, 6, 3], [3, 7, 1, 6, 4, 5, 2], [3, 5, 2, 4, 6, 1, 7], [2, 1, 6, 3, 5, 4, 7], [5, 3, 7, 6, 4, 1, 2], [4, 2, 3, 1, 7, 5, 6], [2, 5, 1, 7, 3, 6, 4], [4, 5, 3, 7, 2, 6, 1]]
+Leaderboarder:  [[1, 29], [2, 37], [3, 38], [4, 30], [5, 38], [6, 23], [7, 29]]
+Turns:  500
+
+Running file Borda_297
+===================
+Voted for:  [[6, 5, 4, 2, 3, 1], [1, 3, 2, 4, 5, 6], [5, 2, 4, 1, 3, 6], [5, 2, 1, 3, 6, 4], [6, 3, 5, 4, 1, 2], [2, 4, 3, 1, 5, 6], [6, 1, 3, 5, 4, 2], [6, 1, 3, 4, 2, 5]]
+Leaderboarder:  [[1, 29], [2, 27], [3, 29], [4, 25], [5, 29], [6, 29]]
+Turns:  500
+
+Running file Borda_298
+===================
+Voted for:  [[4, 5, 3, 1, 6, 2], [4, 3, 1, 2, 6, 5], [3, 2, 6, 1, 5, 4], [4, 6, 1, 5, 3, 2], [2, 1, 3, 4, 6, 5], [6, 2, 5, 3, 4, 1]]
+Leaderboarder:  [[1, 20], [2, 21], [3, 24], [4, 24], [5, 16], [6, 21]]
+Turns:  500
+
+Running file Borda_299
+===================
+Voted for:  [[1, 5, 2, 3, 4], [3, 4, 2, 5, 1], [5, 3, 4, 1, 2], [4, 2, 1, 3, 5], [1, 3, 4, 2, 5]]
+Leaderboarder:  [[1, 16], [2, 13], [3, 17], [4, 16], [5, 13]]
+Turns:  500
+
+Running file Borda_300
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 4, 3, 2, 5], [5, 1, 4, 3, 2], [5, 3, 1, 2, 4], [2, 5, 1, 3, 4], [4, 2, 3, 1, 5], [2, 1, 4, 5, 3], [1, 3, 2, 4, 5]]
+Leaderboarder:  [[1, 26], [2, 22], [3, 19], [4, 19], [5, 19]]
+
+Running file Borda_301
+===================
+Voted for:  [[1, 6, 3, 4, 5, 2], [4, 6, 3, 2, 5, 1], [5, 2, 1, 6, 3, 4], [4, 1, 3, 6, 2, 5], [5, 3, 2, 6, 1, 4], [4, 2, 5, 1, 6, 3]]
+Leaderboarder:  [[1, 21], [2, 20], [3, 20], [4, 23], [5, 21], [6, 21]]
+Turns:  500
+
+Running file Borda_302
+===================
+Got equilibrium at turn:  1
+Voted for:  [[5, 1, 3, 7, 4, 2, 6], [6, 2, 4, 7, 1, 3, 5], [3, 6, 1, 2, 5, 7, 4], [1, 7, 4, 6, 2, 3, 5], [1, 5, 6, 7, 3, 2, 4], [7, 5, 2, 1, 6, 4, 3], [1, 5, 2, 7, 3, 4, 6]]
+Leaderboarder:  [[1, 39], [2, 27], [3, 23], [4, 19], [5, 30], [6, 27], [7, 31]]
+
+Running file Borda_303
+===================
+Got equilibrium at turn:  19
+Voted for:  [[5, 2, 4, 3, 1], [5, 1, 3, 4, 2], [1, 2, 3, 5, 4], [1, 4, 2, 5, 3], [3, 4, 5, 2, 1], [5, 1, 2, 3, 4]]
+Leaderboarder:  [[1, 20], [2, 17], [3, 16], [4, 15], [5, 22]]
+
+Running file Borda_304
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 4, 5, 1, 3], [2, 3, 4, 5, 1], [5, 4, 2, 1, 3], [2, 1, 3, 5, 4], [4, 5, 2, 3, 1], [1, 4, 2, 5, 3]]
+Leaderboarder:  [[1, 15], [2, 24], [3, 12], [4, 21], [5, 18]]
+
+Running file Borda_305
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 1, 4, 2, 7, 6, 5], [5, 7, 4, 2, 1, 6, 3], [3, 2, 4, 6, 5, 1, 7], [4, 7, 5, 3, 6, 2, 1], [2, 6, 1, 3, 7, 5, 4], [3, 7, 1, 2, 6, 5, 4], [6, 3, 5, 1, 2, 4, 7]]
+Leaderboarder:  [[1, 26], [2, 30], [3, 36], [4, 26], [5, 25], [6, 27], [7, 26]]
+
+Running file Borda_306
+===================
+Got equilibrium at turn:  24
+Voted for:  [[3, 5, 1, 2, 6, 7, 4], [3, 1, 2, 7, 6, 5, 4], [4, 5, 6, 7, 2, 1, 3], [4, 6, 7, 3, 5, 2, 1], [3, 4, 1, 2, 5, 7, 6]]
+Leaderboarder:  [[1, 19], [2, 18], [3, 26], [4, 22], [5, 20], [6, 18], [7, 17]]
+
+Running file Borda_307
+===================
+Got equilibrium at turn:  3
+Voted for:  [[4, 5, 3, 1, 2, 6], [1, 3, 6, 2, 5, 4], [3, 2, 1, 5, 4, 6], [1, 2, 6, 4, 5, 3], [1, 4, 6, 3, 2, 5], [3, 4, 6, 2, 5, 1], [6, 5, 4, 2, 3, 1], [1, 4, 6, 2, 3, 5]]
+Leaderboarder:  [[1, 33], [2, 26], [3, 29], [4, 31], [5, 21], [6, 28]]
+
+Running file Borda_308
+===================
+Voted for:  [[4, 2, 6, 5, 3, 7, 1], [7, 1, 3, 5, 6, 4, 2], [3, 7, 2, 6, 1, 5, 4], [7, 4, 5, 1, 2, 6, 3], [1, 4, 6, 2, 5, 3, 7]]
+Leaderboarder:  [[1, 21], [2, 19], [3, 18], [4, 22], [5, 18], [6, 19], [7, 23]]
+Turns:  500
+
+Running file Borda_309
+===================
+Got equilibrium at turn:  2
+Voted for:  [[2, 5, 1, 6, 3, 4, 7], [7, 6, 5, 1, 4, 3, 2], [7, 2, 5, 6, 3, 4, 1], [7, 2, 3, 4, 6, 1, 5], [7, 2, 3, 1, 5, 6, 4]]
+Leaderboarder:  [[1, 16], [2, 26], [3, 18], [4, 12], [5, 20], [6, 19], [7, 29]]
+
+Running file Borda_310
+===================
+Got equilibrium at turn:  7
+Voted for:  [[1, 5, 3, 7, 4, 6, 2], [2, 5, 4, 7, 6, 3, 1], [2, 6, 4, 3, 7, 5, 1], [2, 5, 3, 1, 4, 6, 7], [1, 4, 7, 5, 3, 6, 2], [7, 2, 1, 3, 5, 4, 6], [6, 2, 1, 3, 4, 5, 7]]
+Leaderboarder:  [[1, 30], [2, 35], [3, 27], [4, 27], [5, 29], [6, 23], [7, 25]]
+
+Running file Borda_311
+===================
+Voted for:  [[3, 5, 2, 4, 6, 1], [4, 6, 1, 2, 5, 3], [6, 5, 3, 2, 4, 1], [6, 1, 4, 2, 3, 5], [3, 1, 6, 5, 2, 4], [1, 2, 5, 4, 6, 3], [2, 6, 3, 1, 4, 5], [3, 4, 1, 2, 5, 6]]
+Leaderboarder:  [[1, 29], [2, 29], [3, 30], [4, 26], [5, 23], [6, 31]]
+Turns:  500
+
+Running file Borda_312
+===================
+Got equilibrium at turn:  50
+Voted for:  [[2, 3, 1, 4, 5], [3, 4, 2, 5, 1], [5, 4, 2, 1, 3], [5, 1, 2, 4, 3], [3, 2, 4, 1, 5], [2, 4, 1, 3, 5], [5, 1, 2, 4, 3], [5, 3, 4, 1, 2]]
+Leaderboarder:  [[1, 21], [2, 27], [3, 23], [4, 24], [5, 25]]
+
+Running file Borda_313
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 5, 4, 3, 1], [5, 1, 2, 3, 4], [3, 4, 2, 1, 5], [2, 3, 5, 1, 4], [1, 2, 5, 4, 3], [1, 4, 5, 2, 3], [3, 4, 2, 1, 5], [2, 3, 5, 4, 1]]
+Leaderboarder:  [[1, 22], [2, 30], [3, 24], [4, 21], [5, 23]]
+
+Running file Borda_314
+===================
+Got equilibrium at turn:  1
+Voted for:  [[2, 5, 1, 4, 3], [5, 3, 2, 4, 1], [1, 3, 4, 5, 2], [3, 2, 5, 4, 1], [2, 5, 1, 4, 3], [4, 1, 3, 2, 5], [2, 4, 1, 5, 3]]
+Leaderboarder:  [[1, 20], [2, 25], [3, 19], [4, 20], [5, 21]]
+
+Running file Borda_315
+===================
+Voted for:  [[6, 2, 3, 1, 4, 5], [5, 1, 3, 4, 2, 6], [6, 5, 2, 4, 3, 1], [4, 1, 3, 6, 5, 2], [2, 4, 5, 3, 1, 6], [6, 5, 2, 3, 4, 1]]
+Leaderboarder:  [[1, 17], [2, 22], [3, 20], [4, 21], [5, 23], [6, 23]]
+Turns:  500
+
+Running file Borda_316
+===================
+Got equilibrium at turn:  1
+Voted for:  [[6, 7, 5, 1, 2, 4, 3], [2, 5, 4, 6, 1, 7, 3], [2, 1, 3, 5, 6, 4, 7], [3, 6, 4, 1, 5, 7, 2], [7, 2, 5, 3, 4, 1, 6], [5, 4, 6, 2, 3, 1, 7], [5, 1, 4, 3, 2, 7, 6]]
+Leaderboarder:  [[1, 27], [2, 31], [3, 25], [4, 28], [5, 37], [6, 27], [7, 21]]
+
+Running file Borda_317
+===================
+Voted for:  [[1, 7, 3, 4, 6, 2, 5], [5, 2, 6, 4, 3, 7, 1], [5, 7, 4, 2, 3, 1, 6], [3, 1, 6, 2, 4, 5, 7], [6, 1, 5, 2, 4, 7, 3]]
+Leaderboarder:  [[1, 22], [2, 20], [3, 19], [4, 19], [5, 22], [6, 21], [7, 17]]
+Turns:  500
+
+Running file Borda_318
+===================
+Got equilibrium at turn:  2
+Voted for:  [[3, 4, 7, 2, 6, 5, 1], [7, 2, 5, 3, 1, 6, 4], [1, 4, 6, 3, 2, 5, 7], [1, 6, 3, 7, 2, 4, 5], [1, 6, 3, 5, 7, 2, 4], [3, 4, 2, 5, 6, 1, 7]]
+Leaderboarder:  [[1, 27], [2, 23], [3, 32], [4, 22], [5, 18], [6, 25], [7, 21]]
+
+Running file Borda_319
+===================
+Voted for:  [[1, 4, 6, 5, 3, 2], [2, 3, 6, 4, 5, 1], [5, 3, 4, 6, 2, 1], [1, 6, 5, 3, 4, 2], [1, 3, 2, 5, 6, 4], [2, 4, 5, 6, 1, 3]]
+Leaderboarder:  [[1, 22], [2, 20], [3, 21], [4, 20], [5, 22], [6, 21]]
+Turns:  500
+
+Running file Borda_320
+===================
+Got equilibrium at turn:  1
+Voted for:  [[7, 5, 6, 3, 1, 2, 4], [1, 7, 3, 4, 2, 6, 5], [3, 7, 5, 6, 1, 4, 2], [6, 7, 1, 5, 3, 2, 4], [4, 7, 3, 2, 6, 1, 5], [2, 4, 5, 3, 7, 6, 1]]
+Leaderboarder:  [[1, 21], [2, 19], [3, 28], [4, 21], [5, 22], [6, 23], [7, 34]]
+
+Running file Borda_321
+===================
+Voted for:  [[1, 4, 5, 2, 6, 3], [3, 6, 2, 5, 4, 1], [1, 6, 4, 5, 2, 3], [3, 2, 4, 6, 5, 1], [3, 2, 5, 4, 6, 1], [1, 5, 3, 4, 6, 2], [2, 4, 3, 6, 5, 1], [1, 5, 4, 6, 3, 2]]
+Leaderboarder:  [[1, 28], [2, 27], [3, 30], [4, 30], [5, 28], [6, 25]]
+Turns:  500
+
+Running file Borda_322
+===================
+Got equilibrium at turn:  2
+Voted for:  [[4, 1, 7, 6, 3, 2, 5], [3, 4, 5, 6, 2, 1, 7], [7, 4, 1, 6, 2, 3, 5], [4, 2, 5, 6, 7, 1, 3], [6, 5, 7, 1, 4, 3, 2], [5, 1, 3, 4, 6, 2, 7], [5, 2, 3, 7, 1, 4, 6]]
+Leaderboarder:  [[1, 28], [2, 23], [3, 25], [4, 35], [5, 32], [6, 27], [7, 26]]
+
+Running file Borda_323
+===================
+Got equilibrium at turn:  5
+Voted for:  [[2, 4, 1, 3, 5], [5, 3, 1, 4, 2], [2, 4, 3, 1, 5], [5, 4, 1, 3, 2], [5, 2, 1, 4, 3], [5, 2, 1, 3, 4]]
+Leaderboarder:  [[1, 17], [2, 20], [3, 14], [4, 17], [5, 22]]
+
+Running file Borda_324
+===================
+Got equilibrium at turn:  3
+Voted for:  [[3, 2, 4, 5, 1, 6], [3, 6, 1, 4, 5, 2], [3, 6, 4, 5, 2, 1], [6, 2, 1, 5, 4, 3], [5, 1, 3, 2, 4, 6], [2, 6, 1, 5, 3, 4]]
+Leaderboarder:  [[1, 20], [2, 22], [3, 25], [4, 16], [5, 20], [6, 23]]
+
+Running file Borda_325
+===================
+Got equilibrium at turn:  1
+Voted for:  [[4, 1, 5, 3, 2], [2, 1, 4, 5, 3], [4, 2, 1, 3, 5], [2, 5, 3, 4, 1], [2, 5, 3, 4, 1], [3, 5, 4, 1, 2], [3, 2, 5, 4, 1]]
+Leaderboarder:  [[1, 16], [2, 25], [3, 21], [4, 22], [5, 21]]
+
+Running file Borda_326
+===================
+Voted for:  [[3, 6, 2, 5, 1, 4], [3, 1, 6, 2, 5, 4], [4, 1, 5, 2, 6, 3], [5, 4, 2, 1, 6, 3], [4, 5, 3, 6, 2, 1], [1, 3, 6, 4, 5, 2]]
+Leaderboarder:  [[1, 22], [2, 17], [3, 23], [4, 22], [5, 22], [6, 20]]
+Turns:  500
+
+Running file Borda_327
+===================
+Voted for:  [[1, 2, 5, 4, 3], [1, 5, 3, 2, 4], [3, 4, 2, 5, 1], [1, 3, 5, 2, 4], [4, 5, 1, 3, 2], [2, 3, 4, 1, 5], [4, 1, 3, 5, 2], [4, 3, 2, 5, 1]]
+Leaderboarder:  [[1, 26], [2, 21], [3, 26], [4, 26], [5, 21]]
+Turns:  500
+
+Running file Borda_328
+===================
+Voted for:  [[1, 7, 6, 4, 5, 3, 2], [4, 1, 3, 5, 7, 2, 6], [3, 2, 5, 7, 1, 6, 4], [6, 4, 2, 5, 7, 1, 3], [3, 2, 1, 5, 6, 7, 4], [1, 3, 2, 7, 5, 6, 4], [6, 2, 4, 3, 5, 7, 1]]
+Leaderboarder:  [[1, 31], [2, 31], [3, 32], [4, 25], [5, 26], [6, 27], [7, 24]]
+Turns:  500
+
+Running file Borda_329
+===================
+Voted for:  [[2, 5, 3, 4, 1], [1, 3, 4, 5, 2], [1, 3, 4, 2, 5], [4, 1, 5, 3, 2], [2, 5, 4, 1, 3], [2, 5, 4, 3, 1], [4, 2, 1, 3, 5], [5, 1, 3, 4, 2]]
+Leaderboarder:  [[1, 25], [2, 24], [3, 21], [4, 26], [5, 24]]
+Turns:  500
+
+Running file Borda_330
+===================
+Voted for:  [[6, 3, 1, 4, 2, 5], [4, 5, 2, 3, 1, 6], [6, 1, 3, 2, 5, 4], [4, 2, 5, 1, 3, 6], [6, 5, 4, 2, 1, 3]]
+Leaderboarder:  [[1, 16], [2, 17], [3, 15], [4, 20], [5, 17], [6, 20]]
+Turns:  500
+
+Running file Borda_331
+===================
+Got equilibrium at turn:  32
+Voted for:  [[6, 4, 3, 5, 7, 1, 2], [4, 1, 7, 2, 5, 3, 6], [2, 1, 3, 7, 6, 5, 4], [2, 5, 6, 3, 7, 1, 4], [2, 4, 5, 6, 7, 3, 1], [2, 3, 5, 6, 4, 1, 7], [4, 1, 6, 3, 5, 7, 2]]
+Leaderboarder:  [[1, 25], [2, 34], [3, 28], [4, 31], [5, 28], [6, 29], [7, 21]]
+
+Running file Borda_332
+===================
+Got equilibrium at turn:  29
+Voted for:  [[7, 3, 5, 4, 1, 6, 2], [6, 1, 2, 4, 5, 3, 7], [7, 2, 5, 3, 4, 1, 6], [6, 5, 3, 7, 1, 4, 2], [2, 7, 3, 5, 4, 1, 6], [6, 2, 4, 3, 5, 1, 7], [6, 4, 7, 2, 1, 3, 5]]
+Leaderboarder:  [[1, 21], [2, 30], [3, 28], [4, 27], [5, 27], [6, 32], [7, 31]]
+
+Running file Borda_333
+===================
+Voted for:  [[6, 4, 5, 3, 1, 2, 7], [3, 2, 1, 5, 7, 6, 4], [6, 1, 5, 7, 4, 2, 3], [3, 7, 5, 2, 4, 1, 6], [7, 6, 4, 3, 1, 2, 5], [2, 5, 1, 3, 7, 6, 4]]
+Leaderboarder:  [[1, 24], [2, 23], [3, 27], [4, 19], [5, 26], [6, 25], [7, 24]]
+Turns:  500
+
+Running file Borda_334
+===================
+Voted for:  [[3, 4, 6, 5, 1, 2], [2, 1, 5, 6, 4, 3], [2, 1, 4, 6, 3, 5], [1, 4, 2, 5, 6, 3], [3, 6, 5, 4, 1, 2], [3, 5, 2, 4, 1, 6], [5, 3, 2, 1, 4, 6]]
+Leaderboarder:  [[1, 25], [2, 26], [3, 27], [4, 24], [5, 26], [6, 19]]
+Turns:  500
+
+Running file Borda_335
+===================
+Got equilibrium at turn:  6
+Voted for:  [[5, 4, 3, 1, 2], [2, 4, 1, 3, 5], [5, 4, 3, 1, 2], [2, 3, 1, 4, 5], [2, 5, 3, 1, 4]]
+Leaderboarder:  [[1, 12], [2, 17], [3, 15], [4, 15], [5, 16]]
+
+Running file Borda_336
+===================
+Got equilibrium at turn:  47
+Voted for:  [[1, 4, 2, 3, 5], [1, 4, 2, 3, 5], [5, 3, 2, 4, 1], [5, 2, 3, 4, 1], [5, 3, 2, 4, 1], [1, 4, 2, 3, 5], [5, 1, 4, 3, 2]]
+Leaderboarder:  [[1, 22], [2, 20], [3, 19], [4, 21], [5, 23]]
+
+Running file Borda_337
+===================
+Voted for:  [[6, 4, 2, 3, 1, 7, 5], [5, 1, 7, 3, 6, 2, 4], [6, 4, 2, 1, 7, 3, 5], [3, 5, 7, 6, 1, 4, 2], [7, 5, 6, 3, 4, 2, 1], [2, 7, 5, 4, 1, 3, 6]]
+Leaderboarder:  [[1, 20], [2, 22], [3, 23], [4, 22], [5, 26], [6, 27], [7, 28]]
+Turns:  500
+
+Running file Borda_338
+===================
+Got equilibrium at turn:  1
+Voted for:  [[7, 2, 5, 3, 6, 1, 4], [3, 1, 2, 7, 4, 6, 5], [2, 5, 1, 6, 4, 7, 3], [2, 1, 5, 7, 3, 4, 6], [2, 7, 3, 4, 6, 1, 5]]
+Leaderboarder:  [[1, 21], [2, 32], [3, 20], [4, 13], [5, 18], [6, 13], [7, 23]]
+
+Running file Borda_339
+===================
+Voted for:  [[3, 4, 5, 6, 2, 1], [6, 1, 2, 5, 4, 3], [5, 1, 4, 2, 6, 3], [5, 6, 2, 3, 4, 1], [3, 1, 4, 6, 2, 5], [3, 6, 2, 4, 1, 5]]
+Leaderboarder:  [[1, 19], [2, 19], [3, 23], [4, 20], [5, 21], [6, 24]]
+Turns:  500
+
+Running file Borda_340
+===================
+Voted for:  [[1, 2, 3, 4, 6, 5], [5, 6, 4, 3, 1, 2], [5, 1, 2, 4, 6, 3], [1, 4, 2, 3, 5, 6], [3, 5, 6, 2, 4, 1]]
+Leaderboarder:  [[1, 20], [2, 17], [3, 17], [4, 17], [5, 20], [6, 14]]
+Turns:  500
+
+Running file Borda_341
+===================
+Voted for:  [[2, 3, 5, 4, 1, 6], [1, 4, 5, 6, 3, 2], [6, 3, 1, 4, 2, 5], [2, 4, 5, 6, 1, 3], [2, 5, 1, 6, 4, 3], [3, 5, 6, 4, 1, 2]]
+Leaderboarder:  [[1, 20], [2, 22], [3, 20], [4, 21], [5, 23], [6, 20]]
+Turns:  500
+
+Running file Borda_342
+===================
+Got equilibrium at turn:  10
+Voted for:  [[6, 3, 2, 4, 5, 1], [6, 2, 3, 1, 5, 4], [4, 1, 5, 3, 2, 6], [4, 6, 5, 3, 2, 1], [5, 1, 6, 3, 4, 2], [4, 1, 6, 2, 5, 3], [4, 1, 2, 5, 3, 6]]
+Leaderboarder:  [[1, 25], [2, 21], [3, 21], [4, 30], [5, 23], [6, 27]]
+
+Running file Borda_343
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 4, 1, 2, 5], [2, 1, 5, 4, 3], [2, 5, 3, 4, 1], [5, 2, 1, 3, 4], [4, 1, 2, 3, 5]]
+Leaderboarder:  [[1, 15], [2, 19], [3, 13], [4, 14], [5, 14]]
+
+Running file Borda_344
+===================
+Got equilibrium at turn:  15
+Voted for:  [[1, 4, 3, 2, 6, 5, 7], [7, 3, 2, 5, 6, 4, 1], [7, 1, 5, 6, 4, 2, 3], [7, 3, 6, 1, 4, 2, 5], [4, 2, 6, 7, 1, 3, 5]]
+Leaderboarder:  [[1, 21], [2, 19], [3, 20], [4, 21], [5, 13], [6, 20], [7, 26]]
+
+Running file Borda_345
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 4, 2, 1, 5], [3, 1, 4, 2, 5], [2, 3, 4, 5, 1], [2, 4, 1, 5, 3], [2, 5, 1, 4, 3], [4, 2, 3, 5, 1]]
+Leaderboarder:  [[1, 14], [2, 24], [3, 19], [4, 21], [5, 12]]
+
+Running file Borda_346
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 2, 5, 3, 4], [1, 3, 4, 2, 5], [4, 3, 2, 1, 5], [1, 5, 2, 4, 3], [4, 1, 3, 2, 5], [4, 2, 1, 3, 5]]
+Leaderboarder:  [[1, 24], [2, 18], [3, 16], [4, 21], [5, 11]]
+
+Running file Borda_347
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 2, 1, 5, 4], [4, 2, 3, 5, 1], [1, 5, 2, 4, 3], [2, 5, 3, 4, 1], [4, 2, 3, 1, 5], [3, 2, 5, 1, 4], [1, 4, 2, 5, 3], [1, 3, 2, 4, 5]]
+Leaderboarder:  [[1, 24], [2, 30], [3, 25], [4, 22], [5, 19]]
+
+Running file Borda_348
+===================
+Voted for:  [[1, 4, 5, 3, 7, 6, 2], [2, 6, 3, 7, 5, 4, 1], [1, 5, 7, 6, 4, 2, 3], [6, 2, 7, 5, 4, 3, 1], [2, 1, 7, 3, 4, 5, 6], [6, 7, 1, 2, 5, 3, 4]]
+Leaderboarder:  [[1, 27], [2, 27], [3, 18], [4, 18], [5, 23], [6, 27], [7, 28]]
+Turns:  500
+
+Running file Borda_349
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 5, 2, 4, 3], [3, 4, 5, 2, 1], [4, 2, 3, 5, 1], [4, 5, 2, 1, 3], [1, 5, 3, 2, 4], [5, 2, 3, 4, 1], [1, 3, 5, 2, 4]]
+Leaderboarder:  [[1, 20], [2, 20], [3, 20], [4, 20], [5, 25]]
+
+Running file Borda_350
+===================
+Voted for:  [[3, 1, 6, 4, 7, 2, 5], [6, 7, 4, 1, 2, 5, 3], [5, 3, 4, 1, 6, 2, 7], [7, 2, 3, 5, 1, 6, 4], [5, 6, 3, 2, 1, 4, 7], [2, 4, 7, 5, 6, 1, 3]]
+Leaderboarder:  [[1, 22], [2, 24], [3, 25], [4, 23], [5, 25], [6, 26], [7, 23]]
+Turns:  500
+
+Running file Borda_351
+===================
+Voted for:  [[2, 1, 3, 4, 5], [5, 2, 3, 1, 4], [3, 4, 5, 1, 2], [1, 3, 5, 4, 2], [4, 5, 1, 3, 2], [2, 5, 4, 1, 3], [4, 2, 3, 1, 5]]
+Leaderboarder:  [[1, 20], [2, 21], [3, 21], [4, 22], [5, 21]]
+Turns:  500
+
+Running file Borda_352
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 4, 2, 1, 5], [4, 3, 2, 5, 1], [3, 2, 1, 5, 4], [3, 1, 5, 4, 2], [2, 4, 5, 3, 1]]
+Leaderboarder:  [[1, 11], [2, 16], [3, 21], [4, 16], [5, 11]]
+
+Running file Borda_353
+===================
+Voted for:  [[7, 6, 5, 3, 4, 2, 1], [4, 1, 2, 3, 5, 6, 7], [1, 2, 7, 6, 5, 4, 3], [7, 3, 2, 6, 5, 4, 1], [4, 2, 7, 5, 6, 3, 1], [1, 5, 6, 7, 4, 2, 3], [1, 4, 2, 3, 7, 6, 5], [3, 4, 5, 7, 1, 2, 6]]
+Leaderboarder:  [[1, 33], [2, 33], [3, 29], [4, 36], [5, 30], [6, 27], [7, 36]]
+Turns:  500
+
+Running file Borda_354
+===================
+Voted for:  [[5, 2, 3, 7, 6, 1, 4], [6, 4, 1, 3, 2, 7, 5], [7, 3, 5, 4, 2, 6, 1], [7, 1, 2, 6, 4, 3, 5], [5, 6, 4, 1, 3, 2, 7]]
+Leaderboarder:  [[1, 18], [2, 19], [3, 20], [4, 19], [5, 21], [6, 22], [7, 21]]
+Turns:  500
+
+Running file Borda_355
+===================
+Got equilibrium at turn:  1
+Voted for:  [[3, 5, 2, 1, 4], [3, 1, 4, 2, 5], [5, 2, 4, 1, 3], [1, 2, 4, 5, 3], [3, 4, 5, 2, 1], [2, 4, 3, 5, 1], [2, 1, 4, 5, 3]]
+Leaderboarder:  [[1, 19], [2, 25], [3, 21], [4, 21], [5, 19]]
+
+Running file Borda_356
+===================
+Got equilibrium at turn:  1
+Voted for:  [[1, 5, 3, 6, 2, 4], [1, 4, 2, 5, 6, 3], [4, 3, 1, 5, 6, 2], [1, 5, 4, 3, 2, 6], [2, 6, 3, 1, 5, 4], [6, 4, 1, 5, 2, 3], [1, 2, 5, 6, 3, 4]]
+Leaderboarder:  [[1, 35], [2, 22], [3, 20], [4, 23], [5, 25], [6, 22]]
+
+Running file Borda_357
+===================
+Got equilibrium at turn:  2
+Voted for:  [[5, 4, 1, 2, 3], [4, 1, 3, 2, 5], [3, 1, 2, 5, 4], [1, 5, 2, 4, 3], [5, 2, 1, 3, 4], [3, 5, 2, 1, 4], [4, 3, 1, 2, 5]]
+Leaderboarder:  [[1, 24], [2, 19], [3, 21], [4, 19], [5, 22]]
+
+Running file Borda_358
+===================
+Got equilibrium at turn:  1
+Voted for:  [[6, 2, 1, 3, 5, 4], [6, 5, 3, 4, 1, 2], [6, 3, 4, 5, 2, 1], [5, 4, 6, 2, 1, 3], [6, 1, 4, 3, 5, 2]]
+Leaderboarder:  [[1, 14], [2, 12], [3, 16], [4, 17], [5, 18], [6, 28]]
+
+Running file Borda_359
+===================
+Voted for:  [[3, 7, 1, 6, 4, 5, 2], [2, 5, 4, 6, 3, 1, 7], [1, 7, 4, 3, 5, 6, 2], [2, 5, 6, 7, 3, 1, 4], [2, 7, 1, 6, 5, 3, 4], [3, 7, 6, 1, 5, 4, 2], [2, 3, 6, 4, 5, 1, 7]]
+Leaderboarder:  [[1, 27], [2, 31], [3, 32], [4, 21], [5, 26], [6, 29], [7, 30]]
+Turns:  500
+
+Running file Borda_360
+===================
+Voted for:  [[2, 4, 6, 5, 3, 1], [3, 1, 4, 6, 5, 2], [1, 3, 4, 5, 2, 6], [5, 6, 2, 3, 4, 1], [2, 5, 6, 3, 4, 1], [1, 3, 4, 6, 2, 5], [5, 6, 2, 1, 4, 3]]
+Leaderboarder:  [[1, 23], [2, 25], [3, 25], [4, 23], [5, 26], [6, 25]]
+Turns:  500
+Percentage of equilibrium convergence:  54.166666666666664
+Average turns for equilibrium:  7.476923076923077
+>>> 
