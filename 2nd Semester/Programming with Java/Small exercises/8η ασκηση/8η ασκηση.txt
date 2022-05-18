@@ -1,0 +1,8 @@
+α) Για τη διορθωση του κωδικα επρεπε να αλλαξουμε :
+	- το public double myMethod(int num1, int num2) se public double myMethod(double num1, double num2)
+	- το void disp(int a, double b) σε void disp(double a, double b) 
+β) Method C
+γ) Method A
+δ) Method A
+ε) Method C
+στ) Method B

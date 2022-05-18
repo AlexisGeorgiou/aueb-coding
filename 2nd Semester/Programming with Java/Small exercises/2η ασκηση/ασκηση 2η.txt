@@ -1,0 +1,11 @@
+α) myObject1.printX();  // Value of x : 5
+β) myObject1.incrementCount(); // καμια εξοδος, αυξανει το count κατα ενα 
+γ) MyClass.incrementCount(); // error αφου δεν εχει το προθεμα static για να μπορει να κληθει με αυτον τον τροπο
+δ) myObject1.printCount(); // Value of count : 1
+ε) myObject2.printCount(); // Value of count : 1
+στ) myObject2.printX(); // Value of x : 7
+ζ) myObject1.setX(14); // error αφου δεν υπαρχει η μεθοδος setX
+η) myObject1.incrementCount(); // καμια εξοδος, αυξανει το count κατα ενα
+θ) myObject1.printX(); // Value of x : 5
+ι) myObject1.printCount(); // Value of count : 2
+κ) myObject2.printCount(); // Value of count : 2

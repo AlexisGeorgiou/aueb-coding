@@ -1,0 +1,12 @@
+RENTAL_LIST
+{
+	RENTAL
+	{
+		ITEM_TYPE movie
+		SUB_TYPE DVD
+		TITLE "Avengers"
+		NAME "Giorgos Kalos"
+		DATE " 23 January 2019"
+		CODE 2000
+	}
+}

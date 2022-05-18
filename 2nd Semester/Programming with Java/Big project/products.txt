@@ -1,0 +1,11 @@
+ITEM_LIST
+{
+	ITEM
+	{
+		ITEM_TYPE movie
+		SUB_TYPE DVD
+		TITLE "Avengers"
+		YEAR "2019"
+		CATEGORY "fantasy"
+	}
+}

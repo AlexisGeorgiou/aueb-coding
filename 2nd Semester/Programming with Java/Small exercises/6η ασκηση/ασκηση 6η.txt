@@ -1,0 +1,10 @@
+α) Αρχικα στο System.out.println("Employee Name: " + name); υπαρχει ενα 
+  σφαλμα αφου το name δεν ειναι μεταβλητη στιγμιοτυπου , για να ειναι σωστο πρεπει 
+  να το αλλαξουμε με το System.out.println("Employee Name: " + employeeName);
+  
+β) Πρωτα καλειται το  Employee() μετα καλειται το  Employee(String name)
+  μετα καλειται το  Employee(String name, int salary) και τελος 
+  καλειται το  Employee(String name, int salary, String address).
+  
+γ) Το this που ειναι περιττο ειναι αυτο που χρησιμοποιειται στο
+  this.employeeName=name; αφου το employeeName ειναι διαφορετικο σαν ονομα απο το name. 
