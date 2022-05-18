@@ -1,0 +1,4 @@
+
+/*A*/
+CREATE INDEX idx_moviesA
+ON movies(title, pyear)

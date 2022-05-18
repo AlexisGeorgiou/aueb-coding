@@ -1,0 +1,160 @@
+--1.1
+CREATE TABLE campdata
+(
+custID integer,
+fname varchar(30),
+lname varchar(30),
+cID integer,
+country varchar(30),
+bookID integer,
+bookDate date,
+campCode char(3),
+campName Varchar(50),
+empno integer,
+catCode char(1),
+category varchar(20),
+unitCost numeric(4,2),
+startDate date, 
+overnights integer,
+persons integer
+);
+
+
+BULK INSERT campdata
+FROM 'C:\Users\Alexis\Desktop\sxediasmos ergasies\2 project\CAMPDATA.TXT' -- Προσαρμόστε το path
+WITH (FIRSTROW =2, FIELDTERMINATOR='|', ROWTERMINATOR = '\n');
+
+
+--1.2
+
+-- Diamension Table "customers"
+create table customers
+(custID integer primary key,  
+ cID  integer, 
+ country  varchar(30), 
+ fname varchar(30),
+ lname varchar(30)
+); 
+
+insert into customers select distinct custID, cID, country, fname, lname from campdata group by custID, cID, country, fname, lname
+
+
+
+-- Diamension Table "camps"
+create table camps
+(campCode char(3) primary key, 
+ campName Varchar(50),
+ );
+
+insert into camps select distinct campCode, campName from campdata
+
+
+
+-- Diamension Table "timeinfo" 
+create table timeinfo
+(time_key date primary key,
+ t_year int,
+ t_month int,
+ t_dayofmonth int
+ ); 
+
+set datefirst 1;
+insert into timeinfo select distinct startDate, datepart(year, startDate), datepart(month, startDate), datepart(day,startDate)
+ from campdata order by startDate
+
+ 
+-- Fact Table "bookings"
+create table bookings
+( 
+	bookID integer,
+	unitCost numeric(4,2),
+	overnights integer,
+	persons integer,
+	catCode char(1),
+	category varchar(20),
+	custID integer, 
+	campCode char(3),
+	startDate date,
+	bookDate date,
+	empno integer
+	
+ primary key(bookID,campCode,catCode, empno, startDate),
+ foreign key (custID) references customers(custID), 
+ foreign key (startDate) references timeinfo(time_key), 
+ foreign key (campCode) references camps(campCode)
+ );
+
+INSERT INTO bookings
+SELECT  bookID, unitCost, overnights, persons, catCode, category, custID,  campCode, startDate, bookDate, empno
+FROM campdata
+
+
+
+
+--2.1
+SELECT TOP 100 bookings.custID, country, fname, lname, sum(unitCost*persons * overnights) as total_revenue
+FROM bookings, customers
+WHERE bookings.custID = customers.custID
+GROUP BY bookings.custID, country, fname, lname
+ORDER BY total_revenue DESC
+
+--2.2
+SELECT campName, category, sum(unitCost*persons * overnights) as total_bookings_value
+FROM bookings, camps, timeinfo
+WHERE bookings.campCode = camps.campCode and  timeinfo.time_key = bookings.startDate and timeinfo.t_year = 2000
+GROUP BY campName, category
+ORDER BY total_bookings_value DESC
+
+--2.3
+SELECT camps.campName, timeinfo.t_month, sum(unitCost*persons * overnights) as total_revenue
+FROM bookings, timeinfo, camps
+WHERE bookings.startDate = timeinfo.time_key AND bookings.campCode = camps.campCode and timeinfo.t_year = 2018
+GROUP BY camps.campName, timeinfo.t_month
+ORDER BY camps.campName;
+
+--2.4
+SELECT t_year, campName, category, SUM(persons) as number_of_renters
+FROM timeinfo, camps, bookings
+WHERE timeinfo.time_key=bookings.startDate and camps.campCode=bookings.campCode
+GROUP BY ROLLUP (t_year, campName, category) 
+
+--2.5
+/*CREATE VIEW campRenters AS
+SELECT t_year, campName, SUM(persons) as number_of_renters
+FROM timeinfo, camps, bookings
+WHERE timeinfo.time_key=bookings.startDate and camps.campCode=bookings.campCode and (timeinfo.t_year = 2017 or timeinfo.t_year = 2018)
+GROUP BY campName, t_year*/
+-- View for 2017 renters of every camp
+CREATE VIEW campRenters2017 AS
+SELECT t_year, campName, SUM(persons) as number_of_renters
+FROM timeinfo, camps, bookings
+WHERE timeinfo.time_key=bookings.startDate and camps.campCode=bookings.campCode and timeinfo.t_year = 2017
+GROUP BY campName, t_year
+-- View for 2018 renters of every camp
+CREATE VIEW campRenters2018 AS
+SELECT t_year, campName, SUM(persons) as number_of_renters
+FROM timeinfo, camps, bookings
+WHERE timeinfo.time_key=bookings.startDate and camps.campCode=bookings.campCode and timeinfo.t_year = 2018 
+GROUP BY campName, t_year
+-- Comparison Query between the two views
+SELECT campRenters2018.campName
+FROM campRenters2017, campRenters2018
+WHERE campRenters2018.campName = campRenters2017.campName and campRenters2018.number_of_renters > campRenters2017.number_of_renters
+GROUP BY campRenters2018.campName
+
+
+--3
+SELECT t_year, campName, category, AVG(unitCost) as average_unit_cost
+FROM timeinfo, camps, bookings
+WHERE timeinfo.time_key=bookings.startDate and camps.campCode=bookings.campCode
+GROUP BY CUBE (t_year, campName, category)
+ORDER BY campName
+
+GROUP BY NONE
+GROUP BY category
+GROUP BY campName
+GROUP BY t_year
+GROUP BY campName, category
+GROUP BY t_year, category
+GROUP BY t_year, campName
+GROUP BY t_year, campName, category

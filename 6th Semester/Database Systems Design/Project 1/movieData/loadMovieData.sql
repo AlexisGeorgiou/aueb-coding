@@ -1,0 +1,2 @@
+checkpoint
+dbcc dropcleanbuffers
