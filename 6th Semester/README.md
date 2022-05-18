@@ -10,6 +10,6 @@ Decision and Game Theory: probabilities, Decision problem, Decision trees, Bayes
 Distributed Systems: non-centralized systems, the client-server model. Event ordering and mutual
 exclusion, deadlocks and more. Had to do one distributed system of a tiktok like application with a group of classmates. We had to make the server transmit informaiton between clients and build a UI on Android Studio.
 
-Database Systems Design:
+Database Systems Design: Disks, Indexing, Hashing, Multi dimensions indices, queries, statistics in databases, histograms, sorting, joins, query optimizations, datewarehousing, transactaions. Had to do 2 exercises related to the theory of the course and 2 projects. On the projects I had to construct a database using SQL, optimizations, indexes.
 
 Software Engineering: Requirements, Use cases, UML diagrams, Domain Modeling, Sequence diagrams, Use case analysis, requirements specifications, architecture, design, junit testing, patterns and construction. Had to deliver 4 exercises related to software analysis and some coding in Java.
