@@ -3,6 +3,6 @@ Had to answer complex related questions in 2 sets of exercises. Create algorithm
 
 Automata and Complexity: Alphabets, strings, languages, Turing machines (deterministic, non-deterministic and their equivalence), halting problem and more. Had to hand in small hand-written exercises.
 
-Databases:
+Databases: AWS, Constraints/Triggers, Design, ER Model, Indexing/IO, Hashing, Sorting, Relational Model, Transcations, SQL
 
 Operating Systems:
