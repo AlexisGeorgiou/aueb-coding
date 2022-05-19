@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="el">
+    <head>
+        <title>Gnosis</title>
+        <link rel="shortcut icon" type="image/jpg" href="images/Gnosis.png"/>
+
+        <meta charset="utf-8">
+        <meta name="description" content="Sign-in form page">
+        <meta name="keywords" content="Online learning, Gnosis, Sign-in, Form">
+        <meta name="author" content="co-authored by Giorgos Mavroudis, Alexis Georgiou">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href="style.css" rel="stylesheet">
+
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Comforter&family=EB+Garamond:ital@1&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Alegreya+SC&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+        </style>
+        
+        <!-- Include Handlebars from a CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+        <!-- Js scripts -->
+        <script src="modules.js"></script>
+        <script src="register.js"></script>
+
+
+    </head>
+
+    <body id = "signInFormBody" class="gridlayout">
+        <header>
+            <a id= "page_logo" href="index.html"><img src="images/Gnosis.png" width="54" height="66" alt="gnosis_logo"></a>
+            <p id ="logo_text">Gnosis</p>
+        </header>
+
+
+        <main class="container">
+            <div id = "formDiv">
+                <h2>Φόρμα Εγγραφής</h2>
+                <form id = "form" class="list-style">
+                    <fieldset>
+                        <!-- Προσωπικά Στοιχεία: -->
+                        <legend>Προσωπικά Στοιχεία:</legend>
+
+                        <!-- Όνομα -->
+                        <label for="fname">Όνομα</label><br>
+                        <input type="text" id="fname" name="fname"  required><br><br>
+
+                        <!-- Επίθετο -->
+                        <label for="lname">Επίθετο</label><br>
+                        <input type="text" id="lname" name="lname" required><br><br>
+                        
+                        <!-- Διεύθυνση -->
+                        <label for="address">Διεύθυνση</label><br>
+                        <input type="text" id="address" name="address" autocomplete="address-level1" required><br><br>
+
+                        <!-- Τηλέφωνο -->
+                        <label for="tel">Τηλέφωνο</label><br>
+                        <input type="tel" id="tel" name="tel" required><br><br>
+                    
+                        <!-- Μορφωτικό επίπεδο -->
+                        <label for="morfotikoepipedo">Μορφωτικό επίπεδο:</label>
+                        <select id="morfotikoepipedo" name="morfotikoepipedo" required>
+                            <option selected disabled hidden>Επιλέξτε μορφωτικό επίπεδο</option>
+                            <option>1. Μεταπτυχιακό</option>
+                            <option>2. Πτυχίο ΑΕΙ</option>
+                            <option>3. Πτυχίο ΤΕΙ (ΚΑΤΕ, ΚΑΤΕΕ)</option>
+                            <option>4. Πτυχίο Ανωτέρας Σχολής</option>
+                            <option>5. Φοιτητές σε ΑΕΙ, ΤΕΙ, Ανώτερες Σχολές</option>
+                            <option>6. Απολυτήριο Γενικού Λυκείου/ Εξαταξίου Γυµνασίου/ Επαγγελµατικού Λυκείου</option>
+                            <option>7. Πτυχίο ΤΕΛ</option>
+                            <option>8. Πτυχίο ΤΕΣ</option>
+                            <option>9. Απολυτήριο τριταξίου Γυµνασίου</option>
+                            <option>10. Εγκατέλειψε το Γυµνάσιο</option>
+                            <option>11. Απολυτήριο ∆ηµοτικού</option>
+                            <option>12. ∆εν τελείωσε το ∆ηµοτικό αλλά γνωρίζει γραφή και ανάγνωση</option>
+                            <option>13. ∆εν τελείωσε το ∆ηµοτικό και δε γνωρίζει γραφή και ανάγνωση</option>
+                            <option>14. ∆ε φοίτησε στο ∆ηµοτικό και δε γνωρίζει γραφή και ανάγνωση</option>
+                        </select><br>   
+
+                    </fieldset>
+                    
+                    <fieldset>
+                        <!-- Στοιχεία Πρόσβασης -->
+                        <legend>Στοιχεία Πρόσβασης</legend>
+
+                        <!-- Email -->
+                        <label for="email">Email</label><br>
+                        <input type="email" id="email" name="email" autocomplete="email" placeholder="abc@aueb.gr" required><br><br>
+
+                        <!-- Password -->
+                        <label for="pwd">Password</label><br>
+                        <input type="password" id="pwd" name="pwd" minlength="8" pattern = "^(?=.*[A-Za-z])(?=.*\d)(?=.*[!@#$%^&*])[A-Za-z\d!@#$%^&*]{8,}$" required title="Τουλάχιστον 8 χαρακτήρες, τουλάχιστον 1 γράμμα, τουλάχιστον 1 αριθμό και τουλάχιστον 1 από τους ειδικούς χαρακτήρες !@#$%^&*"><br><br>
+
+                        <!-- Confirm Password -->
+                        <label for="confpwd">Confirm Password</label><br>
+                        <input type="password" id="confpwd" name="confpwd" minlength="8" pattern = "^(?=.*[A-Za-z])(?=.*\d)(?=.*[!@#$%^&*])[A-Za-z\d!@#$%^&*]{8,}$" required> <br><br>
+                    </fieldset>
+
+                    <!-- Check box -->
+                    <input type="checkbox" id="terms-conditions" name="terms-conditions" value="accept" required>Διάβασα και αποδέχομαι τους όρους χρήσης<br>
+
+                    <!-- Register button -->
+                    <input id = "submit-button" class = "centeredInput" type = "submit" value="Register">
+                    
+                </form>
+                </div>
+                <div id = "successfullRegisterMessage" class = "hidden" class = "centeredInput">
+                    <p>Επιτυχής εγγραφή. Πατήστε εδώ για να επιστρέψετε στην <a href="index.html">αρχική σελίδα</a>.
+                    </p>
+                </div>
+        </main>
+        <footer>
+            <img id = "footerLogo" src = "images/footerLogo.png" alt= "footer logo">
+            <p>Contact us @ support@gnosis.gr</p>
+            <p>© Copyright 2021</p>
+            <section> 
+                <a href="https://www.facebook.com/auebgreece" target="_blank" role="button"><img class="social_media" src="images/fbColored.png" alt="fb logo" width="30" height="30"></a>  
+                <a href="https://www.instagram.com/aueb.gr/" target="_blank" role="button"><img class="social_media" src="images/InstaColored.png" alt="insta logo" width="30" height="30"></a>  
+                <a href="https://www.youtube.com/channel/UCPncunqp3bMuAHHeCikhalg" target="_blank" role="button"><img class="social_media" src="images/ytColored.png" alt="youtube logo" width="30" height="30"></a>  
+            </section>
+        </footer>
+    </body>
+</html>

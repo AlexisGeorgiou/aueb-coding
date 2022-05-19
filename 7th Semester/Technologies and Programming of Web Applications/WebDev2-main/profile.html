@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="el">
+    <head>
+        <title>Gnosis</title>
+        <link rel="shortcut icon" type="image/jpg" href="images/Gnosis.png"/>
+
+        <meta charset="utf-8">
+        <meta name="description" content="Sign-in form page">
+        <meta name="keywords" content="Online learning, Gnosis, Sign-in, Form">
+        <meta name="author" content="co-authored by Giorgos Mavroudis, Alexis Georgiou">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href="style.css" rel="stylesheet">
+
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Comforter&family=EB+Garamond:ital@1&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Alegreya+SC&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+        </style>
+
+        <!-- Include Handlebars from a CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+        <script src="modules.js"></script>
+        <script src="profile.js"></script>
+
+
+    </head>
+
+    <body id = "signInFormBody" class="gridlayout">
+        <header>
+            <a id= "page_logo" href="index.html"><img src="images/Gnosis.png" width="54" height="66" alt="gnosis_logo"></a>
+            <p id ="logo_text">Gnosis</p>
+        </header>
+
+
+        <main class="container">
+            <div id = "formDiv">
+                <h2>Φόρμα Ταυτοποίησης</h2>
+                <form id = "form" class="list-style">
+
+                    <fieldset>
+                        <!-- Στοιχεία Πρόσβασης -->
+                        <legend>Στοιχεία Πρόσβασης</legend>
+
+                        <!-- Email -->
+                        <label for="email">Email</label><br>
+                        <input type="email" id="email" name="email" autocomplete="email" placeholder="abc@aueb.gr" required><br><br>
+
+                        <!-- Password -->
+                        <label for="pwd">Password</label><br>
+                        <input type="password" id="pwd" name="pwd" required><br><br>
+
+                    </fieldset>
+                    <!-- Register button -->
+                    <input id = "submit-button" class = "centeredInput" type = "submit" value="Login">
+                    
+                </form>
+                </div>
+                <div id = "successfullLoginMessage" class = "hidden" class="txt-style">
+                    <!--                     
+                    <h2>Στοιχεία χρήστη</h2>
+                    <p>Όνομα: {{fname}}</p>
+                    <p>Επίθετο: {{lname}}</p>
+                    <p>Διεύθυνση: {{address}}</p>
+                    <p>Τηλέφωνο: {{tel}}</p>
+                    <p>Μορφωτικό επίπεδο: {{morfotikoepipedo}}</p>
+                    <p>Email: {{email}}</p> 
+                    -->
+                </div>
+        </main>
+        <footer>
+            <img id = "footerLogo" src = "images/footerLogo.png" alt= "footer logo">
+            <p>Contact us @ support@gnosis.gr</p>
+            <p>© Copyright 2021</p>
+            <section> 
+                <a href="https://www.facebook.com/auebgreece" target="_blank" role="button"><img class="social_media" src="images/fbColored.png" alt="fb logo" width="30" height="30"></a>  
+                <a href="https://www.instagram.com/aueb.gr/" target="_blank" role="button"><img class="social_media" src="images/InstaColored.png" alt="insta logo" width="30" height="30"></a>  
+                <a href="https://www.youtube.com/channel/UCPncunqp3bMuAHHeCikhalg" target="_blank" role="button"><img class="social_media" src="images/ytColored.png" alt="youtube logo" width="30" height="30"></a>  
+            </section>
+        </footer>
+    </body>
+</html>
