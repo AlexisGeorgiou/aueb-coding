@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="el">
+    <head>
+        <title>Gnosis</title>
+        <link rel="shortcut icon" type="image/jpg" href="images/Gnosis.png"/>
+
+        <meta charset="utf-8">
+        <meta name="description" content="Description of our courses for maths">
+        <meta name="keywords" content="Online learning, Gnosis, maths, statistics, discrete maths, probability">
+        <meta name="author" content="co-authored by Giorgos Mavroudis, Alexis Georgiou">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href="style.css" rel="stylesheet">
+
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Comforter&family=EB+Garamond:ital@1&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Alegreya+SC&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+        </style>
+
+        <!-- Include Handlebars from a CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+        <!-- Js scripts -->
+        <script src="modules.js"></script>
+        <script src="courses.js"></script>
+    </head>
+
+    <body id = "coursesBody" class = "gridlayout">
+        <header>
+            <a id= "page_logo" href="index.html"><img src="images/Gnosis.png" width="54" height="66" alt="gnosis_logo"></a>
+            <p id ="logo_text">Gnosis</p>
+            <button id="h-btnregister" onclick="window.location.href='register.html';">Εγγραφή</button>
+            <button id="h-btnlogin" onclick="window.location.href='profile.html';">Σύνδεση</button>
+        </header>
+
+        <main id = "coursesMain">
+            <section id = "indexDynamicLessons" class = "hidden">
+                <!-- <article class="txt-style">
+                    <h3>Αναλυτική Κειμένων με Python 3 για Εφαρμογές Μάρκετινγκ</h3> 
+                    <img src="text-minig-python.jpg" alt="intro_opp" width="400" height="200">
+                    <section>
+                        <h4>Γενικές πληροφορίες</h4>
+                        <p>
+                            ο πρόγραμμα εστιάζει στην επεξεργασία δεδομένων κειμένου (text data), χρησιμοποιώντας παραδείγματα και δεδομένα από τον ευρύτερο χώρο του Μάρκετινγκ. Χαρακτηριστικά παραδείγματα δεδομένων text είναι οι κριτικές πελατών και ειδικών (customer and expert reviews), τα σχόλια των χρηστών σε πλατφόρμες κοινωνικής δικτύωσης (social media posts), blogs, άρθρα σε πλατφόρμες ενημέρωσης (news articles) και οι περιγραφές προϊόντων σε ιστοσελίδες ηλεκτρονικού εμπορίου. Η ύλη του προγράμματος καλύπτει όλα τα στάδια της διαδικασίας που πρέπει να ολοκληρώσει καποιος που επιθυμεί να δουλέψει με δεδομένα κειμένου: συλλογή από τον παγκόσμιο ιστό (web scraping), προετοιμασία (clearing and parsing) και ανάλυση. 
+                        </p>
+                    </section>
+                    <section>
+                        <h4>Στόχοι</h4>
+                        <p>
+                            Μέσα από το μάθημα, οι εκπαιδευόμενοι θα αποκτήσουν τις απαραίτητες γνώσεις πάνω στη γλώσσα προγραμματισμού Python και θα μάθουν πως να χρησιμοποιούν την Python για να λύσουν πρακτικά προβλήματα σχετικά με δεδομένα κειμένου, όπως επεξεργασία συναισθημάτων (sentiment analysis), κατηγοριοποίηση (classification), μοντελοποίηση θεμάτων (topic modeling), δημιουργία περιλήψεων (summarization), και επεξεργασία οντοτήτων (entity extraction and disambiguation)."
+                        </p>
+                    </section>
+                </article> -->
+                
+                <!-- description: "ο πρόγραμμα εστιάζει στην επεξεργασία δεδομένων κειμένου (text data), χρησιμοποιώντας παραδείγματα και δεδομένα από τον ευρύτερο χώρο του Μάρκετινγκ. Χαρακτηριστικά παραδείγματα δεδομένων text είναι οι κριτικές πελατών και ειδικών (customer and expert reviews), τα σχόλια των χρηστών σε πλατφόρμες κοινωνικής δικτύωσης (social media posts), blogs, άρθρα σε πλατφόρμες ενημέρωσης (news articles) και οι περιγραφές προϊόντων σε ιστοσελίδες ηλεκτρονικού εμπορίου. Η ύλη του προγράμματος καλύπτει όλα τα στάδια της διαδικασίας που πρέπει να ολοκληρώσει καποιος που επιθυμεί να δουλέψει με δεδομένα κειμένου: συλλογή από τον παγκόσμιο ιστό (web scraping), προετοιμασία (clearing and parsing) και ανάλυση. "
+                img: "text-minig-python.jpg"
+                objectives: "Μέσα από το μάθημα, οι εκπαιδευόμενοι θα αποκτήσουν τις απαραίτητες γνώσεις πάνω στη γλώσσα προγραμματισμού Python και θα μάθουν πως να χρησιμοποιούν την Python για να λύσουν πρακτικά προβλήματα σχετικά με δεδομένα κειμένου, όπως επεξεργασία συναισθημάτων (sentiment analysis), κατηγοριοποίηση (classification), μοντελοποίηση θεμάτων (topic modeling), δημιουργία περιλήψεων (summarization), και επεξεργασία οντοτήτων (entity extraction and disambiguation)."
+                title: "Αναλυτική Κειμένων με Python 3 για Εφαρμογές Μάρκετινγκ" -->
+            </section>
+        </main>
+
+        <footer>
+            <img id = "footerLogo" src = "images/footerLogo.png" alt= "footer logo">
+            <p>Contact us @ support@gnosis.gr</p>
+            <p>© Copyright 2021</p>
+            <section> 
+                <a href="https://www.facebook.com/auebgreece" target="_blank" role="button"><img class="social_media" src="images/fbColored.png" alt="fb logo" width="30" height="30"></a>  
+                <a href="https://www.instagram.com/aueb.gr/" target="_blank" role="button"><img class="social_media" src="images/InstaColored.png" alt="insta logo" width="30" height="30"></a>  
+                <a href="https://www.youtube.com/channel/UCPncunqp3bMuAHHeCikhalg" target="_blank" role="button"><img class="social_media" src="images/ytColored.png" alt="youtube logo" width="30" height="30"></a>  
+            </section>
+        </footer>
+    </body>
+</html>
