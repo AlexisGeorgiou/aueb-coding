@@ -1,0 +1,460 @@
+/* χρωμα στο πισω μερος ολης της οθονης*/
+body{
+    background-color:rgb(239, 239, 239);
+}
+
+
+/* Header */
+/* ρυθμισεις για το header*/
+header{
+    border-bottom: thin solid red;
+    width: 100%;
+}
+
+/*εικόνα κεφαλίδας*/
+header > a > img{
+    float: left;
+    position: relative;
+    left: 30px;
+    top: 10px; 
+}
+
+/* Κείμενο "Gnosis" */
+#logo_text{
+    color:red;
+    text-indent: 37px;
+    font-size: 30px;
+    font-family: 'Monotype Corsiva';
+}
+/*κουμπί κεφαλίδας(εγγραφής)*/
+#h-btn{
+    background-color: white;
+    cursor: pointer;
+    border-radius: 15px;
+    float: right;
+    position: relative;
+    right: 30px;
+    bottom: 50px;
+    padding: 5px 15px;
+}
+
+#h-btn:hover{
+    background-color: violet;
+    cursor: pointer;
+}
+
+#h-btn:active{
+    background-color: lightgreen;
+    cursor: pointer;
+}
+
+
+
+
+/* Nav menu */
+/*χρώμα και τοποθέτηση στο κέντρο για τα στοιχεία του nav menu*/
+nav{
+    background-color:lightblue;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 30rem;
+
+}
+
+/*χρώμα, padding και περιγραμμα για τα references μέσα στο nav*/
+nav a{
+    background-color:blue;
+    padding: 10px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+/*χρώματα για κάθε κατάσταση των references μεσα στο nav*/
+#nav-item a:link{
+    color: white;
+}
+
+#nav-item a:visited{
+    color: lightskyblue;
+}
+
+#nav-item a:hover{
+    color: red;
+}
+
+#nav-item a:active{
+    color: purple;
+}
+
+#nav-item > #activePage{
+    color: white;
+}
+
+#nav-item > #activePage:visited{
+    color: white;
+}
+
+/* main */
+/*χρωμα για το main*/
+main{
+    background-color: rgb(3, 155, 243);
+    margin-bottom: 10px;
+    padding-bottom: 3px;
+}
+
+/*χρώμα για τα article του main*/
+main article{
+    background-color: lightblue;
+    padding-bottom: 5px;
+    margin: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* width: 1000rem; */
+}
+
+/*χρώμα για τα section του main*/
+main section{
+    background-color: lightskyblue;
+    margin: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+/*χρώμα για τις unordered λιστες του main*/
+main ul{
+    background-color: lightseagreen;
+    /*display: inline-block;*/
+    padding: 5px 20px;
+    margin: 10px;
+    list-style-type: square;
+}
+
+/*χρώμα για τις ordered λιστες του main*/
+main ol{
+    background-color: lightseagreen;
+    /*display: inline-block;*/
+    padding: 5px 20px;
+    margin: 10px;
+}
+
+/*χρώμα για την φόρμα επικοινωνίας και χρώμα για περίγραμμα.
+το display χρησιμοποιείται για να μας δείχνει την φόρμα σε 
+στυλ κουτιού και τα margin για να την τοποθετήσουμε στο κέντρο*/
+main form{
+    background-color: teal;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    display:inline-block;
+    width: 50%;
+    margin-left:25%;
+    margin-bottom: 10px;
+}
+
+/*απόσταση μεταξύ των στοιχείων της φόρμας και του περιγράμματος*/
+#form-items{
+    padding: 10px;
+}
+
+/*style για το κουμπί της υποβολής και του κουμπιού στην index 
+της άσκησης(χρησιμοποιείται id="btn" στα κατάλληλα σημεία)*/
+#btn{
+    background-color: lightblue;
+    outline-style: none;
+    cursor: pointer;
+    border-radius: 5px;
+    position: relative;
+    left: 40%;
+
+}
+
+#btn:hover{
+    background-color: lightcoral;
+    cursor: pointer;
+}
+#btn:active{
+    background-color: lightgreen;
+    cursor: pointer;
+}
+
+/*χρώμα για όλα τα references και τις καταστάσεις τους(εκτός από
+αυτά στο nav)*/
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: rgb(54, 54, 104);
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: purple;
+}
+
+/*Image settings excluding avatar images on about_us.html*/
+main img:not(.avatar){
+    max-width: 20rem;
+    max-height: 10em;
+    border: solid 1px #aaa;
+    box-shadow: 0 0 0 4px #eee, 0 0 0 5px #aaa;
+
+    float: center;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* Avatar images settings */
+.avatar{
+    float: left;
+    position: relative;
+    bottom: 10px;
+    padding-right: 20px;
+    padding-left: 5px;
+}
+
+
+/*style για κάθε διαφορετικό τύπο(h1-h4)*/
+h1{
+    font-size: 50px;
+    /*font-family:Arial, Helvetica, sans-serif;*/
+    font-family: 'Alegreya SC', serif;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+h2{
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    background-color: rgb(159, 86, 228);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: lessonsFont;
+    src: url(OpenSansCondensed-Bold.ttf);
+    font-size: large;
+  }
+h3{
+    font-size: 20px;
+    font-family: lessonsFont;
+    /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    text-align: center;
+    /* text-decoration: underline;
+    font-style: italic; */
+    font-weight: normal;
+}
+
+h4{
+    font-size: 15px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;
+    font-style: italic;
+}
+
+
+
+/* κλάση μορφοποίησης κειμένου που θα χρησιμοποιηθεί σε όλα τα κείμενα*/
+/* Το "κουτι" καθε ενοτητας του κυριου περιεχομενου (μαθημα/θεματικη ενοτητα)*/
+.txt-style{
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Comforter', cursive;
+    font-family: 'EB Garamond', serif;
+    font-style: normal;
+    padding: 1rem;
+    max-width: 50em;    /* Μεγιστο πλατος για να μην εχουμε κουτια που πιεζουν αλλα στην ιδια γραμμη */
+}
+
+
+
+/* Avatar txt style to exclude the max-width rule */
+.avatar-txt-style{
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Comforter', cursive;
+    font-family: 'EB Garamond', serif;
+    font-style: normal;
+    padding: 1rem;
+}
+/*κλάση για στυλ κειμένου για όλες τις αριθμημένες λίστες.
+Χρησιμοποιήθηκε και για την φόρμα ερωτήσεων/σχολίων*/
+.list-style{
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Alegreya SC', serif;
+}
+
+/*κλάση για στυλ κειμένου για όλες τις μη αριθμημένες λίστες*/
+.ulist-style{
+    text-align: left;
+    font-size: 10px;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 20px;
+}
+
+
+/* Footer */
+/*χρωματα για το footer και τα στοιχεία εντος του*/
+body > footer{
+    background-color: rgb(245, 195, 195);
+    width: 100%;
+    padding-top: 5px;
+    border-top: thin solid red; 
+
+}
+/*social media section*/
+body > footer > section{
+    padding-left: 90%;
+}
+/*εικόνες footer*/
+body > footer img{
+    float: right;
+    position: relative;
+    right: 50%;
+    top: -75px;
+    padding-left: 5px;
+    padding-right:10px;
+}
+@font-face {
+    font-family: footerFont;
+    src: url(AmaticSC-Bold.ttf);
+    font-size: large;
+  }
+
+body > footer > p{
+    font-family: footerFont;
+    font-size: 20px;
+}
+
+body > footer{
+    text-align: left;
+    font-size: 15px;
+    padding-left: 5px;
+    padding-bottom: 20px;
+}
+body > footer > a{
+    text-transform: uppercase;
+    display: flex; 
+    justify-content: center; 
+}
+
+/*Footer Social media image filtering and hover effect*/
+/*turns the image into black*/
+.social_media{
+    filter: grayscale(100%);
+    filter: brightness(0);
+}
+/*turns the image back to normal*/
+.social_media:hover{
+    filter:grayscale(0%);
+}
+#footerLogo{
+    float: center;
+    position: relative;
+    right: 47.5%;
+    top: 20%;
+    padding-left: 0px;
+    padding-right:0px;
+    max-height: 5rem;
+    width: auto;
+}
+
+
+
+
+
+/* CSS Grid Layout */
+/* <body> is the grid */
+.gridlayout{
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+    
+    grid-gap: 0px 10px;
+}
+.gridlayout > header {
+    grid-column-start: 1;
+    grid-column-end: end;
+  }
+.gridlayout > nav {
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+
+.gridlayout > main {
+    grid-column-start: 2;
+    grid-column-end: end;
+  } 
+
+.gridlayout > footer {
+    grid-column-start: 1;
+    grid-column-end: end;
+  }
+
+/*index layout without nav bar*/
+#indexGridLayout > main{
+    grid-row-start: 2;
+    grid-column-start: 1;
+    grid-column-end: end;
+
+}
+
+/* CSS Flexible Box Layout Module (Flexbox) */
+/* <main> flexbox*/
+.flex-container {
+    display:flex;
+    flex-direction: column;
+}
+
+.flex-container1{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    flex-grow: 100;
+    flex-shrink: 3;
+    flex-basis: 1em;
+}
+
+
+.flex-item1 {
+    padding: 10px;
+    flex: 20%;
+}
+  
+.flex-item2 {
+    padding: 10px;
+    flex: 40%;
+}
+
+.flex-item3{
+    padding: 10px;
+    flex: 40%;
+}
+
+#indexFlexContainer > section{
+    flex: 10%;
+}
+
+
+/* <nav> flexbox*/
+  /*.gridlayout > nav {
+      display: flex;
+      flex-wrap: wrap;
+  }*/
