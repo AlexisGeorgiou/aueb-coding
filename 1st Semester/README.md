@@ -1,9 +1,21 @@
-Introduction to Computer Science: Theory of CS, had to implement two mini projects (a python exercise and a simple web development one). There was also a theoretical exercise where I had to research on 9 topics of computer science with 2 classmates.
+## Introduction to Computer Science: 
+Theory of basic Computer Science, 
 
-Introduction to Programming: Basic concepts of programming, had to implement various python exercises.
+#### Projects: 
+Had to implement two mini projects (a python exercise and a simple web development one). There was also a theoretical exercise in which we had to research on 9 topics of computer science with 2 classmates.
 
-Introduction to Economic Theory: Basic theory of economics.
+## Introduction to Programming: 
+Basic concepts of programming in python.
+#### Projects: 
+Had to implement various python exercises.
 
-Discrete Mathematics: Sets, Combinatorial, Graph Theory and more
+## Introduction to Economic Theory: 
+Basic theory of economics.
 
-Mathematics 1: Calculus theory and more, completed hand-written math exercices every week.
+## Discrete Mathematics: 
+Sets, Combinatorial, Graph Theory and more
+
+## Mathematics 1: 
+Calculus theory and more
+#### Projects:
+Completed hand-written math exercices every week.
