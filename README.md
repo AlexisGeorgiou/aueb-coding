@@ -14,7 +14,7 @@ As an undergraduate student I always chose electives from the below modules:
 ###### > Module 1: _"Databases and Knowledge Management"_ 
 ###### > Module 2: _"Applied Mathematics and Scientific Computing"_
 
-So except from basic Computer Science, you will find courses mostly related to Machine Learning, Artificial Intelligence, Statistics, Mathematics, Databases, Theoretical Computer Science, Web development and more.
+So apart from basic Computer Science, you will find courses mostly related to Machine Learning, Artificial Intelligence, Statistics, Mathematics, Databases, Theoretical Computer Science, Web development and more.
 
 ## Significant programming courses:
 
