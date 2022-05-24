@@ -1,6 +1,5 @@
-In this repository, you can find all the projects that were assigned
-during my AUEB Computer Science bachelor degree.
+In this repository, you can find all the projects that I worked on during my AUEB Computer Science bachelor degree.
 
-Not every course in the program had coding assignments. I have a brief description of each course I passed every semester.
+I have a brief description of each course I passed every semester. Not every course in the program had coding assignments. 
 
-I studied a variety of courses in the program and I prefered to choose database, machine learning and math related courses mainly as electives.
+At the last years of my study, I prefered to choose electives from "Databases and Knowledge Management" and "Applied Mathematics and Scientific Computing" modules, which include courses like Machine Learning, Artificial Intelligence, Statistics, Mathematics, Databases, Theoretical Computer Science, Web development and more.
