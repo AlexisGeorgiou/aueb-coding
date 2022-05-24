@@ -1,1 +1,1 @@
-There is nothing on the 8th semester because I finished my studies earlier. I chose more courses in the previous semesters than I had to. 
+There is nothing on the 8th semester because I finished my studies earlier. I chose more courses in the previous semesters than I was supposed to. 
