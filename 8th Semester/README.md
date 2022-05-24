@@ -1,1 +1,1 @@
-I chose more elective courses in the 3rd year of my studies and finished my studies, so I did not have any courses after 7th semester.
+There is nothing on the 8th semester because I finished my studies earlier. I chose more courses in the previous semesters than I had to. 
