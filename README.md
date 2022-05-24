@@ -9,7 +9,7 @@ In this repository, you can find all the projects that I worked on during my [AU
 
 
 ## What courses will I find here?
-As an undergraduate student I always chose electives from the below modules:
+As an undergraduate student I mostly chose electives from the below modules:
 
 ###### > Module 1: _"Databases and Knowledge Management"_ 
 ###### > Module 2: _"Applied Mathematics and Scientific Computing"_
