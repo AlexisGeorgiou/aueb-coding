@@ -1,3 +1,5 @@
+!https://www.aueb.gr/press/logos/1_AUEB-pantone-LR.jpg
+
 > In this repository, you can find all the projects that I worked on during my AUEB Computer Science bachelor degree.
 
 I have a brief description of each course in each semester. Not every course had coding assignments. 
