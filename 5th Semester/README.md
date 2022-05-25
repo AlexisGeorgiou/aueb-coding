@@ -1,8 +1,8 @@
 ## Information Systems Analysis and Design: 
 IS development lifecycle, organizational processes, requirements analysis, modelling functions (SADT, IDEF0, DFD, decision tables and trees), modeling data
-(E-R diagrams), introduction to UML. IS architectures, quality assurance, project management. Case studies and more. 
+(E-R diagrams), introduction to UML. IS architectures, quality assurance, project management. Case studies and more.
 #### Projects: 
-Had to deliver exercises every week.
+Had to deliver exercises every week related to the subject. Most of them required diagrams and I used draw.io
  
 ## Communication Networks: Key concepts and principles of communication networks. Network hardware and software, reference models, review of existing
 networks. Physical layer, Data link layer, Network layer, TCP/IP protocol family, Internet addresses and subnetting, control protocols, routing algorithms, Transport layer and more.
@@ -10,7 +10,7 @@ networks. Physical layer, Data link layer, Network layer, TCP/IP protocol family
 Had to deliver exercises in Wireshark.
 
 ## Logic: 
-Theoretical course in mathematics behind logic.
+Theoretical course in mathematical area of logic.
  
 ## Statistics in Informatics:
 Single variable, Producing data, inference, estimators, regression, anova, maximum likelihood and more. 
@@ -22,5 +22,6 @@ Turing test, Problem-solving by search: breadth/depth-first, A*, hill climbing, 
 linear regression, gradient descent, logistic regression, Perceptron, neural networks, back-propagation and more.
 #### Projects: 
 Had to do two big group projects.
-In the first project we had to create an othello game and make an AI opponent, we used Java for this.
-In the second project we had to implement 3 AI algorithms, (Bayes, ID3, logistic regression). We had train data for negative and positive reviews and we had to categorize the test data reviews.
+**Project 1:** We had to create the othello game and make an AI opponent, we used Java for this. Implemented Board and Move classes and a Gameplayer class for the AI, used the MiniMax algorithm for the AI player.
+
+**Project 2:** We had to implement 3 AI algorithms from scratch, (Bayes, ID3, logistic regression). We were given train data for negative and positive reviews and we had to read them, train the model and categorize the test data reviews in the same categories. Then we extracted statistics for each algorithm and parameter (created related diagrams) to see what works best.
