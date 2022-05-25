@@ -1,15 +1,15 @@
 ## Technologies and Programming of Web Applications: 
 Web applications,client programming, browser programming. HTML, XML, CSS, XSL, Javascript. Object-Oriented Javascript, Event-driven programming, Asynchronous communication via AJAX, Client-server interaction technologies, REST Model and more.
 #### Projects: 
-The project was making a website with HTML/CSS/JS that is connected to an API and provides data of various courses (edx clone, e-learning). The user can log-in and register and register for a course.
+Had to make an e-learning website that is connected to an API and provides data of various courses. The user can interact with the back-end by log-in, register and register for a course. Used HTML, CSS, Javascript for this project. Used express and node.js for the implemantation of the server. Implemented Client JS and fetching data from API, also inserting fetched data in the page dynamically.
 
 ## Machine Learning: 
 General learning techniques with supervised and unsupervised learning. Cross-validation, Sampling and bootstrapping. Introduction to probabilistic modeling and statistical learning techniques, Linear regression and classification models, Nonlinear regression, nearest neighbors and Bayes'
 theorem, Κernel methods and support vector machines, Data clustering and the k-means algorithm and more.
 #### Projects: 
-Had to deliver one project that uses machine learning techniques to provide a prediction for bitcoin price based on the price last five years. We use various techniques like linear or logistic regression and we also use cross validation and scalers.
+Had to use machine learning techniques to provide a prediction for bitcoin price based on its price last five years. We used various techniques like linear/logistic regression and Neural Network. We used normalization, scalers, cross validation and extracted statistics for each technique.   
 
 ## Social Network Analysis: 
 Graph theory, matrices, sparsity and density, centralities, degrees, communities, triadic closure, bridges, algorithms, hubs, pagerank, epidemic model, betweenness and more. Had to analyze a social network of my choice and all the statistics behind it. 
 #### Projects: 
-The project is about yugioh cards and meta-decks as a network. Used Python and Gephi network analysis software.
+Had to create a network and analyze it with most of the techniques I learned in the class. Used Python libraries and Gephi network analysis software. Fetched edges and nodes from the internet. The network is consisted of cards and a connection between the cards in a popular game.
