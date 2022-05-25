@@ -17,7 +17,8 @@ As an undergraduate student I mostly chose electives from the below modules:
 So apart from basic Computer Science, you will find courses mostly related to Machine Learning, Artificial Intelligence, Statistics, Mathematics, Databases, Theoretical Computer Science, Web development and more.
 
 ## More info:
-###### Some of the projects were made with the help of my colleagues as part of a group project. The names are written on each file project.
 ###### You can find the full curriculum and the syllabus of each course [here](https://www.dept.aueb.gr/sites/default/files/cs/CS_Manuals/CS_StudiesGuide2021-22_EN.pdf).
+###### Some of the reports are written in greek but most times the code and its comments are in english.
+###### Some of the projects were made with the help of my colleagues as part of a group project. The names are written on project reports.
 ###### Not every course I passed is posted here, I tried to post only the most related to Computer Science.
 ###### There is nothing on the 8th semester because I finished my studies earlier.
