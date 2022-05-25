@@ -7,7 +7,7 @@ Had to make an e-learning website that is connected to an API and provides data 
 General learning techniques with supervised and unsupervised learning. Cross-validation, Sampling and bootstrapping. Introduction to probabilistic modeling and statistical learning techniques, Linear regression and classification models, Nonlinear regression, nearest neighbors and Bayes'
 theorem, Κernel methods and support vector machines, Data clustering and the k-means algorithm and more.
 #### Projects: 
-Had to use machine learning techniques to provide a prediction for bitcoin price based on its price last five years. We used various techniques like linear/logistic regression and Neural Network. We used normalization, scalers, cross validation and extracted statistics for each technique.   
+Used machine learning techniques to provide a prediction for bitcoin price based on its price last five years. We used various techniques like linear/logistic regression and Neural Network. Also used normalization, scalers, cross validation and extracted statistics for each technique.   
 
 ## Social Network Analysis: 
 Graph theory, matrices, sparsity and density, centralities, degrees, communities, triadic closure, bridges, algorithms, hubs, pagerank, epidemic model, betweenness and more. Had to analyze a social network of my choice and all the statistics behind it. 
