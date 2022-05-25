@@ -1,7 +1,8 @@
-Had to do two assignemnts for this course.
+## Programming with Java: 
+Learned about Java basic concepts.
+#### Projects:
+Implemented programming exercices and a big project about a video-club rental system with 2 of my classmates.
 
-First one was completing 9 small exercises with Java. We had to either complete code or explain what happens.
+**Programming exercises**: 9 small exercises with Java. We had to either complete code or explain what happens in it.
 
-Second one was a bigger project. We had to make a rental system of movies/dvd/games for a videoclub.
-
-I worked both with the help of 2 classmates.
+**Big project**: We had to make a rental system of movies/dvd/games for a videoclub. Creating and managing available items file and renting file.
